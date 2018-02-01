@@ -792,6 +792,7 @@ fieldset[disabled] .s-btn {
 .s-promo-block-v2 {
   position: relative;
   z-index: 1;
+  height:500px;
 }
 
 .s-promo-block-v2:before {
@@ -1140,7 +1141,10 @@ fieldset[disabled] .s-btn {
   width: 100%;
   height: auto;
   display: table;
-  padding: .75rem 1.875rem;
+  padding-top:5px;
+  padding-bottom:0px;
+  padding-left:25px;
+  padding-right:20px;
 }
 
 .s-header__container:before, .s-header__container:after {
@@ -1613,7 +1617,7 @@ fieldset[disabled] .s-btn {
 }
 
 .s-header__shrink .s-header__navbar {
-  background: #fff;
+  background: rgba(255, 255, 255, 0.81);
 }
 
 .s-header__shrink .s-header__logo-img-default {
@@ -2372,4 +2376,34 @@ fieldset[disabled] .s-btn {
 
 .s-swiper__pagination-v1--dark .swiper-pagination-bullet-active {
   background: #ff0000;
+}
+
+
+.js__parallax-window{
+  background: linear-gradient(140deg, rgba(152, 119, 234, 0.7) 15%, #ff0000 100%),url(../img/1920x1080/03.jpg) fixed;
+  background-size: contain;
+  background-repeat: repeat;
+  width:100%;
+  margin:0;
+  padding:20px 0px;
+  text-align:center;
+  height:auto;
+}
+
+#cordinator{
+  width:100%;
+  padding:0px 0px;
+  height:auto;
+  position:relative;
+}
+
+#newform{
+  position:relative;
+  z-index:1;
+  top:0;
+  margin-right:auto;
+  margin-left:auto;
+  width:80%;
+
+
 }
