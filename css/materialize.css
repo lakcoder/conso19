@@ -2323,7 +2323,6 @@ nav ul a span.badge {
 
 .container {
   margin: 0 auto;
-  max-width: 1280px;
   width: 100%;
 }
 
@@ -3513,7 +3512,8 @@ nav ul a span.badge {
 }
 
 .tabs .tab a {
-  color: #fff;
+  background-color: transparent;
+  color:#000;
   display: block;
   width: 100%;
   height: 100%;
@@ -3533,7 +3533,7 @@ nav ul a span.badge {
 }
 .tabs .tab a:hover, .tabs .tab a.active {
   background-color: transparent;
-  color: rgb(208, 216, 220);
+  color:#ff0000;
 }
 
 .tabs .tab.disabled a,
@@ -3546,7 +3546,7 @@ nav ul a span.badge {
   position: absolute;
   bottom: 0;
   height: 2px;
-  background-color: #272b2f;
+  background: linear-gradient(140deg, rgba(152, 119, 234, 0.7) 15%, #ff0000 100%);
   will-change: left, right;
 }
 
