@@ -47,7 +47,7 @@
         <div class="s-promo-block-v3 g-bg-position--center g-fullheight--sm" style="background: url('img/1920x1080/ceo-landing.jpg');">
             <div class="container g-ver-center--sm g-padding-y-125--xs g-padding-y-0--sm">
                 <div class="g-margin-t-30--xs g-margin-t-0--sm g-margin-b-30--xs g-margin-b-70--md">
-                    <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-50--lg g-color--white">The New York<br>Event. Megakit.</h1>
+                    <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-50--lg g-color--white">CEO</h1><br><h2 class="g-color--white-opacity-light">Business and revolution.</h2>
                 </div>
                 <div class="row">
                     <div class="col-sm-8 col-sm-push-4 g-margin-b-50--xs g-margin-b-0--md">
@@ -55,19 +55,20 @@
                         <div class="row">
                             <div class="col-sm-6 g-margin-b-30--xs g-margin-b-0--md">
                                 <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".4s">
-                                    <p class="g-font-size-18--xs g-color--white-opacity">The time has come to bring those ideas and plans to life. This is where we really begin to visualize your napkin sketches and make them into beautiful pixels.</p>
+                                    <p class="g-font-size-18--xs g-color--white-opacity">Putting you on the spot of showing just how deeply you understand the ethics
+                                                                                        and finer lines of your environment with respect to business, power, ethic and revolution.</p>
                                 </div>
                             </div>
                             <div class="col-sm-5 col-sm-offset-1">
                                 <div class="clearfix">
                                     <div class="pull-left">
                                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
-                                            <span class="s-promo-block-v3__date g-font-size-100--xs g-font-size-135--lg g-font-weight--300 g-color--primary">21</span>
+                                            <span class="s-promo-block-v3__date g-font-size-100--xs g-font-size-135--lg g-font-weight--300 g-color--primary">1<span class="g-font-size-20--xs g-font-size-30--lg">Lac</span></span>
                                         </div>
                                     </div>
                                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
-                                        <span class="s-promo-block-v3__month g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white-opacity-light">Dec</span>
-                                        <span class="s-promo-block-v3__year g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white-opacity-light">2016</span>
+                                        <span class="s-promo-block-v3__month g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white-opacity-light">Prize Money</span>
+                                        <span class="s-promo-block-v3__year g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white-opacity-light">And more!</span>
                                     </div>
                                 </div>
                             </div>
@@ -75,9 +76,9 @@
                     </div>
                     <div class="col-sm-4 col-sm-pull-8">
                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".5s">
-                            <a class="js__popup__youtube" href="https://www.youtube.com/watch?v=lcFYdgZKZxY" title="Intro Video">
-                                <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>
-                                <span class="text-uppercase g-font-size-13--xs g-color--white g-padding-x-15--xs">Watch the Overview</span>
+                            <a class="js__popup__youtube" href="#newform" title="Intro Video">
+                                <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-arrow-down"></i>
+                                <span class="text-uppercase g-font-size-13--xs g-color--white g-padding-x-15--xs">Register</span>
                             </a>
                         </div>
                     </div>
@@ -113,8 +114,8 @@
                         <div>
                             CEO comprises participants divided into 2 groups with the following rounds:
                             <div>
-                                <h4>Group A - Students from classes 6-10</h4>
-                                    <h5>Round 1: Questionnaire</h5>
+                                <h6>Group A - Students from classes 6-10</h6>
+                                    <h6>Round 1: Questionnaire</h6>
                                     <ul>
                                         <li>
                                             A written preliminary round with a majority of objective questions.
@@ -125,14 +126,14 @@
                                             The test will be conducted offline in the respective schools.
                                         </li>
                                     </ul>
-                                    <h5>Round 2: Group Discussion</h5>
+                                    <h6>Round 2: Group Discussion</h6>
                                     <ul>
                                         <li>
                                             Selected candidates will participate in a group discussion
                                             on relevant topics related to entrepreneurship.
                                         </li>
                                     </ul>
-                                    <h5>Round 3: Pitching Round</h5>
+                                    <h6>Round 3: Pitching Round</h6>
                                     <ul>
                                         <li>
                                             Finalists have to present allotted products based on fictitious ideas in front of a judging panel.
@@ -141,8 +142,8 @@
                             </div>
 
                             <div>
-                                <h4>Group B – Undergraduate Students</h4>
-                                    <h5>Round 1: Questionnaire</h5>
+                                <h6>Group B – Undergraduate Students</h6>
+                                    <h6>Round 1: Questionnaire</h6>
                                     <ul>
                                         <li>
                                             A written preliminary round with a majority of subjective questions.
@@ -152,13 +153,13 @@
                                              The test will be conducted offline.
                                         </li>
                                     </ul>
-                                    <h5>Round 2: Group Discussion</h5>
+                                    <h6>Round 2: Group Discussion</h6>
                                     <ul>
                                         <li>
                                             Selected candidates will participate in a group discussion on a wide range of topics relevant in today’s world.
                                         </li>
                                     </ul>
-                                    <h5>Round 3: Pitching Round</h5>
+                                    <h6>Round 3: Pitching Round</h6>
                                     <ul>
                                         <li>
                                             Finalists have to pitch the product selected randomly in front of a judging panel.
@@ -167,7 +168,7 @@
                             </div>
 
                             <br>
-                            <h4>TIMELINE</h4>
+                            <h6>TIMELINE</h6>
                             <ul type="none">
                                 <li>
                                     <b>January 26 ’18 :</b> February 22 ’18: Offline questionnaire round for Group A and Group B.
@@ -183,7 +184,7 @@
     		    	</div>
     		    	<div id="bizmantra5">
     			     	<p>
-    			     	    <h4>Why CEO?</h4>
+    			     	    <h6>Why CEO?</h6>
     					</p>
     					<ul>
     					    <li>Attractive prizes for top 3 positions and certificates for all participants.</li>
@@ -195,7 +196,7 @@
     					    <li>A chance to network with like-minded people and gain positive exposure.</li>
     					</ul>
     					<br>
-    					<h4>How to Participate?</h4>
+    					<h6>How to Participate?</h6>
     					<p>The key step in order to participate is to take the CEO test which will be conducted soon in schools and colleges across Nagpur.
     					    If you would like the test to be conducted in your school or college, kindly contact us by phone with the necessary details.</p>
     				</div>
@@ -205,59 +206,44 @@
         </div>
         <!-- End Features -->
 
-        <!-- Upcoming Event -->
+        <!-- Coordinators -->
         <div class="container js__parallax-window">
-
-                <div class="" id="cordinator">
-                    <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md g-color--white">Event Managers</h2>
-                    <div class="row">
-                    <div class="col m4 s12 g-margin-b-20--xs" id="cordinator-person">
-                        <img src="https://scontent-bom1-1.cdninstagram.com/vp/bf4bed8f1a33caf457fd4557a34de4b8/5B193839/t51.2885-15/s640x640/sh0.08/e35/25013689_385954648505090_5107817748285620224_n.jpg"/>
-                        <div class="cordinator-detail">
-                            <span class="g-font-size-30--xs g-font-weight--400 g-color--white">Sagar</span>
-                            <p class="g-font-size-20--xs g-color--white g-margin-b-40--xs">Contact:123345566 </p>
-                        </div>
-                    </div>
-                    <div class="col m4 s12 g-margin-b-20--xs" id="cordinator-person">
-                        <img src="https://scontent-bom1-1.cdninstagram.com/vp/e43115afa56908829451b668575db16b/5B1894F1/t51.2885-15/s640x640/sh0.08/e35/19761469_118640545415592_3341066308077748224_n.jpg"/>
-                        <div class="cordinator-detail">
-                            <span class="g-font-size-30--xs g-font-weight--400 g-color--white">Asi</span>
-                            <p class="g-font-size-20--xs g-color--white g-margin-b-40--xs">Contact:1cdvd5566 </p>
-                        </div>
-                    </div>
-
-
-
-
-
-                    </div>
-
-                </div>
-                <div id="newform">
-                    <form class="g-bg-color--dark-light g-padding-x-50--xs g-padding-y-80--xs g-radius--4">
-                        <div class="g-text-center--xs g-margin-b-40--xs">
-                            <h2 class="g-font-size-30--xs g-color--white">Join Event</h2>
-                        </div>
-                        <div class="g-margin-b-40--xs">
-                            <input type="text" class="form-control s-form-v3__input" placeholder="* Name">
-                        </div>
-                        <div class="g-margin-b-40--xs">
-                            <input type="email" class="form-control s-form-v3__input" placeholder="* Email">
-                        </div>
-                        <div class="g-margin-b-40--xs">
-                            <input type="text" class="form-control s-form-v3__input" placeholder="* Phone">
-                        </div>
-                        <div class="g-text-center--xs">
-                            <button type="submit" class="text-uppercase btn-block s-btn s-btn--md s-btn--white-bg g-radius--50 g-padding-x-50--xs g-margin-b-20--xs">Join Now</button>
-                        </div>
-                    </form>
-                </div>
-
+            <div class="" id="cordinator">
+                <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-40--md g-color--white">Event Managers</h2>
+                <ol>
+                    <li class=" g-color--white">
+                        <h6 class="g-color--white g-font-size-20--md">Sagar</h6>
+                        <p class=" g-color--white">897913358</p>
+                        <p class=" g-color--white">dwdef@dfe.com</p>
+                    </li>
+                    <li class="g-color--white">
+                        <h6 class="g-color--white g-font-size-20--md">Saar</h6>
+                        <p class="g-color--white">3979142208</p>
+                        <p class=" g-color--white">sag.sw@e.com</p>
+                    </li>
+                </ol>
             </div>
-
-
+            <div id="newform">
+                <form class="g-bg-color--dark-light g-padding-x-50--xs g-padding-y-80--xs g-radius--4">
+                    <div class="g-text-center--xs g-margin-b-40--xs">
+                        <h2 class="g-font-size-30--xs g-color--white">Join Event</h2>
+                    </div>
+                    <div class="g-margin-b-40--xs">
+                        <input type="text" class="form-control s-form-v3__input" placeholder="* Name">
+                    </div>
+                    <div class="g-margin-b-40--xs">
+                        <input type="email" class="form-control s-form-v3__input" placeholder="* Email">
+                    </div>
+                    <div class="g-margin-b-40--xs">
+                        <input type="text" class="form-control s-form-v3__input" placeholder="* Phone">
+                    </div>
+                    <div class="g-text-center--xs">
+                        <button type="submit" class="text-uppercase btn-block s-btn s-btn--md s-btn--white-bg g-radius--50 g-padding-x-50--xs g-margin-b-20--xs">Join Now</button>
+                    </div>
+                </form>
+            </div>
         </div>
-        <!-- End Upcoming Event -->
+        <!-- End Coordinator -->
 
 
 

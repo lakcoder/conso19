@@ -48,7 +48,7 @@ var MagnificPopup = function() {
       });
     });
 
-    // Video iframes
+    // Video
     $(document).ready(function() {
       $('.js__popup__youtube, .js__popup__vimeo').magnificPopup({
         disableOn: 700,

@@ -62,12 +62,12 @@
                                 <div class="clearfix">
                                     <div class="pull-left">
                                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
-                                            <span class="s-promo-block-v3__date g-font-size-100--xs g-font-size-135--lg g-font-weight--300 g-color--primary">21</span>
+                                            <span class="s-promo-block-v3__date g-font-size-100--xs g-font-size-135--lg g-font-weight--300 g-color--primary">1<span class="g-font-size-20--xs g-font-size-30--lg">Lac</span></span>
                                         </div>
                                     </div>
                                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
-                                        <span class="s-promo-block-v3__month g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white-opacity-light">Dec</span>
-                                        <span class="s-promo-block-v3__year g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white-opacity-light">2016</span>
+                                        <span class="s-promo-block-v3__month g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white-opacity-light">Prize Money</span>
+                                        <span class="s-promo-block-v3__year g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white-opacity-light">And more!</span>
                                     </div>
                                 </div>
                             </div>
@@ -76,8 +76,8 @@
                     <div class="col-sm-4 col-sm-pull-8">
                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".5s">
                             <a class="js__popup__youtube" href="#newform" title="Intro Video">
-                                <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>
-                                <span class="text-uppercase g-font-size-13--xs g-color--white g-padding-x-15--xs">Register Now!</span>
+                                <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-arrow-down"></i>
+                                <span class="text-uppercase g-font-size-13--xs g-color--white g-padding-x-15--xs">Register</span>
                             </a>
                         </div>
                     </div>
@@ -128,61 +128,44 @@
         </div>
         <!-- End Features -->
 
-        <!-- Upcoming Event -->
+        <!-- Coordinators -->
         <div class="container js__parallax-window">
-
-                <div class="" id="cordinator">
-                    <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md g-color--white">Event Managers</h2>
-                    <div class="row">
-                    <div class="col m4 s12 g-margin-b-20--xs" id="cordinator-person">
-                        <img src="https://scontent-bom1-1.cdninstagram.com/vp/bf4bed8f1a33caf457fd4557a34de4b8/5B193839/t51.2885-15/s640x640/sh0.08/e35/25013689_385954648505090_5107817748285620224_n.jpg"/>
-                        <div class="cordinator-detail">
-                            <span class="g-font-size-30--xs g-font-weight--400 g-color--white">Prashant</span>
-                            <p class="g-font-size-20--xs g-color--white g-margin-b-40--xs">+917057856961</p>
-                        </div>
-                    </div>
-                    <div class="col m4 s12 g-margin-b-20--xs" id="cordinator-person">
-                        <img src="https://scontent-bom1-1.cdninstagram.com/vp/e43115afa56908829451b668575db16b/5B1894F1/t51.2885-15/s640x640/sh0.08/e35/19761469_118640545415592_3341066308077748224_n.jpg"/>
-                        <div class="cordinator-detail">
-                            <span class="g-font-size-30--xs g-font-weight--400 g-color--white">Ayush</span>
-                            <p class="g-font-size-20--xs g-color--white g-margin-b-40--xs">+919423539984 </p>
-                        </div>
-                    </div>
-
-
-
-
-
-                    </div>
-
-                </div>
-                <div id="newform">
-                    <form class="g-bg-color--dark-light g-padding-x-50--xs g-padding-y-80--xs g-radius--4">
-                        <div class="g-text-center--xs g-margin-b-40--xs">
-                            <h2 class="g-font-size-30--xs g-color--white">Register Here!</h2>
-                        </div>
-                        <div class="g-margin-b-40--xs">
-                            <input type="text" class="form-control s-form-v3__input" placeholder="* Name">
-                        </div>
-                        <div class="g-margin-b-40--xs">
-                            <input type="email" class="form-control s-form-v3__input" placeholder="* Email">
-                        </div>
-                        <div class="g-margin-b-40--xs">
-                            <input type="text" class="form-control s-form-v3__input" placeholder="* Phone">
-                        </div>
-                        <div class="g-text-center--xs">
-                            <button type="submit" class="text-uppercase btn-block s-btn s-btn--md s-btn--white-bg g-radius--50 g-padding-x-50--xs g-margin-b-20--xs">Join Now</button>
-                        </div>
-                    </form>
-                </div>
-
+            <div class="" id="cordinator">
+                <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-40--md g-color--white">Event Managers</h2>
+                <ol>
+                    <li class=" g-color--white">
+                        <h6 class="g-color--white g-font-size-20--md">Sagar</h6>
+                        <p class=" g-color--white">897913358</p>
+                        <p class=" g-color--white">dwdef@dfe.com</p>
+                    </li>
+                    <li class="g-color--white">
+                        <h6 class="g-color--white g-font-size-20--md">Saar</h6>
+                        <p class="g-color--white">3979142208</p>
+                        <p class=" g-color--white">sag.sw@e.com</p>
+                    </li>
+                </ol>
             </div>
-
-
+            <div id="newform">
+                <form class="g-bg-color--dark-light g-padding-x-50--xs g-padding-y-80--xs g-radius--4">
+                    <div class="g-text-center--xs g-margin-b-40--xs">
+                        <h2 class="g-font-size-30--xs g-color--white">Join Event</h2>
+                    </div>
+                    <div class="g-margin-b-40--xs">
+                        <input type="text" class="form-control s-form-v3__input" placeholder="* Name">
+                    </div>
+                    <div class="g-margin-b-40--xs">
+                        <input type="email" class="form-control s-form-v3__input" placeholder="* Email">
+                    </div>
+                    <div class="g-margin-b-40--xs">
+                        <input type="text" class="form-control s-form-v3__input" placeholder="* Phone">
+                    </div>
+                    <div class="g-text-center--xs">
+                        <button type="submit" class="text-uppercase btn-block s-btn s-btn--md s-btn--white-bg g-radius--50 g-padding-x-50--xs g-margin-b-20--xs">Join Now</button>
+                    </div>
+                </form>
+            </div>
         </div>
-        <!-- End Upcoming Event -->
-
-
+        <!-- End Coordinator -->
 
 
         <!--========== END PAGE CONTENT ==========-->

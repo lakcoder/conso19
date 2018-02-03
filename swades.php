@@ -62,12 +62,12 @@
                                 <div class="clearfix">
                                     <div class="pull-left">
                                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
-                                            <span class="s-promo-block-v3__date g-font-size-100--xs g-font-size-135--lg g-font-weight--300 g-color--primary">21</span>
+                                            <span class="s-promo-block-v3__date g-font-size-100--xs g-font-size-135--lg g-font-weight--300 g-color--primary">1<span class="g-font-size-20--xs g-font-size-30--lg">Lac</span></span>
                                         </div>
                                     </div>
                                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
-                                        <span class="s-promo-block-v3__month g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white-opacity-light">Dec</span>
-                                        <span class="s-promo-block-v3__year g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white-opacity-light">2016</span>
+                                        <span class="s-promo-block-v3__month g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white-opacity-light">Prize Money</span>
+                                        <span class="s-promo-block-v3__year g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white-opacity-light">And more!</span>
                                     </div>
                                 </div>
                             </div>
@@ -75,9 +75,9 @@
                     </div>
                     <div class="col-sm-4 col-sm-pull-8">
                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".5s">
-                            <a class="js__popup__youtube" href="https://www.youtube.com/watch?v=lcFYdgZKZxY" title="Intro Video">
-                                <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>
-                                <span class="text-uppercase g-font-size-13--xs g-color--white g-padding-x-15--xs">Watch the Overview</span>
+                            <a href="#newform" title="Register">
+                                <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-arrow-down"></i>
+                                <span class="text-uppercase g-font-size-13--xs g-color--white g-padding-x-15--xs">Register Now!</span>
                             </a>
                         </div>
                     </div>
@@ -145,66 +145,44 @@
         </div>
         <!-- End Features -->
 
-        <!-- Upcoming Event -->
+        <!-- Coordinators -->
         <div class="container js__parallax-window">
-
-                <div class="" id="cordinator">
-                    <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md g-color--white">Event Managers</h2>
-                    <div class="row">
-                    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 g-margin-b-20--xs" id="cordinator-person">
-                        <img src="img/managers/aman.jpg"/>
-                        <div class="cordinator-detail">
-                            <span class="g-font-size-16--xs g-font-size-24--md g-font-weight--400 g-color--white">Aman</span>
-                            <p class="g-font-size-20--xs g-color--white g-margin-b-40--xs"></p>
-                        </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 g-margin-b-20--xs" id="cordinator-person">
-                        <img src="img/managers/tushar.jpg"/>
-                        <div class="cordinator-detail">
-                            <span class="g-font-size-16--xs g-font-size-24--md g-font-weight--400 g-color--white">Tushar</span>
-                            <p class="g-font-size-20--xs g-color--white g-margin-b-40--xs"></p>
-                        </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 g-margin-b-20--xs" id="cordinator-person">
-                        <img src="img/managers/sub.jpg"/>
-                        <div class="cordinator-detail">
-                            <span class="g-font-size-16--xs g-font-size-24--md g-font-weight--400 g-color--white">Shubendu</span>
-                            <p class="g-font-size-20--xs g-color--white g-margin-b-40--xs"></p>
-                        </div>
-                    </div>
-
-
-                    </div>
-
-                </div>
-                <div id="newform">
-                    <form class="g-bg-color--dark-light g-padding-x-50--xs g-padding-y-80--xs g-radius--4">
-                        <div class="g-text-center--xs g-margin-b-40--xs">
-                            <h2 class="g-font-size-30--xs g-color--white">Join Event</h2>
-                        </div>
-                        <div class="g-margin-b-40--xs">
-                            <input type="text" class="form-control s-form-v3__input" placeholder="* Name">
-                        </div>
-                        <div class="g-margin-b-40--xs">
-                            <input type="email" class="form-control s-form-v3__input" placeholder="* Email">
-                        </div>
-                        <div class="g-margin-b-40--xs">
-                            <input type="text" class="form-control s-form-v3__input" placeholder="* Phone">
-                        </div>
-                        <div class="g-text-center--xs">
-                            <button type="submit" class="text-uppercase btn-block s-btn s-btn--md s-btn--white-bg g-radius--50 g-padding-x-50--xs g-margin-b-20--xs">Join Now</button>
-                        </div>
-                    </form>
-                </div>
-
+            <div class="" id="cordinator">
+                <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-40--md g-color--white">Event Managers</h2>
+                <ol>
+                    <li class=" g-color--white">
+                        <h6 class="g-color--white g-font-size-20--md">Sagar</h6>
+                        <p class=" g-color--white">897913358</p>
+                        <p class=" g-color--white">dwdef@dfe.com</p>
+                    </li>
+                    <li class="g-color--white">
+                        <h6 class="g-color--white g-font-size-20--md">Saar</h6>
+                        <p class="g-color--white">3979142208</p>
+                        <p class=" g-color--white">sag.sw@e.com</p>
+                    </li>
+                </ol>
             </div>
-
-
+            <div id="newform">
+                <form class="g-bg-color--dark-light g-padding-x-50--xs g-padding-y-80--xs g-radius--4">
+                    <div class="g-text-center--xs g-margin-b-40--xs">
+                        <h2 class="g-font-size-30--xs g-color--white">Join Event</h2>
+                    </div>
+                    <div class="g-margin-b-40--xs">
+                        <input type="text" class="form-control s-form-v3__input" placeholder="* Name">
+                    </div>
+                    <div class="g-margin-b-40--xs">
+                        <input type="email" class="form-control s-form-v3__input" placeholder="* Email">
+                    </div>
+                    <div class="g-margin-b-40--xs">
+                        <input type="text" class="form-control s-form-v3__input" placeholder="* Phone">
+                    </div>
+                    <div class="g-text-center--xs">
+                        <button type="submit" class="text-uppercase btn-block s-btn s-btn--md s-btn--white-bg g-radius--50 g-padding-x-50--xs g-margin-b-20--xs">Join Now</button>
+                    </div>
+                </form>
+            </div>
         </div>
-        <!-- End Upcoming Event -->
-
-
-
+        <!-- End Coordinator -->
 
         <!--========== END PAGE CONTENT ==========-->
 
