@@ -110,7 +110,7 @@
                             CEO envisions putting you on the spot of showing just how deeply you understand the ethics
                             and finer lines of your environment with respect to business, power, ethic and revolution.
                         </p><br>
-                        <h3>Structure</h3>
+                        <h4>Structure</h4>
                         <div>
                             CEO comprises participants divided into 2 groups with the following rounds:
                             <div>
