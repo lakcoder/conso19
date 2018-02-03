@@ -47,9 +47,9 @@
                         <div class="s-header__navbar-row-col">
                             <!-- Logo -->
                             <div class="s-header__logo">
-                                <a href="index.html" class="s-header__logo-link">
-                                    <img class="s-header__logo-img s-header__logo-img-default" src="img/180-logo.png" alt="Consortium Logo">
-                                    <img class="s-header__logo-img s-header__logo-img-shrink" src="img/180-logo-black.png" alt="Consortium Logo">
+                                <a href="#" class="s-header__logo-link">
+                                    <img class="s-header__logo-img s-header__logo-img-default" src="img/logo.png" alt="Consortium Logo">
+                                    <img class="s-header__logo-img s-header__logo-img-shrink" src="img/logo-conso.png" alt="Consortium Logo">
                                 </a>
                             </div>
                             <!-- End Logo -->
@@ -70,42 +70,25 @@
             <!-- End Navbar -->
 
             <!-- Overlay -->
-            <div class="s-header-bg-overlay js__bg-overlay">
+            <div class="s-header-bg-overlay js__bg-overlay" id="overlay">
                 <!-- Nav -->
                 <nav class="s-header__nav js__scrollbar">
                     <div class="container-fluid">
-                        <!-- Menu List -->
-                        <ul class="list-unstyled s-header__nav-menu">
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider -is-active" href="index.html">Corporate</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_app_landing.html">App Landing</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_portfolio.html">Portfolio</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_events.html">Events</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_lawyer.html">Lawyer</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_clinic.html">Clinic</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_coming_soon.html">Coming Soon</a></li>
-                        </ul>
-                        <!-- End Menu List -->
 
                         <!-- Menu List -->
                         <ul class="list-unstyled s-header__nav-menu">
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="about.html">About</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="team.html">Team</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="services.html">Services</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="events.html">Events</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="faq.html">FAQ</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="contacts.html">Contacts</a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="#about">About</a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="team.php">Team</a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="#events">Events</a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="spons.php">Sponsors</a></li>
+
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="#contact">Contacts</a></li>
                         </ul>
                         <!-- End Menu List -->
                     </div>
                 </nav>
                 <!-- End Nav -->
 
-                <!-- Action -->
-                <ul class="list-inline s-header__action s-header__action--lb">
-                    <li class="s-header__action-item"><a class="s-header__action-link -is-active" href="#">En</a></li>
-                    <li class="s-header__action-item"><a class="s-header__action-link" href="#">Fr</a></li>
-                </ul>
-                <!-- End Action -->
 
                 <!-- Action -->
                 <ul class="list-inline s-header__action s-header__action--rb">
@@ -169,8 +152,8 @@
         <!--========== END SWIPER SLIDER ==========-->
 
         <!--========== PAGE CONTENT ==========-->
-        <!-- Culture -->
-        <div class="g-promo-section">
+        <!-- About -->
+        <div class="g-promo-section" id="about">
             <div class="container g-padding-y-80--xs g-padding-y-60--sm">
                 <div class="row">
                     <div class="col-md-4 g-margin-t-15--xs g-margin-b-60--xs g-margin-b-0--lg">
@@ -182,7 +165,7 @@
                             <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md">Consortium</h2>
                         </div>
                     </div>
-                    <div class="col-md-4 col-md-offset-1">
+                    <div class="col-md-7 col-md-offset-1">
                         <p class="g-font-size-18--xs">Welcome to the extravaganza that is Consortium! Consortium, the Annual Entrepreneurship Summit of VNIT Nagpur comprises of invigorating events like Ascent, Startup Conclave and Swades.
                         The summit aims at fueling entrepreneurial attitude amongst students through healthy competition and exciting challenges.
                         It fosters the importance of leadership and decision making and introduces young technocrats to various management practices in the corporate world.</p>
@@ -190,15 +173,13 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-3 g-promo-section__img-right--lg g-bg-position--center g-height-100-percent--md js__fullwidth-img">
-                <img class="img-responsive" src="img/970x970/04.jpg" alt="Image">
-            </div>
+
         </div>
-        <!-- End Culture -->
+        <!-- End About -->
 
         <!-- Counter -->
         <div class="js__parallax-window" style="background: url(img/1920x1080/06.jpg) 50% 0 no-repeat fixed;">
-            <div class="container g-padding-y-80--xs g-padding-y-125--sm">
+            <div class="container g-padding-y-100--xs g-padding-y-125--sm">
                 <div class="row">
                     <div class="col-md-3 col-xs-6 g-full-width--xs g-margin-b-70--xs g-margin-b-0--lg">
                         <div class="g-text-center--xs">
@@ -245,8 +226,8 @@
         </div>
         <!-- End Counter -->
 
-        <!-- Schedule -->
-        <div class="container g-padding-y-80--xs">
+        <!-- Events -->
+        <div class="container g-padding-y-80--xs" id="events">
             <div class="g-text-center--xs g-margin-b-40--xs">
                 <h2 class="g-font-size-32--xs g-font-size-36--md">What We Have</h2>
             </div>
@@ -255,11 +236,11 @@
                     <div data-filter=".event" class="s-portfolio__filter-v1-item cbp-filter-item cbp-filter-item-active">Events</div>
                     <div data-filter=".graphic" class="s-portfolio__filter-v1-item cbp-filter-item">Sessions</div>
                     <div data-filter=".logos" class="s-portfolio__filter-v1-item cbp-filter-item">Initiatives</div>
-                    <div data-filter=".motion" class="s-portfolio__filter-v1-item cbp-filter-item">Startup Expo</div>
+                    <div data-filter="" class="s-portfolio__filter-v1-item cbp-filter-item">Startup Expo</div>
                 </div>
             </div>
         </div>
-        <!-- Schedule Filter -->
+        <!-- Events -->
 
         <!-- Schedule Gallery -->
         <div class="container g-margin-b-100--xs">
@@ -272,11 +253,11 @@
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Startup Conclave</h4>
-                            <p class="g-color--white">Now that your brand is all dressed up and ready to party, it's time to release it to the world. By the way, let's celebrate already.</p>
+                            <p class="g-color--white">Opportunity to learn new entrepreneurial techniques.</p>
                         </div>
                         <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
                             <li>
-                                <a href="/startupconclave.html" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
+                                <a href="https://conso18.ecellvnit.org/events/startupconclave/" target="_blank" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
                                     <i class="ti-fullscreen"></i>
                                 </a>
                             </li>
@@ -290,12 +271,12 @@
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
-                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Adventure</h4>
-                            <p class="g-color--white">Now that your brand is all dressed up and ready to party, it's time to release it to the world. By the way, let's celebrate already.</p>
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Ad-Venture</h4>
+                            <p class="g-color--white">Roll your pitch ideas into a complete advertisement for a company.</p>
                         </div>
                         <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
                             <li>
-                                <a href="/ad-venture.html" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
+                                <a href="/ad-venture.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
                                     <i class="ti-fullscreen"></i>
                                 </a>
                             </li>
@@ -310,11 +291,11 @@
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">CEO</h4>
-                            <p class="g-color--white">Now that your brand is all dressed up and ready to party, it's time to release it to the world. By the way, let's celebrate already.</p>
+                            <p class="g-color--white">Aims to ignite the spark of entrepreneurship in students to showcase their leadership skills in the corporate world.</p>
                         </div>
                         <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
                             <li>
-                                <a href="/ceo.html" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
+                                <a href="/ceo.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
                                     <i class="ti-fullscreen"></i>
                                 </a>
                             </li>
@@ -329,11 +310,11 @@
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">bizmantra</h4>
-                            <p class="g-color--white">Now that your brand is all dressed up and ready to party, it's time to release it to the world. By the way, let's celebrate already.</p>
+                            <p class="g-color--white">Idea of surviving in the market, through an interactive competition.</p>
                         </div>
                         <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
                             <li>
-                                <a href="/bizmantra.html" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
+                                <a href="/bizmantra.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
                                     <i class="ti-fullscreen"></i>
                                 </a>
                             </li>
@@ -348,11 +329,11 @@
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Swades</h4>
-                            <p class="g-color--white">Now that your brand is all dressed up and ready to party, it's time to release it to the world. By the way, let's celebrate already.</p>
+                            <p class="g-color--white">Aims to understand the social problems in rural India and solve them using an entrepreneurial mindset.</p>
                         </div>
                         <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
                             <li>
-                                <a href="/swades.html" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
+                                <a href="/swades.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
                                     <i class="ti-fullscreen"></i>
                                 </a>
                             </li>
@@ -367,11 +348,11 @@
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
                             <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Silhouette</h4>
-                            <p class="g-color--white">Now that your brand is all dressed up and ready to party, it's time to release it to the world. By the way, let's celebrate already.</p>
+                            <p class="g-color--white">Design stunning logo around a theme and test your desiging skills.</p>
                         </div>
                         <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
                             <li>
-                                <a href="/silhouette.html" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
+                                <a href="/silhouette.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
                                     <i class="ti-fullscreen"></i>
                                 </a>
                             </li>
@@ -384,22 +365,17 @@
         </div>
         <!-- End Portfolio -->
 
-
-
-
-
-
         <!-- Subscribe -->
         <div class="js__parallax-window" style="background: url(img/1920x1080/07.jpg) 50% 0 no-repeat fixed;">
             <div class="g-container--sm g-text-center--xs g-padding-y-80--xs g-padding-y-125--sm">
                 <div class="g-margin-b-80--xs">
-                    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--white-opacity g-letter-spacing--2 g-margin-b-25--xs">Subscribe</p>
-                    <h2 class="g-font-size-32--xs g-font-size-36--md g-color--white">Join Over 1000+ People</h2>
+                    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--white-opacity g-letter-spacing--2 g-margin-b-25--xs">Join In</p>
+                    <h2 class="g-font-size-32--xs g-font-size-36--md g-color--white">Startup Expo</h2>
                 </div>
                 <div class="row">
                     <div class="col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1">
                         <form class="input-group">
-                            <input type="email" class="form-control s-form-v1__input g-radius--left-50" name="email" placeholder="Enter your email">
+                            <input type="email" class="form-control s-form-v1__input g-radius--left-50" name="email" placeholder="Email ?">
                             <span class="input-group-btn">
                                 <button type="submit" class="s-btn s-btn-icon--md s-btn-icon--white-brd s-btn--white-brd g-radius--right-50"><i class="ti-arrow-right"></i></button>
                             </span>
@@ -410,48 +386,10 @@
         </div>
         <!-- End Subscribe -->
 
-
-        <!-- Clients -->
-        <div class="g-bg-color--sky-light">
-            <div class="g-container--md g-padding-y-80--xs g-padding-y-125--sm">
-                <!-- Swiper Clients -->
-                <div class="s-swiper js__swiper-clients">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".1s">
-                                <img class="s-clients-v1" src="img/clients/01-dark.png" alt="Clients Logo">
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".2s">
-                                <img class="s-clients-v1" src="img/clients/02-dark.png" alt="Clients Logo">
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".3s">
-                                <img class="s-clients-v1" src="img/clients/03-dark.png" alt="Clients Logo">
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".4s">
-                                <img class="s-clients-v1" src="img/clients/04-dark.png" alt="Clients Logo">
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".5s">
-                                <img class="s-clients-v1" src="img/clients/05-dark.png" alt="Clients Logo">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Swiper Clients -->
-            </div>
-        </div>
-        <!-- End Clients -->
         <!-- Feedback Form -->
-        <div class="g-bg-color--sky-light">
-            <div class="container g-padding-y-80--xs g-padding-y-125--sm">
-                <div class="g-text-center--xs g-margin-b-80--xs">
+        <div class="g-bg-color--sky-light" id="contact">
+            <div class="container g-padding-y-0--xs g-padding-y-0--sm">
+                <div class="g-text-center--xs g-margin-b-40--xs">
                     <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Contact</p>
                     <h2 class="g-font-size-32--xs g-font-size-36--md">Mail Us</h2>
                 </div>
@@ -474,28 +412,18 @@
                         <button type="submit" class="text-uppercase s-btn s-btn--md s-btn--primary-bg g-radius--50 g-padding-x-80--xs">Submit</button>
                     </div>
                 </form>
+                <div class="g-text-center--xs g-margin-b-40--xs">
+                    <br><br>
+                    <p class="text-uppercase g-font-size-14--xs g-font-weight--400 g-letter-spacing--2 g-margin-b-25--xs">Or Need Any Help? Contact: <a href="team.php">Cores</a></p>
+                </div>
             </div>
         </div>
         <!-- End Feedback Form -->
+
         <!--========== END PAGE CONTENT ==========-->
 
         <!--========== FOOTER ==========-->
-        <footer class="g-bg-color--dark">
-            <!-- Copyright -->
-            <div class="container g-padding-y-50--xs">
-                <div class="row">
-                    <div class="col-xs-6">
-                        <a href="index.html">
-                            <img class="g-width-100--xs g-height-auto--xs" src="img/180-logo.png" alt="Consortium Logo">
-                        </a>
-                    </div>
-                    <div class="col-xs-6 g-text-right--xs">
-                        <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light"><a href="#">Consortium</a> Powered by: <a href="http://www.prisag.xyz/" target="_blank">Prisag.xyz</a></p>
-                    </div>
-                </div>
-            </div>
-            <!-- End Copyright -->
-        </footer>
+        <?php include("footer.php");?>
         <!--========== END FOOTER ==========-->
 
         <!-- Back To Top -->

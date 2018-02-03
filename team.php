@@ -34,99 +34,7 @@
     <body>
 
         <!--========== HEADER ==========-->
-        <header class="navbar-fixed-top s-header js__header-sticky js__header-overlay">
-            <!-- Navbar -->
-            <div class="s-header__navbar">
-                <div class="s-header__container">
-                    <div class="s-header__navbar-row">
-                        <div class="s-header__navbar-row-col">
-                            <!-- Logo -->
-                            <div class="s-header__logo">
-                                <a href="index.html" class="s-header__logo-link">
-                                    <img class="s-header__logo-img s-header__logo-img-default" src="img/logo.png" alt="Consortium Logo">
-                                    <img class="s-header__logo-img s-header__logo-img-shrink" src="img/logo-dark.png" alt="Consortium Logo">
-                                </a>
-                            </div>
-                            <!-- End Logo -->
-                        </div>
-                        <div class="s-header__navbar-row-col">
-                            <!-- Trigger -->
-                            <a href="javascript:void(0);" class="s-header__trigger js__trigger">
-                                <span class="s-header__trigger-icon"></span>
-                                <svg x="0rem" y="0rem" width="3.125rem" height="3.125rem" viewbox="0 0 54 54">
-                                    <circle fill="transparent" stroke="#fff" stroke-width="1" cx="27" cy="27" r="25" stroke-dasharray="157 157" stroke-dashoffset="157"></circle>
-                                </svg>
-                            </a>
-                            <!-- End Trigger -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- End Navbar -->
-
-            <!-- Overlay -->
-            <div class="s-header-bg-overlay js__bg-overlay">
-                <!-- Nav -->
-                <nav class="s-header__nav js__scrollbar">
-                    <div class="container-fluid">
-                        <!-- Menu List -->                                
-                        <ul class="list-unstyled s-header__nav-menu">
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index.html">Corporate</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_app_landing.html">App Landing</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_portfolio.html">Portfolio</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_events.html">Events</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_lawyer.html">Lawyer</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_clinic.html">Clinic</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_coming_soon.html">Coming Soon</a></li>
-                        </ul>
-                        <!-- End Menu List -->
-
-                        <!-- Menu List -->                                
-                        <ul class="list-unstyled s-header__nav-menu">
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="about.html">About</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider -is-active" href="team.html">Team</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="services.html">Services</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="events.html">Events</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="faq.html">FAQ</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="contacts.html">Contacts</a></li>
-                        </ul>
-                        <!-- End Menu List -->
-                    </div>
-                </nav>
-                <!-- End Nav -->
-                
-                <!-- Action -->
-                <ul class="list-inline s-header__action s-header__action--lb">
-                    <li class="s-header__action-item"><a class="s-header__action-link -is-active" href="#">En</a></li>
-                    <li class="s-header__action-item"><a class="s-header__action-link" href="#">Fr</a></li>
-                </ul>
-                <!-- End Action -->
-
-                <!-- Action -->
-                <ul class="list-inline s-header__action s-header__action--rb">
-                    <li class="s-header__action-item">
-                        <a class="s-header__action-link" href="https://www.behance.net/keenthemes">
-                            <i class="g-padding-r-5--xs ti-facebook"></i>
-                            <span class="g-display-none--xs g-display-inline-block--sm">Facebook</span>
-                        </a>
-                    </li>
-                    <li class="s-header__action-item">
-                        <a class="s-header__action-link" href="https://twitter.com/keenthemes">
-                            <i class="g-padding-r-5--xs ti-twitter"></i>
-                            <span class="g-display-none--xs g-display-inline-block--sm">Twitter</span>
-                        </a>
-                    </li>
-                    <li class="s-header__action-item">
-                        <a class="s-header__action-link" href="https://dribbble.com/keenthemes">
-                            <i class="g-padding-r-5--xs ti-dribbble"></i>
-                            <span class="g-display-none--xs g-display-inline-block--sm">Dribbble</span>
-                        </a>
-                    </li>
-                </ul>
-                <!-- End Action -->
-            </div>
-            <!-- End Overlay -->
-        </header>
+        <?php include("header.php")?>
         <!--========== END HEADER ==========-->
 
         <!--========== PROMO BLOCK ==========-->
@@ -144,7 +52,7 @@
                 <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/02.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/fac1.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">
                                 <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Dr. Vijayakumar R. P.</h4>
@@ -157,7 +65,7 @@
                 <div class="col-xs-6 g-full-width--xs">
                     <!-- Speaker -->
                     <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/01.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/fac2.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">
                                 <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Dr. Chayan Das</h4>
@@ -173,7 +81,7 @@
                 <div class="col-xs-12 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/02.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/sankalp.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">
                                 <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Sankalp Kotewar</h4>
@@ -190,7 +98,7 @@
                 <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/02.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/utkarsh.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">
                                 <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Utkarsh Gupta</h4>
@@ -204,7 +112,7 @@
                 <div class="col-xs-6 g-full-width--xs">
                     <!-- Speaker -->
                     <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/01.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/hemant.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">
                                 <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Hemant Agrawal</h4>
@@ -221,7 +129,7 @@
                 <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/02.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/brahma.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">
                                 <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Brahmdutta Sharma</h4>
@@ -235,7 +143,7 @@
                 <div class="col-xs-6 g-full-width--xs">
                     <!-- Speaker -->
                     <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/01.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/vishnu.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">
                                 <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">M. Vishnu</h4>
@@ -252,7 +160,7 @@
                 <div class="col-xs-6 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/02.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/meghna.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">
                                 <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Meghna Bhave</h4>
@@ -266,7 +174,7 @@
                 <div class="col-xs-6 g-full-width--xs">
                     <!-- Speaker -->
                     <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/01.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/mukul.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">
                                 <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Mukul Parashar</h4>
@@ -283,7 +191,7 @@
                 <div class="col-xs-12 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/02.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/vipul.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">
                                 <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Vipul Wairagade</h4>
@@ -300,7 +208,7 @@
                 <div class="col-xs-12 g-full-width--xs g-margin-b-30--xs g-margin-b-0--lg">
                     <!-- Speaker -->
                     <div class="center-block g-box-shadow__dark-lightest-v1 g-width-100-percent--xs g-width-400--lg">
-                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/02.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" src="img/400x400/farzan.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">
                                 <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Farzan Shaikh</h4>
@@ -318,23 +226,7 @@
                 <!--========== END PAGE CONTENT ==========-->
 
         <!--========== FOOTER ==========-->
-        <footer class="g-bg-color--dark">
-
-            <!-- Copyright -->
-            <div class="container g-padding-y-50--xs">
-                <div class="row">
-                    <div class="col-xs-6">
-                        <a href="index.html">
-                            <img class="g-width-100--xs g-height-auto--xs" src="img/logo.png" alt="Megakit Logo">
-                        </a>
-                    </div>
-                    <div class="col-xs-6 g-text-right--xs">
-                        <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light"><a href="http://keenthemes.com/preview/Megakit/">Megakit</a> Theme Powered by: <a href="http://www.keenthemes.com/">KeenThemes.com</a></p>
-                    </div>
-                </div>
-            </div>
-            <!-- End Copyright -->
-        </footer>
+        <?php include("footer.php");?>
         <!--========== END FOOTER ==========-->
 
         <!-- Back To Top -->

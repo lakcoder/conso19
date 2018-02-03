@@ -6,7 +6,7 @@
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Megakit - HTML5 Theme</title>
+        <title>Consortium'18 | E-CELL, VNIT</title>
         <meta name="keywords" content="HTML5 Theme" />
         <meta name="description" content="Megakit - HTML5 Theme">
         <meta name="author" content="keenthemes.com">
@@ -40,106 +40,14 @@
     <body>
 
         <!--========== HEADER ==========-->
-        <header class="navbar-fixed-top s-header js__header-sticky js__header-overlay">
-            <!-- Navbar -->
-            <div class="s-header__navbar">
-                <div class="s-header__container">
-                    <div class="s-header__navbar-row">
-                        <div class="s-header__navbar-row-col">
-                            <!-- Logo -->
-                            <div class="s-header__logo">
-                                <a href="index.html" class="s-header__logo-link">
-                                    <img class="s-header__logo-img s-header__logo-img-default" src="img/180-logo.png" alt="Megakit Logo">
-                                    <img class="s-header__logo-img s-header__logo-img-shrink" src="img/180-logo-black.png" alt="Megakit Logo">
-                                </a>
-                            </div>
-                            <!-- End Logo -->
-                        </div>
-                        <div class="s-header__navbar-row-col">
-                            <!-- Trigger -->
-                            <a href="javascript:void(0);" class="s-header__trigger js__trigger">
-                                <span class="s-header__trigger-icon"></span>
-                                <svg x="0rem" y="0rem" width="3.125rem" height="3.125rem" viewbox="0 0 54 54">
-                                    <circle fill="transparent" stroke="#fff" stroke-width="1" cx="27" cy="27" r="25" stroke-dasharray="157 157" stroke-dashoffset="157"></circle>
-                                </svg>
-                            </a>
-                            <!-- End Trigger -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- End Navbar -->
-
-            <!-- Overlay -->
-            <div class="s-header-bg-overlay js__bg-overlay">
-                <!-- Nav -->
-                <nav class="s-header__nav js__scrollbar">
-                    <div class="container-fluid">
-                        <!-- Menu List -->
-                        <ul class="list-unstyled s-header__nav-menu">
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index.html">Corporate</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_app_landing.html">App Landing</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_portfolio.html">Portfolio</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_events.html">Events</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_lawyer.html">Lawyer</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_clinic.html">Clinic</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index_coming_soon.html">Coming Soon</a></li>
-                        </ul>
-                        <!-- End Menu List -->
-
-                        <!-- Menu List -->
-                        <ul class="list-unstyled s-header__nav-menu">
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="about.html">About</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="team.html">Team</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="services.html">Services</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider -is-active" href="events.html">Events</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="faq.html">FAQ</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="contacts.html">Contacts</a></li>
-                        </ul>
-                        <!-- End Menu List -->
-                    </div>
-                </nav>
-                <!-- End Nav -->
-
-                <!-- Action -->
-                <ul class="list-inline s-header__action s-header__action--lb">
-                    <li class="s-header__action-item"><a class="s-header__action-link -is-active" href="#">En</a></li>
-                    <li class="s-header__action-item"><a class="s-header__action-link" href="#">Fr</a></li>
-                </ul>
-                <!-- End Action -->
-
-                <!-- Action -->
-                <ul class="list-inline s-header__action s-header__action--rb">
-                    <li class="s-header__action-item">
-                        <a class="s-header__action-link" href="https://www.behance.net/keenthemes">
-                            <i class="g-padding-r-5--xs ti-facebook"></i>
-                            <span class="g-display-none--xs g-display-inline-block--sm">Facebook</span>
-                        </a>
-                    </li>
-                    <li class="s-header__action-item">
-                        <a class="s-header__action-link" href="https://twitter.com/keenthemes">
-                            <i class="g-padding-r-5--xs ti-twitter"></i>
-                            <span class="g-display-none--xs g-display-inline-block--sm">Twitter</span>
-                        </a>
-                    </li>
-                    <li class="s-header__action-item">
-                        <a class="s-header__action-link" href="https://dribbble.com/keenthemes">
-                            <i class="g-padding-r-5--xs ti-dribbble"></i>
-                            <span class="g-display-none--xs g-display-inline-block--sm">Dribbble</span>
-                        </a>
-                    </li>
-                </ul>
-                <!-- End Action -->
-            </div>
-            <!-- End Overlay -->
-        </header>
+        <?php include("header.php")?>
         <!--========== END HEADER ==========-->
 
         <!--========== PROMO BLOCK ==========-->
         <div class="s-promo-block-v3 g-bg-position--center g-fullheight--sm" style="background: url('img/1920x1080/ad-venture-landing.jpg');">
             <div class="container g-ver-center--sm g-padding-y-125--xs g-padding-y-0--sm">
                 <div class="g-margin-t-30--xs g-margin-t-0--sm g-margin-b-30--xs g-margin-b-70--md">
-                    <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-50--lg g-color--white">The New York<br>Event. Megakit.</h1>
+                    <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-50--lg g-color--white">AD-Venture</h1><br><h2 class="g-color--white-opacity-light">Lens The Idea</h2>
                 </div>
                 <div class="row">
                     <div class="col-sm-8 col-sm-push-4 g-margin-b-50--xs g-margin-b-0--md">
@@ -147,7 +55,7 @@
                         <div class="row">
                             <div class="col-sm-6 g-margin-b-30--xs g-margin-b-0--md">
                                 <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".4s">
-                                    <p class="g-font-size-18--xs g-color--white-opacity">The time has come to bring those ideas and plans to life. This is where we really begin to visualize your napkin sketches and make them into beautiful pixels.</p>
+                                    <p class="g-font-size-18--xs g-color--white-opacity">Roll your ideas into a complete advertisement for a company and let everyone see how your idea can take life as a ad.</p>
                                 </div>
                             </div>
                             <div class="col-sm-5 col-sm-offset-1">
@@ -193,15 +101,26 @@
     		    	<div id="bizmantra4">
 
 
-    					<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia.
-    						Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
+    					<p>Ad-venture is the ad making event in Conso. If you can roll
+                        your ideas into a complete advertisement for a company
+                        then this event provides you with the opportunity to make it
+                        big. It is your chance to be on the screen while giving life to
+                        your ideas staying behind it.</p>
+                        <p>So, This Conso's 18, grab your camera, find a place and don't forget to bring your idea along
+                        and let everyone see how your idea can take life in your ad.</p>
     		    	</div>
     		    	<div id="bizmantra5">
-    			     	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-    						Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
-    						Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
-    						Pellentesque aliquam maximus risus, vel sed vehicula.
-    					</p>
+    			     	<p>A company's growth is nestled in the way it is marketed. What if you never see your
+                        favourite soft-drink company on your tele or daily? What if they never appear on your news
+                        feeds? Every company, be it at any stage, need to project it's vision and idea in the most
+                        unique way. Well, an advertisement that'd connect with millions and let their idea breathe
+                        with them is what all a company needs.
+                        </p><br>
+                        <h6>How's It work</h6>
+                        <p>Participants will make an ad for a company and will be
+                        judged on their creativity, brevity and originality. Why keep
+                        an idea, lens it this Conso.</p>
+                        <a href="#newform">Register</a>
     				</div>
 
     		    </div>
@@ -269,22 +188,7 @@
         <!--========== END PAGE CONTENT ==========-->
 
         <!--========== FOOTER ==========-->
-        <footer class="g-bg-color--sky-light">
-            <!-- Copyright -->
-            <div class="container g-padding-y-20--xs">
-                <div class="row">
-                    <div class="col-xs-6">
-                        <a href="index.html">
-                            <img class="g-width-100--xs g-height-auto--xs" src="img/180-logo-black.png" alt="conso Logo">
-                        </a>
-                    </div>
-                    <div class="col-xs-6 g-text-right--xs">
-                        <p class="g-font-size-16--xs g-margin-b-0--xs g-color--red-opacity-light">by:<a href="http://www.prisag.xyz/" target="_blank">PriSag.xyz</a></p>
-                    </div>
-                </div>
-            </div>
-            <!-- End Copyright -->
-        </footer>
+        <?php include("footer.php");?>
         <!--========== END FOOTER ==========-->
 
         <!-- Back To Top -->

@@ -7352,6 +7352,9 @@
 .g-bg-color--white-opacity-lightest {
   background-color: rgba(255, 255, 255, 0.1) !important;
 }
+.g-bg-color--footer{
+  background-color:#ddd;
+}
 
 .g-bg-color--sky-light {
   background-color: #f5f8f9 !important;

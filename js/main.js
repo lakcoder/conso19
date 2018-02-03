@@ -399,5 +399,14 @@ $(function() {
 						});
 
 	});
+	$("#overlay").find(".s-header__nav-menu-item a").on("click", function(){
+		var overlay = $('.js__bg-overlay'),
+		    headerOverlay = $('.js__header-overlay'),
+		    trigger = $('.js__trigger');
+
+		overlay.toggleClass('-is-open');
+		headerOverlay.toggleClass('-is-open');
+      trigger.toggleClass('-is-active');
+	});
 
 });
