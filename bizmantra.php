@@ -47,7 +47,7 @@
         <div class="s-promo-block-v3 g-bg-position--center g-fullheight--sm" style="background: url('img/1920x1080/bizmantra-landing.jpg');">
             <div class="container g-ver-center--sm g-padding-y-125--xs g-padding-y-0--sm">
                 <div class="g-margin-t-30--xs g-margin-t-0--sm g-margin-b-30--xs g-margin-b-70--md">
-                    <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-50--lg g-color--white">Bizmantra</h1><br><h2 class="g-color--white-opacity-light">Mantra of survival</h2>
+                    <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-50--lg g-color--white">Bizmantra</h1><br><h2 class="g-color--white-opacity-light">Buzz the mantra, Do the Biz!</h2>
                 </div>
                 <div class="row">
                     <div class="col-sm-8 col-sm-push-4 g-margin-b-50--xs g-margin-b-0--md">
@@ -55,7 +55,7 @@
                         <div class="row">
                             <div class="col-sm-6 g-margin-b-30--xs g-margin-b-0--md">
                                 <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".4s">
-                                    <p class="g-font-size-18--xs g-color--white-opacity">Idea of surviving in the market, through an interactive competition.</p>
+                                    <p class="g-font-size-18--xs g-color--white-opacity">To accept a product from our side and build its presence by bringing it in the spotlight.</p>
                                 </div>
                             </div>
                             <div class="col-sm-5 col-sm-offset-1">
@@ -99,17 +99,28 @@
     		    </div>
     		    <div class="card-content code">
     		    	<div id="bizmantra4">
+    		    	    <h6><i>"Marketing is no longer about the stuff that you make, but about the stories you tell" -Seth Godin</i></h6>
+    					<p>BizMantra aims to test your marketing skills at a rudimentary level. Here you have to accept a product from our side and build its presence by bringing it in the spotlight.
+    					Your journey in this event will put you through a series of tasks, which will help you realize your potential in the world of marketing.</p>
+    					<h6><b>Event Structure</b></h6>
+    					<ol>
 
-
-    					<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia.
-    						Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
+    					    <li><h6>Round 1</h6><p>The event will start with a quiz that will help shortlist the candidates. If you are able to clear the quiz, you will  be divided into teams of four, and would have to clear two rounds in order to win the competition.</p></li>
+    					    <li><h6>Round 2</h6><p>Your team will be given a catchy fictitious product for which you have to garner maximum votes. The top teams from this round will be selected for the final task. </p></li>
+    					    <li><h6>Round 3</h6><p>In this round, you will be given a series of products and you have to sell the products at the maximum profit possible in order to win the round, and consequently the event.</p></li>
+    					</ol>
     		    	</div>
     		    	<div id="bizmantra5">
-    			     	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-    						Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
-    						Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
-    						Pellentesque aliquam maximus risus, vel sed vehicula.
-    					</p>
+    			     	<ol>
+    			     	    <li>The event will give you an exposure to marketing at a ground level.</li>
+    			     	    <li>Certificates of Participation will be awarded to everyone clearing the quiz round, issued by E-          Cell.</li>
+    			     	    <li>The members of the winning team will not only be given a merit certificate, but will also be
+                                awarded a cash price, the amount of which will be disclosed later on.
+                                </li>
+    			     	    <li>Not only this, as an added incentive, the members of the winning team will also be able to avail a marketing internship, which will provide them with a great exposure.</li>
+
+    			     	</ol>
+    			     	<br><a href="#newform">Register</a>
     				</div>
 
     		    </div>
@@ -123,15 +134,22 @@
                 <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-40--md g-color--white">Event Managers</h2>
                 <ol>
                     <li class=" g-color--white">
-                        <h6 class="g-color--white g-font-size-20--md">Sagar</h6>
-                        <p class=" g-color--white">897913358</p>
-                        <p class=" g-color--white">dwdef@dfe.com</p>
+                        <h6 class="g-color--white g-font-size-20--md">Souvik Naha</h6>
+                        <p class=" g-color--white">7908057043</p>
                     </li>
-                    <li class="g-color--white">
-                        <h6 class="g-color--white g-font-size-20--md">Saar</h6>
-                        <p class="g-color--white">3979142208</p>
-                        <p class=" g-color--white">sag.sw@e.com</p>
+                    <li class=" g-color--white">
+                        <h6 class="g-color--white g-font-size-20--md">Omkar Tarkar</h6>
+                        <p class=" g-color--white">9930137666</p>
                     </li>
+                    <li class=" g-color--white">
+                        <h6 class="g-color--white g-font-size-20--md">Abhishek Kumar Singh</h6>
+                        <p class=" g-color--white">9532902034</p>
+                    </li>
+                    <li class=" g-color--white">
+                        <h6 class="g-color--white g-font-size-20--md">Akshay Singh</h6>
+                        <p class=" g-color--white">7758009078</p>
+                    </li>
+
                 </ol>
             </div>
             <div id="newform">
