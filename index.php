@@ -1,3 +1,53 @@
+<?php
+@session_start;
+if($_SERVER["REQUEST_METHOD"] == "POST"){
+    // Check for empty fields
+    if(empty($_POST['name'])      ||
+       empty($_POST['email'])     ||
+       empty($_POST['phone'])     ||
+       empty($_POST['message'])   ||
+       !filter_var($_POST['email'],FILTER_VALIDATE_EMAIL))
+       {
+       echo "No arguments Provided!";
+       return false;
+       }
+
+    $name = strip_tags(htmlspecialchars($_POST['name']));
+    $email_address = strip_tags(htmlspecialchars($_POST['email']));
+    $phone = strip_tags(htmlspecialchars($_POST['phone']));
+    $message = strip_tags(htmlspecialchars($_POST['message']));
+
+    require_once 'directory/Mail.php';
+    #include("Mail.php");
+    $from = "E-CELL VNIT <noreply@ecellvnit.org>";    //your mail id
+    $to = "<contact@ecellvnit.org>";
+    $subject = "Website Contact Form:  $name";
+    $body = "You have received a new message from your website contact form.\n\n"."Here are the details:\n\nName: $name\n\nEmail: $email_address\n\nPhone: $phone\n\nMessage:\n$message";
+    $host = "ssl://sharedlinux.cloudhostdns.net";
+    $port = "465";
+    $username = "noreply@ecellvnit.org";          //your mail id
+    $password = "Ecellvnit123@";                      //password of this mail id
+
+    $headers = array ('From' => $from,
+    'To' => $to,
+    'Subject' => $subject);
+    $smtp = Mail::factory('smtp',
+    array ('host' => $host,
+    'port' => $port,
+    'auth' => true,
+    'username' => $username,
+    'password' => $password));
+
+    $mail = $smtp->send($to, $headers, $body);
+
+    if (PEAR::isError($mail)) {
+    echo("<p>" . $mail->getMessage() . "</p>");
+    } else {
+    echo("<p>Message successfully sent!</p>");
+    }
+}
+?>
+
 <!DOCTYPE html>
 <html lang="en" class="no-js">
     <!-- Begin Head -->
@@ -445,19 +495,19 @@
                     <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Contact</p>
                     <h2 class="g-font-size-32--xs g-font-size-36--md">Mail Us</h2>
                 </div>
-                <form>
+                <form method="post" action="">
                     <div class="row g-margin-b-40--xs">
                         <div class="col-sm-6 g-margin-b-20--xs g-margin-b-0--md">
                             <div class="g-margin-b-20--xs">
-                                <input type="text" class="form-control s-form-v2__input g-radius--50" placeholder="* Name">
+                                <input type="text" name="name" class="form-control s-form-v2__input g-radius--50" placeholder="* Name">
                             </div>
                             <div class="g-margin-b-20--xs">
-                                <input type="email" class="form-control s-form-v2__input g-radius--50" placeholder="* Email">
+                                <input type="email" name="email" class="form-control s-form-v2__input g-radius--50" placeholder="* Email">
                             </div>
-                            <input type="text" class="form-control s-form-v2__input g-radius--50" placeholder="* Phone">
+                            <input type="text" name="phone" class="form-control s-form-v2__input g-radius--50" placeholder="* Phone">
                         </div>
                         <div class="col-sm-6">
-                            <textarea class="form-control s-form-v2__input g-radius--10 g-padding-y-20--xs" rows="8" placeholder="* Your message"></textarea>
+                            <textarea class="form-control s-form-v2__input g-radius--10 g-padding-y-20--xs" rows="8" name="message" placeholder="* Your message"></textarea>
                         </div>
                     </div>
                     <div class="g-text-center--xs">

@@ -9,14 +9,14 @@ if(empty($_POST['name'])      ||
    echo "No arguments Provided!";
    return false;
    }
-   
+
 $name = strip_tags(htmlspecialchars($_POST['name']));
 $email_address = strip_tags(htmlspecialchars($_POST['email']));
 $phone = strip_tags(htmlspecialchars($_POST['phone']));
 $message = strip_tags(htmlspecialchars($_POST['message']));
-   
+
 require_once "Mail.php";
-#include("Mail.php"); 
+#include("Mail.php");
 $from = "E-CELL VNIT <noreply@ecellvnit.org>";    //your mail id
 $to = "<contact@ecellvnit.org>";
 $subject = "Website Contact Form:  $name";
@@ -47,7 +47,7 @@ echo("<p>Message successfully sent!</p>");
 $from = "E-CELL VNIT <noreply@ecellvnit.org>";    //your mail id
 $to = $email_address;
 $subject = "Thank You For Contacting us";
-$body = "Thank You $name for Contacting us.\n\nWe will surely look into your issue and contact you soon.\n\nFor instant support contact\nName: Vipul Wairagade\nEmail: sonu.wairagade@gmail.com\nPhone: 8275868277/7020172097";
+$body = "Thank You $name for Contacting us.\n\nWe will surely contact you soon.\n\nFor instant support contact\nName: Vipul Wairagade\nEmail: sonu.wairagade@gmail.com\nPhone: 8275868277/7020172097";
 $host = "ssl://sharedlinux.cloudhostdns.net";
 $port = "465";
 $username = "noreply@ecellvnit.org";          //your mail id
