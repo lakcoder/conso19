@@ -2377,6 +2377,9 @@ fieldset[disabled] .s-btn {
   background: #ff0000;
 }
 
+#events{
+  padding-top:60px;
+}
 
 .js__parallax-window{
   background: linear-gradient(140deg, rgba(152, 119, 234, 0.7) 15%, #ff0000 100%),url(../img/1920x1080/03.jpg) fixed;
@@ -2409,6 +2412,9 @@ width:100%;
   margin:0;
   border-radius:50%;
 }
+#cordinator ol{
+  margin-left:-30px;
+}
 #cordinator li{
   position:relative;
   margin:10px 0px;
@@ -2424,7 +2430,6 @@ margin:0px;
   margin-right:auto;
   margin-left:auto;
   width:80%;
-
 
 }
 
@@ -2472,4 +2477,10 @@ margin:0px;
 
 #contact{
   padding-top:80px;
+}
+@media(min-width:990px){
+  #contact{
+    padding-right:80px;
+    padding-left:80px;
+  }
 }

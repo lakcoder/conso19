@@ -210,16 +210,36 @@
         <div class="container js__parallax-window">
             <div class="" id="cordinator">
                 <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-40--md g-color--white">Event Managers</h2>
-                <ol>
-                    <li class=" g-color--white">
-                        <h6 class="g-color--white g-font-size-20--md">Sagar</h6>
-                        <p class=" g-color--white">897913358</p>
-                        <p class=" g-color--white">dwdef@dfe.com</p>
+                <ol class="row">
+                    <li class="col-md-6 g-color--white">
+                        <h6 class="g-color--white g-font-size-20--md">Fazal</h6>
+                        <p class=" g-color--white">fazal.mirza.r@gmail.com</p>
+                        <p class=" g-color--white">+91 7447332859</p>
                     </li>
-                    <li class="g-color--white">
-                        <h6 class="g-color--white g-font-size-20--md">Saar</h6>
-                        <p class="g-color--white">3979142208</p>
-                        <p class=" g-color--white">sag.sw@e.com</p>
+                    <li class="col-md-6 g-color--white">
+                        <h6 class="g-color--white g-font-size-20--md">Gautami</h6>
+                        <p class=" g-color--white">kantgautami@gmail.com</p>
+                        <p class=" g-color--white">+91 8692800094</p>
+                    </li>
+                    <li class="col-md-6 g-color--white">
+                        <h6 class="g-color--white g-font-size-20--md">Ashish</h6>
+                        <p class=" g-color--white">ashishdas003@gmail.com</p>
+                        <p class=" g-color--white">+91 9093610680</p>
+                    </li>
+                    <li class="col-md-6 g-color--white">
+                        <h6 class="g-color--white g-font-size-20--md">Pratik Zodape</h6>
+                        <p class=" g-color--white">p.zodpey@gmail.com</p>
+                        <p class=" g-color--white">+91 9579885783</p>
+                    </li>
+                    <li class="col-md-6 g-color--white">
+                        <h6 class="g-color--white g-font-size-20--md">Snigdha Patil</h6>
+                        <p class="g-color--white">Snigdhaspatil8@gmail.com</p>
+                        <p class=" g-color--white">+91 7276893888</p>
+                    </li>
+                    <li class="col-md-6 g-color--white">
+                        <h6 class="g-color--white g-font-size-20--md">Sri Charan</h6>
+                        <p class="g-color--white">sricharan2202@gmail.com</p>
+                        <p class=" g-color--white">+91 7721075759</p>
                     </li>
                 </ol>
             </div>

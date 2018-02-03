@@ -26,6 +26,7 @@
 
         <!-- Theme Styles -->
         <link href="css/style.css" rel="stylesheet" type="text/css"/>
+        <link href="css/materialize.css" rel="stylesheet" type="text/css"/>
         <link href="css/overlay.css" rel="stylesheet" type="text/css"/>
         <link href="css/global/global.css" rel="stylesheet" type="text/css"/>
 
@@ -227,143 +228,144 @@
         <!-- End Counter -->
 
         <!-- Events -->
-        <div class="container g-padding-y-80--xs" id="events">
+        <div class="container g-padding-y-10--xs s-portfolio" id="events">
             <div class="g-text-center--xs g-margin-b-40--xs">
                 <h2 class="g-font-size-32--xs g-font-size-36--md">What We Have</h2>
             </div>
-            <div class="s-portfolio">
-                <div id="js__filters-portfolio-gallery" class="s-portfolio__filter-v1 cbp-l-filters-text cbp-l-filters-center">
-                    <div data-filter=".event" class="s-portfolio__filter-v1-item cbp-filter-item cbp-filter-item-active">Events</div>
-                    <div data-filter=".graphic" class="s-portfolio__filter-v1-item cbp-filter-item">Sessions</div>
-                    <div data-filter=".logos" class="s-portfolio__filter-v1-item cbp-filter-item">Initiatives</div>
-                    <div data-filter="" class="s-portfolio__filter-v1-item cbp-filter-item">Startup Expo</div>
+            <div class="card" id="event-card-bg">
+                <div class="card-tabs">
+    		      <ul class="tabs tabs-fixed-width">
+    		        <li class="tab"><a class="active" href="#event">Events</a></li>
+    		        <li class="tab"><a href="#session">Sessions</a></li>
+    		        <li class="tab"><a href="#initiative">Initiatives</a></li>
+    		        <li class="tab"><a href="#startup">Startup Expo</a></li>
+    		      </ul>
+    		    </div>
+            </div>
+            <div class="card-content code">
+                <div class="container g-margin-b-100--xs" id="event">
+
+                    <div id="js__grid-portfolio-gallery" class="cbp">
+                        <!-- Item -->
+                        <div class="s-portfolio__item cbp-item event motion">
+                            <div class="s-portfolio__img-effect">
+                                <img src="img/970x647/startupconclave.jpg" alt="startupconclave Image">
+                            </div>
+                            <div class="s-portfolio__caption-hover--cc">
+                                <div class="g-margin-b-25--xs">
+                                    <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Startup Conclave</h4>
+                                    <p class="g-color--white">Opportunity to learn new entrepreneurial techniques.</p>
+                                </div>
+                                <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                                    <li>
+                                        <a href="https://conso18.ecellvnit.org/events/startupconclave/" target="_blank" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
+                                            <i class="ti-fullscreen"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- Item -->
+                        <div class="s-portfolio__item cbp-item event motion">
+                            <div class="s-portfolio__img-effect">
+                                <img src="img/970x647/adventure.jpg" alt="Portfolio Image">
+                            </div>
+                            <div class="s-portfolio__caption-hover--cc">
+                                <div class="g-margin-b-25--xs">
+                                    <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Ad-Venture</h4>
+                                    <p class="g-color--white">Roll your pitch ideas into a complete advertisement for a company.</p>
+                                </div>
+                                <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                                    <li>
+                                        <a href="/ad-venture.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
+                                            <i class="ti-fullscreen"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- Item -->
+                        <div class="s-portfolio__item cbp-item event motion">
+                            <div class="s-portfolio__img-effect">
+                                <img src="img/970x647/ceo.jpg" alt="Portfolio Image">
+                            </div>
+                            <div class="s-portfolio__caption-hover--cc">
+                                <div class="g-margin-b-25--xs">
+                                    <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">CEO</h4>
+                                    <p class="g-color--white">Aims to ignite the spark of entrepreneurship in students to showcase their leadership skills in the corporate world.</p>
+                                </div>
+                                <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                                    <li>
+                                        <a href="/ceo.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
+                                            <i class="ti-fullscreen"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- Item -->
+                        <div class="s-portfolio__item cbp-item event motion">
+                            <div class="s-portfolio__img-effect">
+                                <img src="img/970x647/bizmantra.jpg" alt="Portfolio Image">
+                            </div>
+                            <div class="s-portfolio__caption-hover--cc">
+                                <div class="g-margin-b-25--xs">
+                                    <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">bizmantra</h4>
+                                    <p class="g-color--white">Idea of surviving in the market, through an interactive competition.</p>
+                                </div>
+                                <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                                    <li>
+                                        <a href="/bizmantra.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
+                                            <i class="ti-fullscreen"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- Item -->
+                        <div class="s-portfolio__item cbp-item event motion">
+                            <div class="s-portfolio__img-effect">
+                                <img src="img/970x647/swades.jpg" alt="Portfolio Image">
+                            </div>
+                            <div class="s-portfolio__caption-hover--cc">
+                                <div class="g-margin-b-25--xs">
+                                    <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Swades</h4>
+                                    <p class="g-color--white">Aims to understand the social problems in rural India and solve them using an entrepreneurial mindset.</p>
+                                </div>
+                                <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                                    <li>
+                                        <a href="/swades.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
+                                            <i class="ti-fullscreen"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- Item -->
+                        <div class="s-portfolio__item cbp-item event motion">
+                            <div class="s-portfolio__img-effect">
+                                <img src="img/970x647/silhouette.jpg" alt="Portfolio Image">
+                            </div>
+                            <div class="s-portfolio__caption-hover--cc">
+                                <div class="g-margin-b-25--xs">
+                                    <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Silhouette</h4>
+                                    <p class="g-color--white">Design stunning logo around a theme and test your desiging skills.</p>
+                                </div>
+                                <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                                    <li>
+                                        <a href="/silhouette.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
+                                            <i class="ti-fullscreen"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
+
                 </div>
             </div>
         </div>
-        <!-- Events -->
-
-        <!-- Schedule Gallery -->
-        <div class="container g-margin-b-100--xs">
-            <div id="js__grid-portfolio-gallery" class="cbp">
-                <!-- Item -->
-                <div class="s-portfolio__item cbp-item event motion">
-                    <div class="s-portfolio__img-effect">
-                        <img src="img/970x647/startupconclave.jpg" alt="startupconclave Image">
-                    </div>
-                    <div class="s-portfolio__caption-hover--cc">
-                        <div class="g-margin-b-25--xs">
-                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Startup Conclave</h4>
-                            <p class="g-color--white">Opportunity to learn new entrepreneurial techniques.</p>
-                        </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <li>
-                                <a href="https://conso18.ecellvnit.org/events/startupconclave/" target="_blank" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
-                                    <i class="ti-fullscreen"></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- Item -->
-                <div class="s-portfolio__item cbp-item event motion">
-                    <div class="s-portfolio__img-effect">
-                        <img src="img/970x647/adventure.jpg" alt="Portfolio Image">
-                    </div>
-                    <div class="s-portfolio__caption-hover--cc">
-                        <div class="g-margin-b-25--xs">
-                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Ad-Venture</h4>
-                            <p class="g-color--white">Roll your pitch ideas into a complete advertisement for a company.</p>
-                        </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <li>
-                                <a href="/ad-venture.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
-                                    <i class="ti-fullscreen"></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- Item -->
-                <div class="s-portfolio__item cbp-item event motion">
-                    <div class="s-portfolio__img-effect">
-                        <img src="img/970x647/ceo.jpg" alt="Portfolio Image">
-                    </div>
-                    <div class="s-portfolio__caption-hover--cc">
-                        <div class="g-margin-b-25--xs">
-                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">CEO</h4>
-                            <p class="g-color--white">Aims to ignite the spark of entrepreneurship in students to showcase their leadership skills in the corporate world.</p>
-                        </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <li>
-                                <a href="/ceo.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
-                                    <i class="ti-fullscreen"></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- Item -->
-                <div class="s-portfolio__item cbp-item event motion">
-                    <div class="s-portfolio__img-effect">
-                        <img src="img/970x647/bizmantra.jpg" alt="Portfolio Image">
-                    </div>
-                    <div class="s-portfolio__caption-hover--cc">
-                        <div class="g-margin-b-25--xs">
-                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">bizmantra</h4>
-                            <p class="g-color--white">Idea of surviving in the market, through an interactive competition.</p>
-                        </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <li>
-                                <a href="/bizmantra.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
-                                    <i class="ti-fullscreen"></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- Item -->
-                <div class="s-portfolio__item cbp-item event motion">
-                    <div class="s-portfolio__img-effect">
-                        <img src="img/970x647/swades.jpg" alt="Portfolio Image">
-                    </div>
-                    <div class="s-portfolio__caption-hover--cc">
-                        <div class="g-margin-b-25--xs">
-                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Swades</h4>
-                            <p class="g-color--white">Aims to understand the social problems in rural India and solve them using an entrepreneurial mindset.</p>
-                        </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <li>
-                                <a href="/swades.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
-                                    <i class="ti-fullscreen"></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- Item -->
-                <div class="s-portfolio__item cbp-item event motion">
-                    <div class="s-portfolio__img-effect">
-                        <img src="img/970x647/silhouette.jpg" alt="Portfolio Image">
-                    </div>
-                    <div class="s-portfolio__caption-hover--cc">
-                        <div class="g-margin-b-25--xs">
-                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Silhouette</h4>
-                            <p class="g-color--white">Design stunning logo around a theme and test your desiging skills.</p>
-                        </div>
-                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                            <li>
-                                <a href="/silhouette.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
-                                    <i class="ti-fullscreen"></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
-            </div>
-            <!-- End Portfolio Gallery -->
-        </div>
-        <!-- End Portfolio -->
 
         <!-- Subscribe -->
         <div class="js__parallax-window" style="background: url(img/1920x1080/07.jpg) 50% 0 no-repeat fixed;">
@@ -446,6 +448,9 @@
         <script type="text/javascript" src="vendor/jquery.parallax.min.js"></script>
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBsXUGTFS09pLVdsYEE9YrO2y4IAncAO2U"></script>
         <script type="text/javascript" src="vendor/jquery.wow.min.js"></script>
+        <script src="/js/cards.js"></script>
+		<script src="/js/materialize.js"></script>
+
 
         <!-- General Components and Settings -->
         <script type="text/javascript" src="js/global.min.js"></script>
