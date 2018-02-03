@@ -242,6 +242,7 @@
     		      </ul>
     		    </div>
             </div>
+            <!--Event Start-->
             <div class="card-content code">
                 <div class="container g-margin-b-100--xs" id="event">
 
@@ -365,6 +366,50 @@
 
                 </div>
             </div>
+            <!--Event End-->
+
+            <!--Sessions Start-->
+            <div class="card-content code">
+                <div class="container g-margin-b-100--xs" id="session">
+
+                </div>
+            </div>
+            <!--Session End-->
+
+            <!--Initiatives Start-->
+            <div class="card-content code">
+                <div class="container g-margin-b-100--xs" id="initiative">
+                    <h3>Initiatives</h3>
+                    <h4>Plantation</h4>
+                    <h5>Smart Plantation by using Innovative Self Watering Tree Gaurds</h5>
+                    <i>Sponsored by- Rainbow Greeners, Rakshak</i>
+                    <p>Date: 26<sup>th</sup> January 2018</p>
+                    <br>
+                    <i><h6>About</h6></i>
+                    <p>The 69th Republic Day of India witnessed a Self-Watering Tree Plantation Drive
+                       organized by Entrepreneurship Cell, VNIT in association with Rakshak by Rainbow
+                       Greeners. The Director of VNIT, Nagpur, Dr. N. S. Chaudhari, welcomed the initiative
+                       along with the authorities and dignitaries of the institute.  The environment and its
+                       greenery help make a nation healthier in the most direct way possible, and the students
+                       of E-Cell, VNIT, decided that this auspicious day called for a step in the right direction.
+                       The self-watering tree guards ensure that water directly goes to the roots of the plant, and
+                       needs water only once every fifteen days. The CEO of Ajmera Tires, Dipesh Ajmera, also attended
+                       the event to show his support. Mr. Ajmera is also a mentor on the panel of Startup Conclave, a pan
+                       India exhibition of startups as part of Consortium ’18, coming up on 9 March, 2018. The initiative
+                       today goes hand in hand with E-Cell’s mantra this year to ‘Push the Human Race Forward’, and create
+                       a growth-driven youth for the city and the nation at large.  </p>
+                </div>
+            </div>
+            <!--Inititatives End-->
+
+            <!--Startup Expo Start-->
+            <div class="card-content code">
+                <div class="container g-margin-b-100--xs" id="startup">
+
+                </div>
+            </div>
+            <!--Startup Expo End-->
+
         </div>
 
         <!-- Subscribe -->
