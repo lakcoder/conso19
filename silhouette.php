@@ -37,7 +37,7 @@
     <!-- End Head -->
 
     <!-- Body -->
-    <body>
+    <body id="main">
 
         <!--========== HEADER ==========-->
         <?php include("header.php")?>
@@ -75,9 +75,9 @@
                     </div>
                     <div class="col-sm-4 col-sm-pull-8">
                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".5s">
-                            <a class="js__popup__youtube" href="https://www.youtube.com/watch?v=lcFYdgZKZxY" title="Intro Video">
+                            <a class="js__popup__youtube" href="#newform" title="Intro Video">
                                 <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>
-                                <span class="text-uppercase g-font-size-13--xs g-color--white g-padding-x-15--xs">Watch the Overview</span>
+                                <span class="text-uppercase g-font-size-13--xs g-color--white g-padding-x-15--xs">Register Now!</span>
                             </a>
                         </div>
                     </div>
@@ -188,22 +188,7 @@
         <!--========== END PAGE CONTENT ==========-->
 
         <!--========== FOOTER ==========-->
-        <footer class="g-bg-color--gray-lighter">
-            <!-- Copyright -->
-            <div class="container g-padding-y-20--xs">
-                <div class="row">
-                    <div class="col-xs-6">
-                        <a href="index.html">
-                            <img class="g-width-100--xs g-height-auto--xs" src="img/180-logo-black.png" alt="conso Logo">
-                        </a>
-                    </div>
-                    <div class="col-xs-6 g-text-right--xs">
-                        <p class="g-font-size-16--xs g-margin-b-0--xs g-color--red-opacity-light">by:<a href="http://www.prisag.xyz/" target="_blank">PriSag.xyz</a></p>
-                    </div>
-                </div>
-            </div>
-            <!-- End Copyright -->
-        </footer>
+        <?php include("footer.php");?>
         <!--========== END FOOTER ==========-->
 
         <!-- Back To Top -->

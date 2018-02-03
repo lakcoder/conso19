@@ -64,6 +64,10 @@ var Global = function() {
     });
   }
 
+  //handle on click "a" overlay
+
+
+
   // Vertical Center Aligned
   // Note! This works only with promo block and background image via CSS.
   var handleVerticalCenterAligned = function() {
@@ -112,7 +116,7 @@ var Global = function() {
       if(parent.attr('data-related')) {
         $(parent.attr('data-related')).css('height', parent.height());
       }
-   });       
+   });
   }
 
   return {

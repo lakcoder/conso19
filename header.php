@@ -6,9 +6,9 @@
                         <div class="s-header__navbar-row-col">
                             <!-- Logo -->
                             <div class="s-header__logo">
-                                <a href="index.html" class="s-header__logo-link">
-                                    <img class="s-header__logo-img s-header__logo-img-default" src="img/180-logo.png" alt="Consortium Logo">
-                                    <img class="s-header__logo-img s-header__logo-img-shrink" src="img/180-logo-black.png" alt="Consortium Logo">
+                                <a href="index.php" class="s-header__logo-link">
+                                    <img class="s-header__logo-img s-header__logo-img-default" src="img/logo.png" alt="Consortium Logo">
+                                    <img class="s-header__logo-img s-header__logo-img-shrink" src="img/logo-conso.png" alt="Consortium Logo">
                                 </a>
                             </div>
                             <!-- End Logo -->
@@ -36,12 +36,13 @@
 
                         <!-- Menu List -->
                         <ul class="list-unstyled s-header__nav-menu">
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="about.html">About</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="team.html">Team</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="services.html">Events</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="events.html">Sponsors</a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index.php">Home</a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="#about">About</a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="team.php">Team</a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="inex.php/#events">Events</a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="spons.php">Sponsors</a></li>
 
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="contacts.html">Contacts</a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="index.php/#contact">Contacts</a></li>
                         </ul>
                         <!-- End Menu List -->
                     </div>

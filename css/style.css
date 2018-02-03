@@ -1600,7 +1600,7 @@ fieldset[disabled] .s-btn {
 ------------------------------ */
 /* Navbar */
 .s-header__shrink .s-header__navbar {
-  box-shadow: 0 0 0.9375rem 0 rgba(34, 35, 36, 0.05);
+
 }
 
 .s-header__shrink.-is-open .s-header__navbar {
@@ -1617,7 +1617,7 @@ fieldset[disabled] .s-btn {
 }
 
 .s-header__shrink .s-header__navbar {
-  background: rgba(255, 255, 255, 0.81);
+  background: rgba(255, 255, 255, 0);
 }
 
 .s-header__shrink .s-header__logo-img-default {
@@ -1634,7 +1634,7 @@ fieldset[disabled] .s-btn {
 }
 
 .s-header__shrink .s-header__trigger-icon {
-  background: #222324;
+  background: #000;
 }
 
 /*----------------------------------
@@ -2467,4 +2467,8 @@ text-align:center;
 #bizmantra5{
   padding:40px 20px;
   text-align:-webkit-auto;
+}
+
+#contact{
+  padding-top:80px;
 }
