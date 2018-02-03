@@ -94,19 +94,19 @@
                 <!-- Action -->
                 <ul class="list-inline s-header__action s-header__action--rb">
                     <li class="s-header__action-item">
-                        <a class="s-header__action-link" href="#">
+                        <a class="s-header__action-link" href=" https://m.facebook.com/vnitecell/">
                             <i class="g-padding-r-5--xs ti-facebook"></i>
                             <span class="g-display-none--xs g-display-inline-block--sm">Facebook</span>
                         </a>
                     </li>
                     <li class="s-header__action-item">
-                        <a class="s-header__action-link" href="#">
+                        <a class="s-header__action-link" href="https://twitter.com/ecell_vnit">
                             <i class="g-padding-r-5--xs ti-twitter"></i>
                             <span class="g-display-none--xs g-display-inline-block--sm">Twitter</span>
                         </a>
                     </li>
                     <li class="s-header__action-item">
-                        <a class="s-header__action-link" href="#">
+                        <a class="s-header__action-link" href=" https://www.instagram.com/ecellvnit/">
                             <i class="g-padding-r-5--xs ti-instagram"></i>
                             <span class="g-display-none--xs g-display-inline-block--sm">Instagram</span>
                         </a>
@@ -371,7 +371,12 @@
             <!--Sessions Start-->
             <div class="card-content code">
                 <div class="container g-margin-b-100--xs" id="session">
-
+                    <ol>
+                        <li></li>
+                        <li></li>
+                    </ol>
+                    <br>
+                    <h5>Stay tuned for updates.</h5>
                 </div>
             </div>
             <!--Session End-->
@@ -405,7 +410,7 @@
             <!--Startup Expo Start-->
             <div class="card-content code">
                 <div class="container g-margin-b-100--xs" id="startup">
-
+                    <h5>Comming Soon..</h5>
                 </div>
             </div>
             <!--Startup Expo End-->
