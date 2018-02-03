@@ -1,5 +1,6 @@
 <?php
 // Add name tags to input in html: name,email,phone,submit
+// Change table names to adventure,bizmantra,silhouette resp.
 
 if ( isset( $_POST['submit'] ) ) {
     $con = mysqli_connect("localhost:3306", "conso", "Conso123@", "conso");
