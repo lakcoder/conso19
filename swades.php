@@ -156,7 +156,7 @@
                         <p class=" g-color--white">+91 91726-37632</p>
                     </li>
                     <li class="col-md-6 g-color--white">
-                        <h6 class="g-color--white g-font-size-20--md">Anushee</h6>
+                        <h6 class="g-color--white g-font-size-20--md">Anushree</h6>
                         <p class=" g-color--white">anushree.rungta@gmail.com</p>
                         <p class=" g-color--white">+91 98224-44112</p>
                     </li>
@@ -167,7 +167,7 @@
                     </li>
 
                     <li class="col-md-6 g-color--white">
-                        <h6 class="g-color--white g-font-size-20--md"Vedant</h6>
+                        <h6 class="g-color--white g-font-size-20--md">Vedant</h6>
                         <p class="g-color--white">vedantks36@gmail.com</p>
                         <p class=" g-color--white">+91 98675-40678</p>
                     </li>
@@ -180,20 +180,8 @@
             </div>
             <div id="newform">
                 <form class="g-bg-color--dark-light g-padding-x-50--xs g-padding-y-80--xs g-radius--4">
-                    <div class="g-text-center--xs g-margin-b-40--xs">
-                        <h2 class="g-font-size-30--xs g-color--white">Join Event</h2>
-                    </div>
-                    <div class="g-margin-b-40--xs">
-                        <input type="text" class="form-control s-form-v3__input" placeholder="* Name">
-                    </div>
-                    <div class="g-margin-b-40--xs">
-                        <input type="email" class="form-control s-form-v3__input" placeholder="* Email">
-                    </div>
-                    <div class="g-margin-b-40--xs">
-                        <input type="text" class="form-control s-form-v3__input" placeholder="* Phone">
-                    </div>
                     <div class="g-text-center--xs">
-                        <button type="submit" class="text-uppercase btn-block s-btn s-btn--md s-btn--white-bg g-radius--50 g-padding-x-50--xs g-margin-b-20--xs">Join Now</button>
+                        <button type="submit" class="text-uppercase btn-block s-btn s-btn--md s-btn--white-bg g-radius--50 g-padding-x-50--xs g-margin-b-20--xs">Register</button>
                     </div>
                 </form>
             </div>
