@@ -1359,8 +1359,9 @@ fieldset[disabled] .s-btn {
 .s-header__nav-menu {
   width:100%;
   text-align: -webkit-center;
+  text-align: center;
   margin: 0;
-  height:-webkit-fill-available;
+  height:100%;
 }
 
 @media (max-width: 47.9em) {

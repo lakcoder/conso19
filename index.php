@@ -594,7 +594,7 @@
                 <div class="g-text-center--xs" id="confirm"></div>
                 <div class="g-text-center--xs g-margin-b-40--xs">
                     <br><br>
-                    <p class="text-uppercase g-font-size-14--xs g-font-weight--400 g-letter-spacing--2 g-margin-b-25--xs">Or Need Any Help? Contact: <a href="team.php">Cores</a></p>
+                    <p class="text-uppercase g-font-size-14--xs g-font-weight--400 g-letter-spacing--2 g-margin-b-25--xs">Or Need Any Help? Contact: <a href="team.php">Team</a></p>
                 </div>
             </div>
         </div>

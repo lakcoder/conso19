@@ -55,7 +55,7 @@
                         <div class="row">
                             <div class="col-sm-6 g-margin-b-30--xs g-margin-b-0--md">
                                 <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".4s">
-                                    <p class="g-font-size-18--xs g-color--white-opacity">Get an insight into blurred segments of the village life and pave them towards a clear path that focuses on a pragmatic, yet a sustainable solution.</p>
+                                    <p class="g-font-size-18--xs g-color--white">Get an insight into blurred segments of the village life and pave them towards a clear path that focuses on a pragmatic, yet a sustainable solution.</p>
                                 </div>
                             </div>
                             <div class="col-sm-5 col-sm-offset-1">
@@ -66,8 +66,8 @@
                                         </div>
                                     </div>
                                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
-                                        <span class="s-promo-block-v3__month g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white-opacity-light">Prize Money</span>
-                                        <span class="s-promo-block-v3__year g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white-opacity-light">And more!</span>
+                                        <span class="s-promo-block-v3__month g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white">Prize Money</span>
+                                        <span class="s-promo-block-v3__year g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white">And more!</span>
                                     </div>
                                 </div>
                             </div>
