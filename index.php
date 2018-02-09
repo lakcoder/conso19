@@ -168,7 +168,7 @@
                         </div>
                     </div>
                     <div class="col-md-7 col-md-offset-1">
-                        <p class="g-font-size-18--xs">Welcome to the extravaganza that is Consortium! Consortium, the Annual Entrepreneurship Summit of VNIT Nagpur comprises of invigorating events like Ascent, Startup Conclave and Swades.
+                        <p class="g-font-size-18--xs">Welcome to the extravaganza that is Consortium! Consortium, the Annual Entrepreneurship Summit of VNIT Nagpur comprises of invigorating events like Startup Conclave and Swades.
                         The summit aims at fueling entrepreneurial attitude amongst students through healthy competition and exciting challenges.
                         It fosters the importance of leadership and decision making and introduces young technocrats to various management practices in the corporate world.</p>
                         <p class="g-font-size-18--xs">This year Consortium’s theme is Push the Human Race Forward. Through this theme we want to focus on the disruptive innovations and inventions that have took the whole human race forward.</p>
