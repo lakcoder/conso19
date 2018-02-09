@@ -558,31 +558,36 @@ if ( isset( $_POST['submitexpo'] ) ) {
                                 <br><br>
                                 <h4>Insights</h4>
                                 <div>
-                                    <ol type="a">
-                                        <h6>What is a business plan?</h6>
-                                        &#09;<li>Why prepare a business plan?</li>
-                                        <li>What to avoid in your business plan</li>
-                                        <p>Business Plan Format</p>
-                                        <li>Vision statement</li>
-                                        <li>The people</li>
-                                        <li>Business profile</li>
-                                        <li>Economic assessment</li>
-                                        <li></li>
-                                        <li></li>
-                                        <li></li>
-                                        <li></li>
-                                        <li></li>
-                                        <li></li>
-                                        <li></li>
-                                        <li></li>
-                                        <li></li>
-                                        <li></li>
-                                        <li></li>
-                                        <li></li>
-                                        <li></li>
-                                        <li></li>
-                                        <li></li>
-                                        <li></li>
+                                    <ul>
+                                        <li>
+                                            What is a business plan?
+                                            <ol type="a" start="a">
+                                                <li>Why prepare a business plan?</li>
+                                                <li>What to avoid in your business plan</li>
+                                            </ol>
+                                        </li>
+                                        <li>
+                                            Business Plan Format
+                                            <ol type="a" start="c">
+                                                <li>Vision statement</li>
+                                                <li>The people</li>
+                                                <li>Business profile</li>
+                                                <li>Economic assessment</li>
+                                            </ol>
+                                         </li>
+                                         <li>
+                                             Eight Steps to a Great Business Plan
+                                             <ol type="a" start="g">
+                                                 <li>Set time aside to prepare</li>
+                                                 <li>Focus and refine concept</li>
+                                                 <li>Gather data</li>
+                                                 <li>Outline the specifics of your business</li>
+                                                 <li>Include experience</li>
+                                                 <li>Put your plan into a compelling form</li>
+                                                 <li>Enhance with graphics</li>
+                                                 <li>Share draft with trusted advisers</li>
+                                             </ol>
+                                         </li>
                                     </ol>
                                 </div>
                             </div>
