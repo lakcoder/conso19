@@ -441,11 +441,14 @@ if ( isset( $_POST['submitexpo'] ) ) {
                                 <br>
                                 <h4>About the Speaker</h4>
                                 <ul type="none">
-                                    <li>Yash Gandhi</li>
-                                    <li>Lead Statistician</li>
-                                    <li>Helpshift</li>
+                                    <li>Yash Gandhi,</li>
+                                    <li>Lead Statistician,</li>
+                                    <li>Helpshift,</li>
                                     <li>Purdue University</li>
                                 </ul>
+                                <br>
+                                <b>Date : </b><b>24<sup>th</sup> August, 2017</b>
+                                <br>
                                 <br>
                                 <h4>Insights</h4>
                                 <p>
