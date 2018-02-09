@@ -8,7 +8,11 @@ if(empty($_POST['name'])      ||
    empty($_POST['message'])   ||
    !filter_var($_POST['email'],FILTER_VALIDATE_EMAIL))
    {
-   echo "No arguments Provided!";
+   ?>
+<script>
+    $("#confirm").append('<br><p class="text-uppercase g-font-size-14--xs g-font-weight--400 g-letter-spacing--2 g-margin-b-25--xs">Plz! Fill the form</p>');
+</script>
+<?php
    return false;
    }
 
@@ -44,9 +48,9 @@ if (PEAR::isError($mail)) {
 echo("<p>" . $mail->getMessage() . "</p>");
 } else {
 ?>
-<style>
+<script>
     $("#confirm").append('<br><p class="text-uppercase g-font-size-14--xs g-font-weight--400 g-letter-spacing--2 g-margin-b-25--xs">Message Sent Succesfully!</p>');
-</style>
+</script>
 <?php
 }
 
