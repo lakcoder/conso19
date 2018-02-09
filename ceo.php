@@ -76,9 +76,9 @@
                     </div>
                     <div class="col-sm-4 col-sm-pull-8">
                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".5s">
-                            <a class="js__popup__youtube" href="#newform" title="Intro Video">
+                            <a href="#newform" title="Register">
                                 <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-arrow-down"></i>
-                                <span class="text-uppercase g-font-size-13--xs g-color--white g-padding-x-15--xs">Register</span>
+                                <span class="text-uppercase g-font-size-13--xs g-color--white g-padding-x-15--xs">Register Now!</span>
                             </a>
                         </div>
                     </div>

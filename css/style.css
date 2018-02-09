@@ -2491,3 +2491,14 @@ margin:0px;
     padding:10px 0px;
     margin-left:calc(50% - 60px);
 }
+
+#foot img{
+    max-width:90px;
+    padding:10px 0px;
+    margin-left:calc(50% - 60px);
+}
+@media(max-width:727px){
+  #foot img{
+    max-width:80px;
+  }
+}

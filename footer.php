@@ -1,33 +1,39 @@
         <footer class="g-bg-color--dark">
             <!-- Sponsors -->
             <div class="g-bg-color--footer">
-                <div class="g-container--md g-padding-y-80--xs g-padding-y-125--sm">
+                <div class="g-container--md g-padding-y-60--xs g-padding-y-80--sm">
                     <!-- Swiper Clients -->
-                    <div class="s-swiper js__swiper-clients">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".1s">
-                                    <img class="s-clients-v1" src="img/clients/01-dark.png" alt="Clients Logo">
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".2s">
-                                    <img class="s-clients-v1" src="img/clients/02-dark.png" alt="Clients Logo">
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
+                    <div class="container" id="foot">
+                        <div class="row">
+                            <div class="col-md-2 col-sm-4 col-xs-6">
                                 <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".3s">
-                                    <img class="s-clients-v1" src="img/clients/03-dark.png" alt="Clients Logo">
+                                    <img class="s-clients-v1" src="img/clients/TiE.png" alt="Clients Logo">
                                 </div>
                             </div>
-                            <div class="swiper-slide">
+                            <div class="col-md-2 col-sm-4 col-xs-6">
+                                <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".1s">
+                                    <img class="s-clients-v1" src="img/clients/Make_In_India.png" alt="Clients Logo">
+                                </div>
+                            </div>
+                            <div class="col-md-2 col-sm-4 col-xs-6">
+                                <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".2s">
+                                    <img class="s-clients-v1" src="img/clients/Startindia-2.png" alt="Clients Logo">
+                                </div>
+                            </div>
+                            <div class="col-md-2 col-sm-4 col-xs-6">
+                                <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".2s">
+                                    <img class="s-clients-v1" src="img/clients/digital-india.png" alt="Clients Logo">
+                                </div>
+                            </div>
+
+                            <div class="col-md-2 col-sm-4 col-xs-6">
                                 <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".4s">
-                                    <img class="s-clients-v1" src="img/clients/04-dark.png" alt="Clients Logo">
+                                    <img class="s-clients-v1" src="img/clients/CIVN.png" alt="Clients Logo">
                                 </div>
                             </div>
-                            <div class="swiper-slide">
+                            <div class="col-md-2 col-sm-4 col-xs-6">
                                 <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".5s">
-                                    <img class="s-clients-v1" src="img/clients/05-dark.png" alt="Clients Logo">
+                                    <img class="s-clients-v1" src="img/clients/pmyuva.png" alt="Clients Logo">
                                 </div>
                             </div>
                         </div>
