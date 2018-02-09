@@ -102,13 +102,16 @@
     		    	    <h6><i>"Marketing is no longer about the stuff that you make, but about the stories you tell" -Seth Godin</i></h6>
     					<p>BizMantra aims to test your marketing skills at a rudimentary level. Here you have to accept a product from our side and build its presence by bringing it in the spotlight.
     					Your journey in this event will put you through a series of tasks, which will help you realize your potential in the world of marketing.</p>
+    					<br>
     					<h6><b>Event Structure</b></h6>
-    					<ol>
+    					<ul>
 
     					    <li><h6>Round 1</h6><p>The event will start with a quiz that will help shortlist the candidates. If you are able to clear the quiz, you will  be divided into teams of four, and would have to clear two rounds in order to win the competition.</p></li>
+    					    <br>
     					    <li><h6>Round 2</h6><p>Your team will be given a catchy fictitious product for which you have to garner maximum votes. The top teams from this round will be selected for the final task. </p></li>
+    					    <br>
     					    <li><h6>Round 3</h6><p>In this round, you will be given a series of products and you have to sell the products at the maximum profit possible in order to win the round, and consequently the event.</p></li>
-    					</ol>
+    					</ul>
     		    	</div>
     		    	<div id="bizmantra5">
     			     	<ol>
@@ -133,18 +136,22 @@
             <div class="" id="cordinator">
                 <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-40--md g-color--white">Event Managers</h2>
                 <ol>
+                    <br>
                     <li class=" g-color--white">
                         <h6 class="g-color--white g-font-size-20--md">Souvik Naha</h6>
                         <p class=" g-color--white">7908057043</p>
                     </li>
+                    <br>
                     <li class=" g-color--white">
                         <h6 class="g-color--white g-font-size-20--md">Omkar Tarkar</h6>
                         <p class=" g-color--white">9930137666</p>
                     </li>
+                    <br>
                     <li class=" g-color--white">
                         <h6 class="g-color--white g-font-size-20--md">Abhishek Kumar Singh</h6>
                         <p class=" g-color--white">9532902034</p>
                     </li>
+                    <br>
                     <li class=" g-color--white">
                         <h6 class="g-color--white g-font-size-20--md">Akshay Singh</h6>
                         <p class=" g-color--white">7758009078</p>
