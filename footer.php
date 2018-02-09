@@ -47,12 +47,12 @@
                         </a>
                     </div>
                     <div class="col-xs-4">
-                           <p>For Association Opportunities contact<br>association@ecellvnit.org<br><br>
+                           <p style="color:#ffffff; padding-top: 20px">For Association Opportunities contact<br>association@ecellvnit.org<br><br>
 For Sponsorship Opportunities contact<br> sponsorship@ecellvnit.org<br><br>
                                    For Speaking Opportunities contact <br>speaker@ecellvnit.org</p> 
                     </div>
                     <div class="col-xs-4 g-text-right--xs">
-                        <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light">Copyright@ <a href="https://www.ecellvnit.org/" target="_blank">E-cell Vnit</a>Designed by: <a href="http://www.prisag.xyz/" target="_blank">Prisag.xyz</a></p>
+                        <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light">Copyright@ <a href="https://www.ecellvnit.org/" target="_blank">E-cell Vnit</a><br>Designed by: <a href="http://www.prisag.xyz/" target="_blank">Prisag.xyz</a></p>
                     </div>
                 </div>
             </div>
