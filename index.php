@@ -561,14 +561,14 @@ if ( isset( $_POST['submitexpo'] ) ) {
                                     <ul>
                                         <li>
                                             What is a business plan?
-                                            <ol type="a" start="a">
+                                            <ol type="a" start="1">
                                                 <li>Why prepare a business plan?</li>
                                                 <li>What to avoid in your business plan</li>
                                             </ol>
                                         </li>
                                         <li>
                                             Business Plan Format
-                                            <ol type="a" start="c">
+                                            <ol type="a" start="3">
                                                 <li>Vision statement</li>
                                                 <li>The people</li>
                                                 <li>Business profile</li>
@@ -577,7 +577,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                                          </li>
                                          <li>
                                              Eight Steps to a Great Business Plan
-                                             <ol type="a" start="g">
+                                             <ol type="a" start="7">
                                                  <li>Set time aside to prepare</li>
                                                  <li>Focus and refine concept</li>
                                                  <li>Gather data</li>
@@ -586,6 +586,19 @@ if ( isset( $_POST['submitexpo'] ) ) {
                                                  <li>Put your plan into a compelling form</li>
                                                  <li>Enhance with graphics</li>
                                                  <li>Share draft with trusted advisers</li>
+                                             </ol>
+                                         </li>
+                                         <li>
+                                             Does Your Plan Include the Following Necessary Factors
+                                             <ol type="a" start="15">
+                                                 <li>A sound business concept</li>
+                                                 <li>Understanding your market</li>
+                                                 <li>Healthy, growing and stable industry</li>
+                                                 <li>Capable management</li>
+                                                 <li>Able financial control</li>
+                                                 <li>Consistent business focus</li>
+                                                 <li>Mindset to anticipate change</li>
+                                                 <li>Plans for online business</li>
                                              </ol>
                                          </li>
                                     </ol>
