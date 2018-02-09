@@ -151,13 +151,13 @@
                         <h2 class="g-font-size-30--xs g-color--white">Join Event</h2>
                     </div>
                     <div class="g-margin-b-40--xs">
-                        <input type="text" class="form-control s-form-v3__input" placeholder="* Name">
+                        <input type="text" class="form-control s-form-v3__input" placeholder="* Name" name="name">
                     </div>
                     <div class="g-margin-b-40--xs">
-                        <input type="email" class="form-control s-form-v3__input" placeholder="* Email">
+                        <input type="email" class="form-control s-form-v3__input" placeholder="* Email" name="email">
                     </div>
                     <div class="g-margin-b-40--xs">
-                        <input type="text" class="form-control s-form-v3__input" placeholder="* Phone">
+                        <input type="text" class="form-control s-form-v3__input" placeholder="* Phone" name="phone">
                     </div>
                     <div class="g-text-center--xs">
                         <button type="submit" class="text-uppercase btn-block s-btn s-btn--md s-btn--white-bg g-radius--50 g-padding-x-50--xs g-margin-b-20--xs">Join Now</button>
