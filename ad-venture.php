@@ -166,27 +166,15 @@ if ( isset( $_POST['submit'] ) ) {
                     <li class="g-color--white">
                         <h6 class="g-color--white g-font-size-20--md">Sri Charan</h6>
                         <p class="g-color--white">+91 7721075759</p>
-                        <p class=" g-color--white"></p>
+                        <p class=" g-color--white">msricharan99@gmail.com</p>
                     </li>
 
                 </ol>
             </div>
             <div id="newform">
-                <form class="g-bg-color--dark-light g-padding-x-50--xs g-padding-y-80--xs g-radius--4" method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
-                    <div class="g-text-center--xs g-margin-b-40--xs">
-                        <h2 class="g-font-size-30--xs g-color--white">Join Event</h2>
-                    </div>
-                    <div class="g-margin-b-40--xs">
-                        <input type="text" class="form-control s-form-v3__input" placeholder="* Name" name="name">
-                    </div>
-                    <div class="g-margin-b-40--xs">
-                        <input type="email" class="form-control s-form-v3__input" placeholder="* Email" name="email">
-                    </div>
-                    <div class="g-margin-b-40--xs">
-                        <input type="text" class="form-control s-form-v3__input" placeholder="* Phone" name="phone">
-                    </div>
+                <form class="g-bg-color--dark-light g-padding-x-50--xs g-padding-y-80--xs g-radius--4">
                     <div class="g-text-center--xs">
-                        <button type="submit" class="text-uppercase btn-block s-btn s-btn--md s-btn--white-bg g-radius--50 g-padding-x-50--xs g-margin-b-20--xs" name="submit">Join Now</button>
+                        <a href="https://adventure.ecellvnit.org/register/" target="_blank" class="text-uppercase btn-block s-btn s-btn--md s-btn--white-bg g-radius--50 g-padding-x-50--xs g-margin-b-20--xs">Register</a>
                     </div>
                 </form>
             </div>
