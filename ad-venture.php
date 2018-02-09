@@ -172,13 +172,9 @@ if ( isset( $_POST['submit'] ) ) {
                 </ol>
             </div>
             <div id="newform">
-                <form class="g-bg-color--dark-light g-padding-x-50--xs g-padding-y-80--xs g-radius--4" method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
-                    <div class="g-text-center--xs g-margin-b-40--xs">
-                        <h2 class="g-font-size-30--xs g-color--white">Join Event</h2>
-                    </div>
-                    
+                <form class="g-bg-color--dark-light g-padding-x-50--xs g-padding-y-80--xs g-radius--4">
                     <div class="g-text-center--xs">
-                        <button href="https://adventure.ecellvnit.org/register/" target="_blank" class="text-uppercase btn-block s-btn s-btn--md s-btn--white-bg g-radius--50 g-padding-x-50--xs g-margin-b-20--xs" >Register</button>
+                        <a href="https://adventure.ecellvnit.org/register/" target="_blank" class="text-uppercase btn-block s-btn s-btn--md s-btn--white-bg g-radius--50 g-padding-x-50--xs g-margin-b-20--xs">Register</a>
                     </div>
                 </form>
             </div>
