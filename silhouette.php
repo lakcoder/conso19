@@ -156,14 +156,14 @@ if ( isset( $_POST['submit'] ) ) {
                 <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-40--md g-color--white">Event Managers</h2>
                 <ol>
                     <li class=" g-color--white">
-                        <h6 class="g-color--white g-font-size-20--md">Sagar</h6>
-                        <p class=" g-color--white">897913358</p>
-                        <p class=" g-color--white">dwdef@dfe.com</p>
+                        <h6 class="g-color--white g-font-size-20--md">Ayush Singh</h6>
+                        <p class=" g-color--white">isayushsingh@gmail.com</p>
+                        <p class=" g-color--white"></p>
                     </li>
                     <li class="g-color--white">
-                        <h6 class="g-color--white g-font-size-20--md">Saar</h6>
-                        <p class="g-color--white">3979142208</p>
-                        <p class=" g-color--white">sag.sw@e.com</p>
+                        <h6 class="g-color--white g-font-size-20--md">Prashant Bramhanwade</h6>
+                        <p class="g-color--white"></p>
+                        <p class=" g-color--white"></p>
                     </li>
                 </ol>
             </div>

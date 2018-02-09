@@ -163,7 +163,7 @@
                     <li class="col-md-6 g-color--white">
                         <h6 class="g-color--white g-font-size-20--md">Tushar</h6>
                         <p class=" g-color--white">tushargvtiit@gmail.com</p>
-                        <p class=" g-color--white">+91 85699-09857/p>
+                        <p class=" g-color--white">+91 85699-09857</p>
                     </li>
 
                     <li class="col-md-6 g-color--white">
@@ -181,7 +181,7 @@
             <div id="newform">
                 <form class="g-bg-color--dark-light g-padding-x-50--xs g-padding-y-80--xs g-radius--4">
                     <div class="g-text-center--xs">
-                        <button type="submit" class="text-uppercase btn-block s-btn s-btn--md s-btn--white-bg g-radius--50 g-padding-x-50--xs g-margin-b-20--xs">Register</button>
+                        <a href="https://swades.ecellvnit.org/register/" target="_blank" class="text-uppercase btn-block s-btn s-btn--md s-btn--white-bg g-radius--50 g-padding-x-50--xs g-margin-b-20--xs">Register</a>
                     </div>
                 </form>
             </div>

@@ -2,7 +2,7 @@
 // Add name tags to input in html: name,email,phone,submit
 // Change table names to adventure,bizmantra,silhouette resp.
 
-// add in formtag : method="post" action="<?php echo $_SERVER['PHP_SELF']; 
+// add in formtag : method="post" action="<?php echo $_SERVER['PHP_SELF'];
 
 if ( isset( $_POST['submit'] ) ) {
     $con = mysqli_connect("localhost:3306", "conso", "Conso123@", "conso");
@@ -252,16 +252,7 @@ if ( isset( $_POST['submit'] ) ) {
                         <p class=" g-color--white">p.zodpey@gmail.com</p>
                         <p class=" g-color--white">+91 9579885783</p>
                     </li>
-                    <li class="col-md-6 g-color--white">
-                        <h6 class="g-color--white g-font-size-20--md">Snigdha Patil</h6>
-                        <p class="g-color--white">Snigdhaspatil8@gmail.com</p>
-                        <p class=" g-color--white">+91 7276893888</p>
-                    </li>
-                    <li class="col-md-6 g-color--white">
-                        <h6 class="g-color--white g-font-size-20--md">Sri Charan</h6>
-                        <p class="g-color--white">sricharan2202@gmail.com</p>
-                        <p class=" g-color--white">+91 7721075759</p>
-                    </li>
+
                 </ol>
             </div>
             <div id="newform">
