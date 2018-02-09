@@ -226,7 +226,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                                 <span class="g-font-size-40--xs g-color--white">+</span>
                             </div>
                             <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
-                            <h4 class="g-font-size-18--xs g-color--white">Startup Ups</h4>
+                            <h4 class="g-font-size-18--xs g-color--white">Startups</h4>
                         </div>
                     </div>
                     <div class="col-md-3 col-xs-6 g-full-width--xs">
