@@ -45,11 +45,24 @@
                         <a href="index.php">
                             <img class="g-width-100--xs g-height-auto--xs" src="img/logo.png" alt="Consortium Logo">
                         </a>
+                        <br><br>
+                        <a class="s-header__action-link" href=" https://m.facebook.com/vnitecell/">
+                            <i class="g-padding-r-5--xs ti-facebook"></i>
+                            <span class="g-display-none--xs g-display-inline-block--sm">Facebook</span>
+                        </a>
+                        <a class="s-header__action-link" href="https://twitter.com/ecell_vnit">
+                            <i class="g-padding-r-5--xs ti-twitter"></i>
+                            <span class="g-display-none--xs g-display-inline-block--sm">Twitter</span>
+                        </a>
+                        <a class="s-header__action-link" href=" https://www.instagram.com/ecellvnit/">
+                            <i class="g-padding-r-5--xs ti-instagram"></i>
+                            <span class="g-display-none--xs g-display-inline-block--sm">Instagram</span>
+                        </a>
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-4">
                            <p style="color:#ffffff; padding-top: 20px">For Association Opportunities contact<br>association@ecellvnit.org<br><br>
-For Sponsorship Opportunities contact<br> sponsorship@ecellvnit.org<br><br>
-                                   For Speaking Opportunities contact <br>speaker@ecellvnit.org</p> 
+                            For Sponsorship Opportunities contact<br> sponsorship@ecellvnit.org<br><br>
+                            For Speaking Opportunities contact <br>speaker@ecellvnit.org</p>
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-4 g-text-right--xs">
                         <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light">Copyright@ <a href="https://www.ecellvnit.org/" target="_blank">E-cell Vnit</a><br>Designed by: <a href="http://www.prisag.xyz/" target="_blank">Prisag.xyz</a></p>

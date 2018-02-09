@@ -511,7 +511,7 @@
             <!--Initiatives Start-->
             <div class="card-content code">
                 <div class="container g-margin-b-100--xs" id="initiative">
-                    <h3>Initiatives</h3>
+                    <br>
                     <h4>Plantation</h4>
                     <h5>Smart Plantation by using Innovative Self Watering Tree Gaurds</h5>
                     <i>Sponsored by- Rainbow Greeners, Rakshak</i>
