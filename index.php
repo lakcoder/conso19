@@ -398,7 +398,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
             <!--Sessions Start-->
             <div class="card-content code">
                 <div class="container g-margin-b-100--xs" id="session">
-                    <!--<div id="js__grid-portfolio-gallery" class="cbp">-->
+                    <div id="js__grid-portfolio-gallery" class="cbp">
                         <!-- Item -->
                         <div class="s-portfolio__item cbp-item event motion">
                             <div class="s-portfolio__img-effect">
