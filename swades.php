@@ -149,16 +149,32 @@
         <div class="container js__parallax-window">
             <div class="" id="cordinator">
                 <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-40--md g-color--white">Event Managers</h2>
-                <ol>
-                    <li class=" g-color--white">
-                        <h6 class="g-color--white g-font-size-20--md">Sagar</h6>
-                        <p class=" g-color--white">897913358</p>
-                        <p class=" g-color--white">dwdef@dfe.com</p>
+                <ol class="row">
+                    <li class="col-md-6 g-color--white">
+                        <h6 class="g-color--white g-font-size-20--md">Shuvendu </h6>
+                        <p class=" g-color--white">s.ranabijuli123@gmail.com</p>
+                        <p class=" g-color--white">+91 91726-37632</p>
                     </li>
-                    <li class="g-color--white">
-                        <h6 class="g-color--white g-font-size-20--md">Saar</h6>
-                        <p class="g-color--white">3979142208</p>
-                        <p class=" g-color--white">sag.sw@e.com</p>
+                    <li class="col-md-6 g-color--white">
+                        <h6 class="g-color--white g-font-size-20--md">Anushee</h6>
+                        <p class=" g-color--white">anushree.rungta@gmail.com</p>
+                        <p class=" g-color--white">+91 98224-44112</p>
+                    </li>
+                    <li class="col-md-6 g-color--white">
+                        <h6 class="g-color--white g-font-size-20--md">Tushar</h6>
+                        <p class=" g-color--white">tushargvtiit@gmail.com</p>
+                        <p class=" g-color--white">+91 85699-09857/p>
+                    </li>
+
+                    <li class="col-md-6 g-color--white">
+                        <h6 class="g-color--white g-font-size-20--md"Vedant</h6>
+                        <p class="g-color--white">vedantks36@gmail.com</p>
+                        <p class=" g-color--white">+91 98675-40678</p>
+                    </li>
+                    <li class="col-md-6 g-color--white">
+                        <h6 class="g-color--white g-font-size-20--md">Shivam</h6>
+                        <p class="g-color--white">shivamkasana33@gmail.com</p>
+                        <p class=" g-color--white">+91 75586-22049</p>
                     </li>
                 </ol>
             </div>

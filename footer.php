@@ -15,11 +15,7 @@
                                     <img class="s-clients-v1" src="img/clients/Make_In_India.png" alt="Clients Logo">
                                 </div>
                             </div>
-                            <div class="col-md-2 col-sm-4 col-xs-6">
-                                <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".2s">
-                                    <img class="s-clients-v1" src="img/clients/Startindia-2.png" alt="Clients Logo">
-                                </div>
-                            </div>
+
                             <div class="col-md-2 col-sm-4 col-xs-6">
                                 <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".2s">
                                     <img class="s-clients-v1" src="img/clients/digital-india.png" alt="Clients Logo">
