@@ -621,7 +621,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                     <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Contact</p>
                     <h2 class="g-font-size-32--xs g-font-size-36--md">Mail Us</h2>
                 </div>
-                <form method="post" action="">
+                <form method="post" action="contact_me.php">
                     <div class="row g-margin-b-40--xs">
                         <div class="col-sm-6 g-margin-b-20--xs g-margin-b-0--md">
                             <div class="g-margin-b-20--xs">
