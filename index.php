@@ -1,3 +1,19 @@
+<?php 
+if ( isset( $_POST['submitexpo'] ) ) {
+    $con = mysqli_connect("localhost:3306", "conso", "Conso123@", "conso");
+    if (mysqli_connect_errno()) {
+        echo "Failed to connect to MySQL: " . mysqli_connect_error();
+    }
+
+    
+    $email=$_POST['emailexpo'];
+    
+
+    $query = mysqli_query($con, "INSERT into expo (EMAIL) values('$email')");
+     mysqli_close($con);
+}
+?>
+
 
 <!DOCTYPE html>
 <html lang="en" class="no-js">
@@ -553,10 +569,10 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1">
-                        <form class="input-group">
-                            <input type="email" class="form-control s-form-v1__input g-radius--left-50" name="email" placeholder="Email ?">
+                        <form class="input-group" method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
+                            <input type="email" class="form-control s-form-v1__input g-radius--left-50" name="emailexpo" placeholder="Email ?">
                             <span class="input-group-btn">
-                                <button type="submit" class="s-btn s-btn-icon--md s-btn-icon--white-brd s-btn--white-brd g-radius--right-50"><i class="ti-arrow-right"></i></button>
+                                <button type="submit" class="s-btn s-btn-icon--md s-btn-icon--white-brd s-btn--white-brd g-radius--right-50" name="submitexpo"><i class="ti-arrow-right"></i></button>
                             </span>
                         </form>
                     </div>
