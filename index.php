@@ -545,7 +545,46 @@ if ( isset( $_POST['submitexpo'] ) ) {
                         <!--bplan start-->
                         <div class="card-content code">
                             <div class="container g-margin-b-100--xs" id="idea">
-                                <h3></h3>
+                                <h3><b>Desiging a BPlan</b></h3>
+                                <br>
+                                <h4>About the Speaker</h4>
+                                <ul type="none">
+                                    <li>Devesh Chawla,</li>
+                                    <li>CEO & Founder,</li>
+                                    <li>Chatur Ideas</li>
+                                </ul>
+                                <br>
+                                <b>Date : </b><b>04<sup>th</sup> January, 2018</b>
+                                <br><br>
+                                <h4>Insights</h4>
+                                <div>
+                                    <ol type="a">
+                                        <h6>What is a business plan?</h6>
+                                        &#09;<li>Why prepare a business plan?</li>
+                                        <li>What to avoid in your business plan</li>
+                                        <p>Business Plan Format</p>
+                                        <li>Vision statement</li>
+                                        <li>The people</li>
+                                        <li>Business profile</li>
+                                        <li>Economic assessment</li>
+                                        <li></li>
+                                        <li></li>
+                                        <li></li>
+                                        <li></li>
+                                        <li></li>
+                                        <li></li>
+                                        <li></li>
+                                        <li></li>
+                                        <li></li>
+                                        <li></li>
+                                        <li></li>
+                                        <li></li>
+                                        <li></li>
+                                        <li></li>
+                                        <li></li>
+                                        <li></li>
+                                    </ol>
+                                </div>
                             </div>
                         </div>
                         <!--bplan end-->
