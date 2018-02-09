@@ -1,3 +1,24 @@
+<?php
+// Add name tags to input in html: name,email,phone,submit
+// Change table names to adventure,bizmantra,silhouette resp.
+
+// add in formtag : method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>"
+
+if ( isset( $_POST['submit'] ) ) {
+    $con = mysqli_connect("localhost:3306", "conso", "Conso123@", "conso");
+    if (mysqli_connect_errno()) {
+        echo "Failed to connect to MySQL: " . mysqli_connect_error();
+    }
+
+    $name=$_POST['name'];
+    $email=$_POST['email'];
+    $phone=$_POST['phone'];
+
+    $query = mysqli_query($con, "INSERT into adventure (NAME,EMAIL,CONTACT) values('$name','$email','$phone')");
+     mysqli_close($con);
+}
+?>
+
 <!DOCTYPE html>
 <html lang="en" class="no-js">
     <!-- Begin Head -->
@@ -146,7 +167,7 @@
                 </ol>
             </div>
             <div id="newform">
-                <form class="g-bg-color--dark-light g-padding-x-50--xs g-padding-y-80--xs g-radius--4">
+                <form class="g-bg-color--dark-light g-padding-x-50--xs g-padding-y-80--xs g-radius--4" method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
                     <div class="g-text-center--xs g-margin-b-40--xs">
                         <h2 class="g-font-size-30--xs g-color--white">Join Event</h2>
                     </div>
