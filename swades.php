@@ -31,8 +31,8 @@
         <link href="css/theme/red.css" rel="stylesheet" type="text/css"/>
 
         <!-- Favicon -->
-        <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
-        <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+        <link rel="shortcut icon" href="img/icon.png" type="image/x-icon">
+        <link rel="apple-touch-icon" href="img/icon.png">
     </head>
     <!-- End Head -->
 
