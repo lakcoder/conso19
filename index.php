@@ -491,7 +491,35 @@ if ( isset( $_POST['submitexpo'] ) ) {
                         <!--error start-->
                         <div class="card-content code">
                             <div class="container g-margin-b-100--xs" id="idea">
-                                <h5><b>Info to be added here!!</b></h5>
+                                <h3><b>Error Management</b></h3>
+                                <br>
+                                <h4>About the Speaker</h4>
+                                <ul type="none">
+                                    <li>Michael Frese,</li>
+                                    <li>Provost's Chair,</li>
+                                    <li>Head of Department,</li>
+                                    <li>National University of Singapore</li>
+                                </ul>
+                                <br>
+                                <b>Date : </b><b>30<sup>th</sup> November, 2017</b>
+                                <br><br>
+                                <h4>Insights</h4>
+                                <p>
+                                    Every organization is confronted with errors. Most errors are corrected easily,
+                                    but some may lead to negative consequences. Organizations often focus on error
+                                    prevention as a single strategy for dealing with errors. Our review suggests
+                                    that error prevention needs to be supplemented by error management—an approach
+                                    directed at effectively dealing with errors after they have occurred, with the
+                                    goal of minimizing negative and maximizing positive error consequences
+                                    (examples of the latter are learning and innovations). After defining errors
+                                    and related concepts, we review research on error-related processes affected
+                                    by error management (error detection, damage control). Empirical evidence on
+                                    positive effects of error management in individuals and organizations is then
+                                    discussed, along with emotional, motivational, cognitive, and behavioral
+                                    pathways of these effects. Learning from errors is central, but like other
+                                    positive consequences, learning occurs under certain circumstances—one being
+                                    the development of a mind-set of acceptance of human error.
+                                </p>
                             </div>
                         </div>
                         <!--error end-->
@@ -517,7 +545,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                         <!--bplan start-->
                         <div class="card-content code">
                             <div class="container g-margin-b-100--xs" id="idea">
-                                <h5><b>Info to be added here!!</b></h5>
+                                <h3></h3>
                             </div>
                         </div>
                         <!--bplan end-->
