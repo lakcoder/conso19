@@ -421,12 +421,104 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
             <!--Sessions Start-->
             <div class="card-content code">
                 <div class="container g-margin-b-100--xs" id="session">
-                    <ol>
-                        <li></li>
-                        <li></li>
-                    </ol>
-                    <br>
-                    <h5>Stay tuned for updates.</h5>
+                    <div id="js__grid-portfolio-gallery" class="cbp">
+                        <!-- Item -->
+                        <div class="s-portfolio__item cbp-item event motion">
+                            <div class="s-portfolio__img-effect">
+                                <img src="img/970x647/startupconclave.jpg" alt="startupconclave Image">
+                            </div>
+                            <div class="s-portfolio__caption-hover--cc">
+                                <div class="g-margin-b-25--xs">
+                                    <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Idea Generation and Validation</h4>
+                                    <p class="g-color--white">IB Hubs</p>
+                                </div>
+                                <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                                    <li>
+                                        <a href="https://conso18.ecellvnit.org/events/startupconclave/" target="_blank" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
+                                            <i class="ti-fullscreen"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- Item -->
+                        <div class="s-portfolio__item cbp-item event motion">
+                            <div class="s-portfolio__img-effect">
+                                <img src="img/970x647/adventure.jpg" alt="Portfolio Image">
+                            </div>
+                            <div class="s-portfolio__caption-hover--cc">
+                                <div class="g-margin-b-25--xs">
+                                    <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Data Analytics</h4>
+                                    <p class="g-color--white">Yash Gandhi</p>
+                                </div>
+                                <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                                    <li>
+                                        <a href="/ad-venture.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
+                                            <i class="ti-fullscreen"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- Item -->
+                        <div class="s-portfolio__item cbp-item event motion">
+                            <div class="s-portfolio__img-effect">
+                                <img src="img/970x647/ceo.jpg" alt="Portfolio Image">
+                            </div>
+                            <div class="s-portfolio__caption-hover--cc">
+                                <div class="g-margin-b-25--xs">
+                                    <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Error Management</h4>
+                                    <p class="g-color--white">Michael Frese</p>
+                                </div>
+                                <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                                    <li>
+                                        <a href="/ceo.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
+                                            <i class="ti-fullscreen"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- Item -->
+                        <div class="s-portfolio__item cbp-item event motion">
+                            <div class="s-portfolio__img-effect">
+                                <img src="img/970x647/bizmantra.jpg" alt="Portfolio Image">
+                            </div>
+                            <div class="s-portfolio__caption-hover--cc">
+                                <div class="g-margin-b-25--xs">
+                                    <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Desiging a BPlan</h4>
+                                    <p class="g-color--white">Devesh Chawla</p>
+                                </div>
+                                <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                                    <li>
+                                        <a href="/bizmantra.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
+                                            <i class="ti-fullscreen"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- Item -->
+                        <div class="s-portfolio__item cbp-item event motion">
+                            <div class="s-portfolio__img-effect">
+                                <img src="img/970x647/swades.jpg" alt="Portfolio Image">
+                            </div>
+                            <div class="s-portfolio__caption-hover--cc">
+                                <div class="g-margin-b-25--xs">
+                                    <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Web Session</h4>
+                                    <p class="g-color--white">Matt Abrahams</p>
+                                </div>
+                                <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                                    <li>
+                                        <a href="/swades.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
+                                            <i class="ti-fullscreen"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
                 </div>
             </div>
             <!--Session End-->
