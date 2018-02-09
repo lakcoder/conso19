@@ -181,7 +181,7 @@ if ( isset( $_POST['submit'] ) ) {
                 </ol>
             </div>
             <div id="newform">
-                <form class="g-bg-color--dark-light g-padding-x-50--xs g-padding-y-80--xs g-radius--4">
+                <form class="g-bg-color--dark-light g-padding-x-50--xs g-padding-y-80--xs g-radius--4" method="post" action="<?php echo $_SERVER['PHP_SELF'];?>">
                     <div class="g-text-center--xs g-margin-b-40--xs" method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
                         <h2 class="g-font-size-30--xs g-color--white">Join Event</h2>
                     </div>
