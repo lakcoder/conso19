@@ -434,13 +434,20 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                                 </div>
                                 <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
                                     <li>
-                                        <a href="https://conso18.ecellvnit.org/events/startupconclave/" target="_blank" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
+                                        <a href="#idea" target="_blank" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
                                             <i class="ti-fullscreen"></i>
                                         </a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
+                        <!--idea start-->
+                        <div class="card-content code">
+                            <div class="container g-margin-b-100--xs" id="idea">
+                                <h5><b>Info to be added here!!</b></h5>
+                            </div>
+                        </div>
+                        <!--idea end-->
                         <!-- Item -->
                         <div class="s-portfolio__item cbp-item event motion">
                             <div class="s-portfolio__img-effect">
@@ -453,13 +460,20 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                                 </div>
                                 <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
                                     <li>
-                                        <a href="/ad-venture.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
+                                        <a href="#data" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
                                             <i class="ti-fullscreen"></i>
                                         </a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
+                        <!--data start-->
+                        <div class="card-content code">
+                            <div class="container g-margin-b-100--xs" id="data">
+                                <h5><b>Info to be added here!!</b></h5>
+                            </div>
+                        </div>
+                        <!--data end-->
                         <!-- Item -->
                         <div class="s-portfolio__item cbp-item event motion">
                             <div class="s-portfolio__img-effect">
@@ -472,13 +486,20 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                                 </div>
                                 <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
                                     <li>
-                                        <a href="/ceo.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
+                                        <a href="#error" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
                                             <i class="ti-fullscreen"></i>
                                         </a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
+                        <!--error start-->
+                        <div class="card-content code">
+                            <div class="container g-margin-b-100--xs" id="idea">
+                                <h5><b>Info to be added here!!</b></h5>
+                            </div>
+                        </div>
+                        <!--error end-->
                         <!-- Item -->
                         <div class="s-portfolio__item cbp-item event motion">
                             <div class="s-portfolio__img-effect">
@@ -491,13 +512,20 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                                 </div>
                                 <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
                                     <li>
-                                        <a href="/bizmantra.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
+                                        <a href="#bplan" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
                                             <i class="ti-fullscreen"></i>
                                         </a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
+                        <!--bplan start-->
+                        <div class="card-content code">
+                            <div class="container g-margin-b-100--xs" id="idea">
+                                <h5><b>Info to be added here!!</b></h5>
+                            </div>
+                        </div>
+                        <!--bplan end-->
                         <!-- Item -->
                         <div class="s-portfolio__item cbp-item event motion">
                             <div class="s-portfolio__img-effect">
@@ -510,14 +538,20 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                                 </div>
                                 <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
                                     <li>
-                                        <a href="/swades.php" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
+                                        <a href="#matt" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
                                             <i class="ti-fullscreen"></i>
                                         </a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
-
+                        <!--matt start-->
+                        <div class="card-content code">
+                            <div class="container g-margin-b-100--xs" id="idea">
+                                <h5><b>Info to be added here!!</b></h5>
+                            </div>
+                        </div>
+                        <!--matt end-->
                     </div>
                 </div>
             </div>
