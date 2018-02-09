@@ -43,7 +43,11 @@ $mail = $smtp->send($to, $headers, $body);
 if (PEAR::isError($mail)) {
 echo("<p>" . $mail->getMessage() . "</p>");
 } else {
-echo("<p>Message successfully sent!</p>");
+?>
+<style>
+    $("#confirm").append('<br><p class="text-uppercase g-font-size-14--xs g-font-weight--400 g-letter-spacing--2 g-margin-b-25--xs">Message Sent Succesfully!</p>');
+</style>
+<?php
 }
 
 $from = "E-CELL VNIT <noreply@ecellvnit.org>";    //your mail id
@@ -69,8 +73,6 @@ $mail = $smtp->send($to, $headers, $body);
 
 if (PEAR::isError($mail)) {
 echo("<p>" . $mail->getMessage() . "</p>");
-} else {
-echo("<p>Message successfully sent!</p>");
 }
 }
 ?>
@@ -667,6 +669,7 @@ echo("<p>Message successfully sent!</p>");
                         <button type="submit" class="text-uppercase s-btn s-btn--md s-btn--primary-bg g-radius--50 g-padding-x-80--xs">Submit</button>
                     </div>
                 </form>
+                <div class="g-text-center--xs" id="confirm"></div>
                 <div class="g-text-center--xs g-margin-b-40--xs">
                     <br><br>
                     <p class="text-uppercase g-font-size-14--xs g-font-weight--400 g-letter-spacing--2 g-margin-b-25--xs">Or Need Any Help? Contact: <a href="team.php">Cores</a></p>

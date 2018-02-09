@@ -2502,3 +2502,7 @@ margin:0px;
     max-width:80px;
   }
 }
+
+#confirm p{
+  color:green !important;
+}
