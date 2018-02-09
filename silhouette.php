@@ -77,19 +77,19 @@ if ( isset( $_POST['submit'] ) ) {
                         <div class="row">
                             <div class="col-sm-6 g-margin-b-30--xs g-margin-b-0--md">
                                 <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".4s">
-                                    <p class="g-font-size-18--xs g-color--white-opacity">Test your creative skills as a logo designer . Design classic logos related to the theme provided. From amateurs to professionals , from paper to official logos .</p>
+                                    <p class="g-font-size-18--xs g-color--white">Test your creative skills as a logo designer . Design classic logos related to the theme provided. From amateurs to professionals , from paper to official logos .</p>
                                 </div>
                             </div>
                             <div class="col-sm-5 col-sm-offset-1">
                                 <div class="clearfix">
                                     <div class="pull-left">
                                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
-                                            <span class="s-promo-block-v3__date g-font-size-100--xs g-font-size-135--lg g-font-weight--300 g-color--primary">1<span class="g-font-size-20--xs g-font-size-30--lg">Lac</span></span>
+                                            <span class="s-promo-block-v3__date g-font-size-100--xs g-font-size-135--lg g-font-weight--300 g-color--primary">15<span class="g-font-size-20--xs g-font-size-30--lg">K</span></span>
                                         </div>
                                     </div>
                                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
-                                        <span class="s-promo-block-v3__month g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white-opacity-light">Prize Money</span>
-                                        <span class="s-promo-block-v3__year g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white-opacity-light">And more!</span>
+                                        <span class="s-promo-block-v3__month g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white">Prize worth!</span>
+                                        <span class="s-promo-block-v3__year g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white">And more!</span>
                                     </div>
                                 </div>
                             </div>
@@ -158,12 +158,12 @@ if ( isset( $_POST['submit'] ) ) {
                     <li class=" g-color--white">
                         <h6 class="g-color--white g-font-size-20--md">Ayush Singh</h6>
                         <p class=" g-color--white">isayushsingh@gmail.com</p>
-                        <p class=" g-color--white"></p>
+                        <p class=" g-color--white">+91 9423539984</p>
                     </li>
                     <li class="g-color--white">
                         <h6 class="g-color--white g-font-size-20--md">Prashant Bramhanwade</h6>
                         <p class="g-color--white"></p>
-                        <p class=" g-color--white"></p>
+                        <p class=" g-color--white">+91 7057856961</p>
                     </li>
                 </ol>
             </div>

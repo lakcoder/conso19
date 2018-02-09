@@ -194,22 +194,7 @@
         <!--========== END PAGE CONTENT ==========-->
 
         <!--========== FOOTER ==========-->
-        <footer class="g-bg-color--dark">
-            <!-- Copyright -->
-            <div class="container g-padding-y-20--xs">
-                <div class="row">
-                    <div class="col-xs-6">
-                        <a href="index.php">
-                            <img class="g-width-100--xs g-height-auto--xs" src="img/logo.png" alt="Consortium Logo">
-                        </a>
-                    </div>
-                    <div class="col-xs-6 g-text-right--xs">
-                        <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light">Copyright@ <a href="https://www.ecellvnit.org/" target="_blank">E-cell Vnit</a>Designed by: <a href="http://www.prisag.xyz/" target="_blank">Prisag.xyz</a></p>
-                    </div>
-                </div>
-            </div>
-            <!-- End Copyright -->
-        </footer>
+        <?php include("footer.php");?>
         <!--========== END FOOTER ==========-->
 
         <!-- Back To Top -->

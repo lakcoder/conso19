@@ -76,19 +76,19 @@ if ( isset( $_POST['submit'] ) ) {
                         <div class="row">
                             <div class="col-sm-6 g-margin-b-30--xs g-margin-b-0--md">
                                 <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".4s">
-                                    <p class="g-font-size-18--xs g-color--white-opacity">Roll your ideas into a complete advertisement for a company and let everyone see how your idea can take life as a ad.</p>
+                                    <p class="g-font-size-18--xs g-color--white">Roll your ideas into a complete advertisement for a company and let everyone see how your idea can take life as a ad.</p>
                                 </div>
                             </div>
                             <div class="col-sm-5 col-sm-offset-1">
                                 <div class="clearfix">
                                     <div class="pull-left">
                                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
-                                            <span class="s-promo-block-v3__date g-font-size-100--xs g-font-size-135--lg g-font-weight--300 g-color--primary">1<span class="g-font-size-20--xs g-font-size-30--lg">Lac</span></span>
+                                            <span class="s-promo-block-v3__date g-font-size-100--xs g-font-size-135--lg g-font-weight--300 g-color--primary">50<span class="g-font-size-20--xs g-font-size-30--lg">K</span></span>
                                         </div>
                                     </div>
                                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
-                                        <span class="s-promo-block-v3__month g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white-opacity-light">Prize Money</span>
-                                        <span class="s-promo-block-v3__year g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white-opacity-light">And more!</span>
+                                        <span class="s-promo-block-v3__month g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white"><b>Prize Worth!<b></span>
+                                        <span class="s-promo-block-v3__month g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white"><b>1st prize 10K cash</b></span>
                                     </div>
                                 </div>
                             </div>
@@ -136,9 +136,8 @@ if ( isset( $_POST['submit'] ) ) {
                         feeds? Every company, be it at any stage, need to project it's vision and idea in the most
                         unique way. Well, an advertisement that'd connect with millions and let their idea breathe
                         with them is what all a company needs.
-                        </p><br>
-                        <h6>How's It work</h6>
-                        <p>Participants will make an ad for a company and will be
+                        </p>
+                        <p>Participants will make an ad be it a 'jingle' or a 'video' for a company and will be
                         judged on their creativity, brevity and originality. Why keep
                         an idea, lens it this Conso.</p>
                         <a href="#newform">Register</a>
@@ -157,7 +156,7 @@ if ( isset( $_POST['submit'] ) ) {
                     <li class=" g-color--white">
                         <h6 class="g-color--white g-font-size-20--md">Ayush Ratna</h6>
                         <p class=" g-color--white">+91 7558621726</p>
-                        <p class=" g-color--white">ayushpro19@gmail.com</p>
+                        <p class=" g-color--white">ratnapro19@gmail.com</p>
                     </li>
                     <li class="g-color--white">
                         <h6 class="g-color--white g-font-size-20--md">Aman Jain</h6>
@@ -166,8 +165,8 @@ if ( isset( $_POST['submit'] ) ) {
                     </li>
                     <li class="g-color--white">
                         <h6 class="g-color--white g-font-size-20--md">Sri Charan</h6>
-                        <p class="g-color--white"></p>
-                        <p class=" g-color--white">sag.sw@e.com</p>
+                        <p class="g-color--white">+91 7721075759</p>
+                        <p class=" g-color--white"></p>
                     </li>
 
                 </ol>
