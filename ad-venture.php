@@ -181,7 +181,7 @@ if ( isset( $_POST['submit'] ) ) {
                         <input type="text" class="form-control s-form-v3__input" placeholder="* Phone" name="phone">
                     </div>
                     <div class="g-text-center--xs">
-                        <button type="submit" class="text-uppercase btn-block s-btn s-btn--md s-btn--white-bg g-radius--50 g-padding-x-50--xs g-margin-b-20--xs">Join Now</button>
+                        <button type="submit" class="text-uppercase btn-block s-btn s-btn--md s-btn--white-bg g-radius--50 g-padding-x-50--xs g-margin-b-20--xs" name="submit">Join Now</button>
                     </div>
                 </form>
             </div>
