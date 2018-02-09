@@ -628,7 +628,27 @@ if ( isset( $_POST['submitexpo'] ) ) {
                         <!--matt start-->
                         <div class="card-content code">
                             <div class="container g-margin-b-100--xs" id="idea">
-                                <h5><b>Info to be added here!!</b></h5>
+                                <h3><b>Web Session by Matt Abrahams with register button</b></h3>
+                                <br>
+                                <h4>About:</h4>
+                                <ul type="none">
+                                    <li>Matt Abrahams,</li>
+                                    <li>Lectures on organizational behavior,</li>
+                                    <li>Stanford Graduate School of Business</li>
+                                    <li>Author of <i>Speaking Up Without Freaking Out</i></li>
+                                    <li><b>TEDx Speaker</b> on <i>“Think fast, talk smart”</i></li>
+                                </ul>
+                                <br>
+                                <b>Date : </b><b>03<sup>rd</sup> February, 2018</b>
+                                <br><br>
+                                <h4>In his words:</h4>
+                                <p><i>
+                                    As a communication professor and coach, I hear a lot from presenters about anxiety.
+                                    Their two greatest fears are that they will forget what to say and that the audience
+                                    won’t remember what was spoken. These fears are certainly understandable, but create
+                                    much angst among nervous and novice presenters. In this series of posts, I will suggest
+                                    several steps you can take to make your presentations more memorable for everyone.
+                                </i></p>
                             </div>
                         </div>
                         <!--matt end-->
