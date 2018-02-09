@@ -1,13 +1,13 @@
-<?php 
+<?php
 if ( isset( $_POST['submitexpo'] ) ) {
     $con = mysqli_connect("localhost:3306", "conso", "Conso123@", "conso");
     if (mysqli_connect_errno()) {
         echo "Failed to connect to MySQL: " . mysqli_connect_error();
     }
 
-    
+
     $email=$_POST['emailexpo'];
-    
+
 
     $query = mysqli_query($con, "INSERT into expo (EMAIL) values('$email')");
      mysqli_close($con);
@@ -388,7 +388,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
             <!--Sessions Start-->
             <div class="card-content code">
                 <div class="container g-margin-b-100--xs" id="session">
-                    <div id="js__grid-portfolio-gallery" class="cbp">
+                    <!--<div id="js__grid-portfolio-gallery" class="cbp">-->
                         <!-- Item -->
                         <div class="s-portfolio__item cbp-item event motion">
                             <div class="s-portfolio__img-effect">
@@ -437,7 +437,32 @@ if ( isset( $_POST['submitexpo'] ) ) {
                         <!--data start-->
                         <div class="card-content code">
                             <div class="container g-margin-b-100--xs" id="data">
-                                <h5><b>Info to be added here!!</b></h5>
+                                <h3><b>Data Analytics by Yash Gandhi</b></h3>
+                                <br>
+                                <h4>About the Speaker</h4>
+                                <ul type="none">
+                                    <li>Yash Gandhi</li>
+                                    <li>Lead Statistician</li>
+                                    <li>Helpshift</li>
+                                    <li>Purdue University</li>
+                                </ul>
+                                <br>
+                                <h4>Insights</h4>
+                                <p>
+                                    Data science, also known as data-driven science, is an interdisciplinary field of scientific
+                                    methods, processes, and systems to extract knowledge or insights from data in various forms,
+                                    either structured or unstructured, similar to data mining.
+                                    Data science is a "concept to unify statistics, data analysis and their related methods" in
+                                    order to "understand and analyze actual phenomena" with data.
+                                </p>
+                                <p>Here's a look at some of the key Big Data trends entrepreneurs need to be aware of today:</p>
+                                <ol>
+                                    <li>Heavier emphasis on predictive analytics</li>
+                                    <li>Deep learning</li>
+                                    <li>The rise of the data engineer</li>
+                                    <li>Shifting away from Hadoop</li>
+                                    <li>Big Data-as-a-Self Service</li>
+                                </ol>
                             </div>
                         </div>
                         <!--data end-->
