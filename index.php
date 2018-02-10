@@ -519,8 +519,8 @@ if ( isset( $_POST['submitexpo'] ) ) {
         <div class="js__parallax-window" style="background: url(img/1920x1080/07.jpg) 50% 0 no-repeat fixed;">
             <div class="g-container--sm g-text-center--xs g-padding-y-80--xs g-padding-y-125--sm">
                 <div class="g-margin-b-80--xs">
-                    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--white-opacity g-letter-spacing--2 g-margin-b-25--xs">Join In</p>
-                    <h2 class="g-font-size-32--xs g-font-size-36--md g-color--white">Startup Expo</h2>
+                    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--white-opacity g-letter-spacing--2 g-margin-b-25--xs">Startup Expo</p>
+                    <h2 class="g-font-size-32--xs g-font-size-36--md g-color--white">Showcase your Startup at our Annual Entrepreneurship Summit</h2>
                 </div>
                 <div class="row">
                     <div class="col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1">
