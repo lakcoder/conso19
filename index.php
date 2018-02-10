@@ -691,7 +691,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
             <h3><b>Web Session by Matt Abrahams</b></h3>
             <br>
             <h4>About:</h4>
-            <ul>
+            <ul type="none">
                 <li>Matt Abrahams,</li>
                 <li>Lectures on organizational behavior,</li>
                 <li>Stanford Graduate School of Business</li>
