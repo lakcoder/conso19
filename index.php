@@ -400,25 +400,40 @@ if ( isset( $_POST['submitexpo'] ) ) {
                 <div class="container g-margin-b-80--xs" id="session">
                     <div class="row">
                         <!-- Item -->
-                        <div class="col-md-3 co-xs-12 col-sm-6">
+                        <div class=" col-md-2 col-md-offset-1 co-xs-12 col-sm-6">
                             <div class="card">
                                 <div class="card-image">
-                                  <img src="https://www.ecellvnit.org/images/workshop_1_1.JPG" alt="yash" onerror="this.onerror=null;">
+                                  <img src="img/guests/yash.jpg" alt="yash" onerror="this.onerror=null;">
                                 </div>
                                 <div class="card-content">
                                     <span class="card-title">
-                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Idea Generation and Validation</h4>
-                                        <p class="g-color--dark">IB Hubs</p>
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Data Analytics By Yash Gandhi</h4>
+                                        <p class="g-color--dark">Yash Gandhi</p>
                                         <div class="g-color--primary" id="call-session" onclick="show_overlay('yash')">View</div>
                                     </span>
                                 </div>
                               </div>
                         </div>
                         <!-- Item -->
-                        <div class="col-md-3 co-xs-12 col-sm-6">
+                        <div class=" col-md-2 co-xs-12 col-sm-6">
                             <div class="card">
                                 <div class="card-image">
-                                  <img src="https://www.ecellvnit.org/images/workshop_1_1.JPG" alt="frese" onerror="this.onerror=null;">
+                                  <img src="img/guests/ibhubs.jpg" alt="ibhubs" onerror="this.onerror=null;">
+                                </div>
+                                <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Idea Generation and Validation</h4>
+                                        <p class="g-color--dark">IB Hubs</p>
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('ibhubs')">View</div>
+                                    </span>
+                                </div>
+                              </div>
+                        </div>
+                        <!-- Item -->
+                        <div class=" col-md-2 co-xs-12 col-sm-6">
+                            <div class="card">
+                                <div class="card-image">
+                                  <img src="img/guests/frese.jpg" alt="frese" onerror="this.onerror=null;">
                                 </div>
                                 <div class="card-content">
                                     <span class="card-title">
@@ -430,10 +445,10 @@ if ( isset( $_POST['submitexpo'] ) ) {
                               </div>
                         </div>
                         <!-- Item -->
-                        <div class="col-md-3 co-xs-12 col-sm-6">
+                        <div class=" col-md-2 co-xs-12 col-sm-6">
                             <div class="card">
                                 <div class="card-image">
-                                  <img src="https://www.ecellvnit.org/images/workshop_1_1.JPG" alt="chawala" onerror="this.onerror=null;">
+                                  <img src="img/guests/chawala.jpg" alt="chawala" onerror="this.onerror=null;">
                                 </div>
                                 <div class="card-content">
                                     <span class="card-title">
@@ -445,10 +460,10 @@ if ( isset( $_POST['submitexpo'] ) ) {
                               </div>
                         </div>
                         <!-- Item -->
-                        <div class="col-md-3 co-xs-12 col-sm-6">
+                        <div class=" col-md-2 co-xs-12 col-sm-6">
                             <div class="card">
                                 <div class="card-image">
-                                  <img src="https://www.ecellvnit.org/images/workshop_1_1.JPG" alt="abrahams" onerror="this.onerror=null;">
+                                  <img src="img/guests/abrahams.jpg" alt="abrahams" onerror="this.onerror=null;">
                                 </div>
                                 <div class="card-content">
                                     <span class="card-title">
@@ -466,14 +481,14 @@ if ( isset( $_POST['submitexpo'] ) ) {
 
             <!--Initiatives Start-->
             <div class="card-content code">
-                <div class="container g-margin-b-100--xs" id="initiative">
+                <div class="container g-margin-b-100--xs g-padding-x-80--md" id="initiative">
                     <br>
                     <h4>Plantation</h4>
                     <h5>Smart Plantation by using Innovative Self Watering Tree Gaurds</h5>
                     <i>Sponsored by- Rainbow Greeners, Rakshak</i>
                     <p>Date: 26<sup>th</sup> January 2018</p>
                     <br>
-                    <i><h6>About</h6></i>
+                    <h6>About</h6>
                     <p>The 69th Republic Day of India witnessed a Self-Watering Tree Plantation Drive
                        organized by Entrepreneurship Cell, VNIT in association with Rakshak by Rainbow
                        Greeners. The Director of VNIT, Nagpur, Dr. N. S. Chaudhari, welcomed the initiative
@@ -492,7 +507,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
 
             <!--Startup Expo Start-->
             <div class="card-content code">
-                <div class="container g-margin-b-100--xs" id="startup">
+                <div class="container g-margin-b-100--xs g-padding-x-80--md" id="startup">
                     <h5>Comming Soon..</h5>
                 </div>
             </div>
@@ -591,6 +606,21 @@ if ( isset( $_POST['submitexpo'] ) ) {
                 <li>Shifting away from Hadoop</li>
                 <li>Big Data-as-a-Self Service</li>
             </ul>
+        </div>
+
+        <div class="overlay-session" id="ibhubs">
+            <button onclick="hide_overlay('ibhubs')" id="close-session">X</button>
+            <h3><b>Idea Generation And Validation</b></h3>
+            <h4>About the Speaker</h4>
+            <ul>
+                <li>IB Hubs,</li>
+                <li>Lead Statistician,</li>
+                <li>Helpshift,</li>
+                <li>Purdue University</li>
+            </ul>
+            <p><b>Date : </b><b>24<sup>th</sup> August, 2017</b><p>
+            <h4>Insights</h4>
+            <p>Comming Soon..</p>
         </div>
         <div class="overlay-session" id="frese">
             <button onclick="hide_overlay('frese')" id="close-session">X</button>
