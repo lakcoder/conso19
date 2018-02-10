@@ -409,4 +409,16 @@ $(function() {
       trigger.toggleClass('-is-active');
 	});
 
+
+
+
+
 });
+function hide_overlay(data) {
+        document.getElementById(data).style.display="none";
+    }
+	function show_overlay(data){
+    document.getElementById(data).style.display="block";
+
+
+	}

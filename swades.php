@@ -17,9 +17,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>Consortium'18 | E-CELL, VNIT</title>
-        <meta name="keywords" content="Ecell vnit E-cell VNIT entreprenuship cell consortium 18 2018 consortium'18 vnit consortium " />
+        <meta name="keywords" content="E-cell VNIT entreprenuship cell consortium 18" />
         <meta name="description" content="Consortium'18 E-CELL VNIT annual entrepreneurship summit">
-        <meta name="author" content="Vipul Wairagade">
+        <meta name="author" content="E-cell">
 
         <!-- Web Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">

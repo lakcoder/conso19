@@ -2144,7 +2144,7 @@ fieldset[disabled] .s-btn {
   right: 0;
   width: 100%;
   height: 100%;
-  background: #f0716fb5;
+  background-color: rgba(255, 0, 0, 0.52);
   content: " ";
   -webkit-transform: translate3d(0, 100%, 0);
   transform: translate3d(0, 100%, 0);
@@ -2506,4 +2506,30 @@ margin:0px;
 
 #confirm p{
   color:green !important;
+}
+.overlay-session{
+  position: fixed;
+  overflow-y:auto;
+  overflow-x:none;
+  display: none;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(34, 35, 36, 0.95);
+  z-index: 80;
+  cursor: pointer;
+  padding:80px;
+  color:white;
+}
+.overlay-session h3,h4,p,ul,li{
+  color:aliceblue;
+}
+.overlay-session h3,h4{
+  padding:20px 0px;
+}
+.overlay-session p,li,a{
+  font-size:18px;
 }

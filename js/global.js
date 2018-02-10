@@ -63,6 +63,18 @@ var Global = function() {
       trigger.toggleClass('-is-active');
     });
   }
+  // Handle Overlay
+  var handleOverlay = function() {
+    var overlay = $('.js__bg-overlay-session'),
+      headerOverlay = $('.js__header-overlay-sesion'),
+      trigger = $('.js__trigger-session');
+
+    trigger.on('click', function() {
+      overlay.toggleClass('-is-open');
+      headerOverlay.toggleClass('-is-open');
+      trigger.toggleClass('-is-active');
+    });
+  }
 
   //handle on click "a" overlay
 

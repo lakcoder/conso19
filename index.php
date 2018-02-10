@@ -400,34 +400,64 @@ if ( isset( $_POST['submitexpo'] ) ) {
                 <div class="container g-margin-b-100--xs" id="session">
                     <div class="row">
                         <!-- Item -->
-                        <div class="col-md-4">
+                        <div class="col-md-3 co-xs-12 col-sm-6">
                             <div class="card">
                                 <div class="card-image">
-                                  <img src="img/970x647/03.jpg" alt="startupconclave Image">
-                                  <span class="card-title">Card Title</span>
-
+                                  <img src="https://www.ecellvnit.org/images/workshop_1_1.JPG" alt="yash" onerror="this.onerror=null;">
                                 </div>
                                 <div class="card-content">
-                                  <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Idea Generation and Validation</h4>
+                                        <p class="g-color--dark">IB Hubs</p>
+                                        <div class="g-color--primary" onclick="show_overlay('yash')">View</div>
+                                    </span>
                                 </div>
                               </div>
-
-                            <div class="s-portfolio__img-effect">
-                                <img src="img/970x647/03.jpg" alt="startupconclave Image">
-                            </div>
-                            <div class="s-portfolio__caption-hover--cc">
-                                <div class="g-margin-b-25--xs">
-                                    <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Idea Generation and Validation</h4>
-                                    <p class="g-color--white">IB Hubs</p>
+                        </div>
+                        <!-- Item -->
+                        <div class="col-md-3 co-xs-12 col-sm-6">
+                            <div class="card">
+                                <div class="card-image">
+                                  <img src="https://www.ecellvnit.org/images/workshop_1_1.JPG" alt="frese" onerror="this.onerror=null;">
                                 </div>
-                                <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-                                    <li>
-                                        <a href="#idea" target="_blank" class=" s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Portfolio Item <br/> by KeenThemes Inc.">
-                                            <i class="ti-fullscreen"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
+                                <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Error Management</h4>
+                                        <p class="g-color--dark">Michael Frese</p>
+                                        <div class="g-color--primary" onclick="show_overlay('frese')">View</div>
+                                    </span>
+                                </div>
+                              </div>
+                        </div>
+                        <!-- Item -->
+                        <div class="col-md-3 co-xs-12 col-sm-6">
+                            <div class="card">
+                                <div class="card-image">
+                                  <img src="https://www.ecellvnit.org/images/workshop_1_1.JPG" alt="chawala" onerror="this.onerror=null;">
+                                </div>
+                                <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Desiging a BPlan</h4>
+                                        <p class="g-color--dark">Devesh Chawla</p>
+                                        <div class="g-color--primary" onclick="show_overlay('chawala')">View</div>
+                                    </span>
+                                </div>
+                              </div>
+                        </div>
+                        <!-- Item -->
+                        <div class="col-md-3 co-xs-12 col-sm-6">
+                            <div class="card">
+                                <div class="card-image">
+                                  <img src="https://www.ecellvnit.org/images/workshop_1_1.JPG" alt="abrahams" onerror="this.onerror=null;">
+                                </div>
+                                <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Web Session</h4>
+                                        <p class="g-color--dark">Matt Abrahams</p>
+                                        <div class="g-color--primary" onclick="show_overlay('abrahams')">View</div>
+                                    </span>
+                                </div>
+                              </div>
                         </div>
                     </div>
                 </div>
@@ -534,6 +564,37 @@ if ( isset( $_POST['submitexpo'] ) ) {
 
         <!-- Back To Top -->
         <a href="javascript:void(0);" class="s-back-to-top js__back-to-top"></a>
+        <div class="overlay-session" id="yash">
+            <div onclick="hide_overlay('yash')" id="close">X</div>
+            <h3><b>Data Analytics by Yash Gandhi</b></h3>
+            <h4>About the Speaker</h4>
+            <ul type="none">
+                <li>Yash Gandhi,</li>
+                <li>Lead Statistician,</li>
+                <li>Helpshift,</li>
+                <li>Purdue University</li>
+            </ul>
+            <p><b>Date : </b><b>24<sup>th</sup> August, 2017</b><p>
+            <h4>Insights</h4>
+            <p>
+                Data science, also known as data-driven science, is an interdisciplinary field of scientific
+                methods, processes, and systems to extract knowledge or insights from data in various forms,
+                either structured or unstructured, similar to data mining.
+                Data science is a "concept to unify statistics, data analysis and their related methods" in
+                order to "understand and analyze actual phenomena" with data.
+            </p>
+            <p>Here's a look at some of the key Big Data trends entrepreneurs need to be aware of today:</p>
+            <ul>
+                <li>Heavier emphasis on predictive analytics</li>
+                <li>Deep learning</li>
+                <li>The rise of the data engineer</li>
+                <li>Shifting away from Hadoop</li>
+                <li>Big Data-as-a-Self Service</li>
+            </ul>
+        </div>
+
+        </div>
+
 
         <!--========== JAVASCRIPTS (Load javascripts at bottom, this will reduce page load time) ==========-->
         <!-- Vendor -->
