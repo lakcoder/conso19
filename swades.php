@@ -118,7 +118,7 @@
     		    	    <p>Competition is divided into three rounds as follows:</p>
     		    	    <ol>
 
-    					    <li><h6>Round 1:(Eliminations):</h6><p><b>10th February, 2018 – 24th February, 2018 | Colleges in and around Nagpur.</b><br>Participants have to fill a questionnaire to register. Experts will analyse and shortlisted teams for the second round. </p></li>
+    					    <li><h6>Round 1:(Eliminations):</h6><p><b>10th February, 2018 – 24th February, 2018 | Colleges in and around Nagpur.</b><br>Participants have to fill a questionnaire to register. Experts will analyse and shortlist teams for the second round. </p></li>
     					    <li><h6>Round 2:(Village Visit)</h6><p><b>4th March, 2018 | Journey from VNIT, Nagpur</b><br>Participants will be allowed to peek into the village life, interact with the village inmates and identify their day to day problems. </p></li>
     					    <li><h6>Round 3: Presentation Round (Final Round)</h6><p><b>10th March, 2018 </b><br>All the participants will be given a week’s time to find an appropriate solution to the identified problem, apt enough to be transformed into a social enterprise as well as be feasible to work upon on ground level with the constrained resources and make an impact on the villagers’ life.</p></li>
     					</ol>
