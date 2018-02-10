@@ -5,7 +5,7 @@
                     <!-- Swiper Clients -->
                     <div class="container" id="foot">
                         <div class="row">
-                            <div class="col-md-2 col-sm-4 col-xs-6">
+                            <div class="col-md-2 col-md-offset-1 col-sm-4 col-xs-6">
                                 <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".3s">
                                     <img class="s-clients-v1" src="img/clients/TiE.png" alt="Clients Logo">
                                 </div>
@@ -60,9 +60,9 @@
                         </a>
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-4">
-                           <p style="color:#ffffff; padding-top: 20px">For Association Opportunities contact<br>association@ecellvnit.org<br><br>
-                            For Sponsorship Opportunities contact<br> sponsorship@ecellvnit.org<br><br>
-                            For Speaking Opportunities contact <br>speaker@ecellvnit.org</p>
+                            <p class="g-color--white-light">For Association Opportunities Contact:<br><b>association@ecellvnit.org</b></p>
+                            <p class="g-color--white-light">For Sponsorship Opportunities Contact:<br><b>sponsorship@ecellvnit.org<b></p>
+                            <p class="g-color--white-light">For Speaking Opportunities Contact:<br><b>speaker@ecellvnit.org</b></p>
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-4 g-text-right--xs">
                         <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light">Copyright@ <a href="https://www.ecellvnit.org/" target="_blank">E-cell Vnit</a><br>Designed by: <a href="http://www.prisag.xyz/" target="_blank">Prisag.xyz</a></p>
