@@ -2517,9 +2517,21 @@ margin:0px;
   z-index: 80;
   cursor: pointer;
   padding:80px;
-  color:white;
+  color:aliceblue;
 }
-.overlay-session h3,h4,p,ul,li{
+.overlay-session h3{
+  color:aliceblue;
+}
+.overlay-session h4{
+  color:aliceblue;
+}
+.overlay-session p{
+  color:aliceblue;
+}
+.overlay-session ul{
+  color:aliceblue;
+}
+.overlay-session li{
   color:aliceblue;
 }
 .overlay-session h3,h4{
