@@ -41,7 +41,7 @@
             <!-- Copyright -->
             <div class="container g-padding-y-20--xs">
                 <div class="row">
-                    <div class="col-sm-12 col-md-12 col-lg-4">
+                    <div class="col-sm-12 col-md-4 col-lg-4">
                         <a href="index.php">
                             <img class="g-width-100--xs g-height-auto--xs" src="img/logo.png" alt="Consortium Logo">
                         </a>
@@ -59,12 +59,12 @@
                             <span class="g-display-none--xs g-display-inline-block--sm">Instagram</span>
                         </a>
                     </div>
-                    <div class="col-sm-12 col-md-12 col-lg-4">
+                    <div class="col-sm-12 col-md-4 col-lg-4">
                             <p class="g-color--white-light">For Association Opportunities Contact:<br><b>association@ecellvnit.org</b></p>
                             <p class="g-color--white-light">For Sponsorship Opportunities Contact:<br><b>sponsorship@ecellvnit.org<b></p>
                             <p class="g-color--white-light">For Speaking Opportunities Contact:<br><b>speaker@ecellvnit.org</b></p>
                     </div>
-                    <div class="col-sm-12 col-md-12 col-lg-4 g-text-right--xs">
+                    <div class="col-sm-12 col-md-4 col-lg-4 g-text-right--md">
                         <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light">Copyright@ <a href="https://www.ecellvnit.org/" target="_blank">E-cell Vnit</a><br>Designed by: <a href="http://www.prisag.xyz/" target="_blank">Prisag.xyz</a></p>
                     </div>
                 </div>
