@@ -37,9 +37,9 @@ if ( isset( $_POST['submit'] ) ) {
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Consortium'18 | E-CELL, VNIT</title>
-        <meta name="keywords" content="E-cell VNIT entreprenuship cell consortium 18" />
-        <meta name="description" content="Consortium'18 E-CELL VNIT annual entrepreneurship summit">
+        <title>Ad-Venture 2018 | E-CELL, VNIT</title>
+        <meta name="keywords" content="E-cell VNIT entreprenuship cell consortium 18 ecell vnit adventure consortium" />
+        <meta name="description" content="Consortium'18 E-CELL VNIT Annual Entrepreneurship Summit">
         <meta name="author" content="E-cell">
 
         <!-- Web Fonts -->
