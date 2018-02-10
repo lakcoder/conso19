@@ -2587,6 +2587,9 @@ z-index:0;
     padding-bottom:40px;
     height:-webkit-fill-available;
   }
+  .card li{
+    margin-left:-25px;
+  }
 
 }
 
