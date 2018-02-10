@@ -93,12 +93,12 @@ if ( isset( $_POST['submit'] ) ) {
                                 <div class="clearfix">
                                     <div class="pull-left">
                                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
-                                            <span class="s-promo-block-v3__date g-font-size-100--xs g-font-size-135--lg g-font-weight--300 g-color--primary">50<span class="g-font-size-20--xs g-font-size-30--lg">K</span></span>
+                                            <span class="s-promo-block-v3__date g-font-size-100--xs g-font-size-135--lg g-font-weight--300 g-color--primary">20<span class="g-font-size-20--xs g-font-size-30--lg">K</span></span>
                                         </div>
                                     </div>
                                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
-                                        <span class="s-promo-block-v3__month g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white"><b>Prize Worth!<b></span>
-                                        <span class="s-promo-block-v3__month g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white"><b>Cash Prizes worth 20k</b></span>
+                                        <span class="s-promo-block-v3__month g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white"><b>Cash Prize<b></span>
+                                       
                                     </div>
                                 </div>
                             </div>
