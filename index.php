@@ -409,7 +409,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                                     <span class="card-title">
                                         <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Idea Generation and Validation</h4>
                                         <p class="g-color--dark">IB Hubs</p>
-                                        <div class="g-color--primary" onclick="show_overlay('yash')">View</div>
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('yash')">View</div>
                                     </span>
                                 </div>
                               </div>
@@ -424,7 +424,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                                     <span class="card-title">
                                         <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Error Management</h4>
                                         <p class="g-color--dark">Michael Frese</p>
-                                        <div class="g-color--primary" onclick="show_overlay('frese')">View</div>
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('frese')">View</div>
                                     </span>
                                 </div>
                               </div>
@@ -439,7 +439,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                                     <span class="card-title">
                                         <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Desiging a BPlan</h4>
                                         <p class="g-color--dark">Devesh Chawla</p>
-                                        <div class="g-color--primary" onclick="show_overlay('chawala')">View</div>
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('chawala')">View</div>
                                     </span>
                                 </div>
                               </div>
@@ -454,7 +454,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                                     <span class="card-title">
                                         <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Web Session</h4>
                                         <p class="g-color--dark">Matt Abrahams</p>
-                                        <div class="g-color--primary" onclick="show_overlay('abrahams')">View</div>
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('abrahams')">View</div>
                                     </span>
                                 </div>
                               </div>
