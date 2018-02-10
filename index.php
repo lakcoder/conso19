@@ -194,10 +194,10 @@ if ( isset( $_POST['submitexpo'] ) ) {
                         </div>
                     </div>
                     <div class="col-md-7 col-md-offset-1">
-                        <p class="g-font-size-18--xs">Welcome to the extravaganza that is Consortium! Consortium, the Annual Entrepreneurship Summit of VNIT Nagpur comprises of invigorating events like Startup Conclave and Swades.
+                        <p class="g-font-size-18--xs g-color--dark">Welcome to the extravaganza that is Consortium! Consortium, the Annual Entrepreneurship Summit of VNIT Nagpur comprises of invigorating events like Startup Conclave and Swades.
                         The summit aims at fueling entrepreneurial attitude amongst students through healthy competition and exciting challenges.
                         It fosters the importance of leadership and decision making and introduces young technocrats to various management practices in the corporate world.</p>
-                        <p class="g-font-size-18--xs">This year Consortium’s theme is Push the Human Race Forward. Through this theme we want to focus on the disruptive innovations and inventions that have took the whole human race forward.</p>
+                        <p class="g-font-size-18--xs g-color--dark">This year Consortium’s theme is Push the Human Race Forward. Through this theme we want to focus on the disruptive innovations and inventions that have took the whole human race forward.</p>
                     </div>
                 </div>
             </div>
@@ -209,9 +209,9 @@ if ( isset( $_POST['submitexpo'] ) ) {
         <div class="js__parallax-window" style="background: url(img/1920x1080/06.jpg) 50% 0 no-repeat fixed;">
             <div class="container g-padding-y-100--xs g-padding-y-125--sm">
                 <div class="row">
-                    <div class="col-md-3 col-xs-6 g-full-width--xs g-margin-b-70--xs g-margin-b-0--lg">
+                    <div class="col-md-3 col-xs-6 g-full-width--xs  g-margin-b-0--lg">
                         <div class="g-text-center--xs">
-                            <div class="g-margin-b-10--xs">
+                            <div class=" g-margin-b-0--xs">
                                 <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white js__counter">20</figure>
                                 <span class="g-font-size-40--xs g-color--white">k+</span>
                             </div>
@@ -219,20 +219,20 @@ if ( isset( $_POST['submitexpo'] ) ) {
                             <h4 class="g-font-size-18--xs g-color--white">No. of Attendees</h4>
                         </div>
                     </div>
-                    <div class="col-md-3 col-xs-6 g-full-width--xs g-margin-b-70--xs g-margin-b-0--lg">
+                    <div class="col-md-3 col-xs-6 g-full-width--xs  g-margin-b-0--lg">
                         <div class="g-text-center--xs">
-                            <div class="g-margin-b-10--xs">
-                                <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white g-margin-b-10--xs js__counter">1</figure>
+                            <div class=" g-margin-b-0--xs">
+                                <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white  g-margin-b-0--xs js__counter">1</figure>
                                 <span class="g-font-size-40--xs g-color--white">M</span>
                             </div>
                             <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
                             <h4 class="g-font-size-18--xs g-color--white">Prizes Worth</h4>
                         </div>
                     </div>
-                    <div class="col-md-3 col-xs-6 g-full-width--xs g-margin-b-70--xs g-margin-b-0--sm">
+                    <div class="col-md-3 col-xs-6 g-full-width--xs  g-margin-b-0--sm">
                         <div class="g-text-center--xs">
-                            <div class="g-margin-b-10--xs">
-                                <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white g-margin-b-10--xs js__counter">350</figure>
+                            <div class=" g-margin-b-0--xs">
+                                <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white  g-margin-b-0--xs js__counter">350</figure>
                                 <span class="g-font-size-40--xs g-color--white">+</span>
                             </div>
                             <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
@@ -241,7 +241,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                     </div>
                     <div class="col-md-3 col-xs-6 g-full-width--xs">
                         <div class="g-text-center--xs">
-                            <div class="g-margin-b-10--xs">
+                            <div class=" g-margin-b-0--xs">
                                 <figure class="g-display-inline-block--xs g-font-size-70--xs g-color--white js__counter">15</figure>
                                 <span class="g-font-size-40--xs g-color--white">+</span>
                             </div>
@@ -397,7 +397,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
 
             <!--Sessions Start-->
             <div class="card-content code">
-                <div class="container g-margin-b-100--xs" id="session">
+                <div class="container g-margin-b-80--xs" id="session">
                     <div class="row">
                         <!-- Item -->
                         <div class="col-md-3 co-xs-12 col-sm-6">
@@ -550,7 +550,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                 <div class="g-text-center--xs" id="confirm"></div>
                 <div class="g-text-center--xs g-margin-b-40--xs">
                     <br><br>
-                    <p class="text-uppercase g-font-size-14--xs g-font-weight--400 g-letter-spacing--2 g-margin-b-25--xs">Or Need Any Help? Contact: <a href="team.php">Team</a></p>
+                    <p class="text-uppercase g-font-size-14--xs g-color--dark g-font-weight--400 g-letter-spacing--2 g-margin-b-25--xs">Or Need Any Help? Contact: <a href="team.php">Team</a></p>
                 </div>
             </div>
         </div>
@@ -565,10 +565,10 @@ if ( isset( $_POST['submitexpo'] ) ) {
         <!-- Back To Top -->
         <a href="javascript:void(0);" class="s-back-to-top js__back-to-top"></a>
         <div class="overlay-session" id="yash">
-            <div onclick="hide_overlay('yash')" id="close">X</div>
+            <button onclick="hide_overlay('yash')" id="close-session">X</button>
             <h3><b>Data Analytics by Yash Gandhi</b></h3>
             <h4>About the Speaker</h4>
-            <ul type="none">
+            <ul>
                 <li>Yash Gandhi,</li>
                 <li>Lead Statistician,</li>
                 <li>Helpshift,</li>
@@ -591,6 +591,123 @@ if ( isset( $_POST['submitexpo'] ) ) {
                 <li>Shifting away from Hadoop</li>
                 <li>Big Data-as-a-Self Service</li>
             </ul>
+        </div>
+        <div class="overlay-session" id="frese">
+            <button onclick="hide_overlay('frese')" id="close-session">X</button>
+            <h3><b>Error Management</b></h3>
+            <br>
+            <h4>About the Speaker</h4>
+            <ul>
+                <li>Michael Frese,</li>
+                <li>Provost's Chair,</li>
+                <li>Head of Department,</li>
+                <li>National University of Singapore</li>
+            </ul>
+            <br>
+            <b>Date : </b><b>30<sup>th</sup> November, 2017</b>
+            <br><br>
+            <h4>Insights</h4>
+            <p>
+                Every organization is confronted with errors. Most errors are corrected easily,
+                but some may lead to negative consequences. Organizations often focus on error
+                prevention as a single strategy for dealing with errors. Our review suggests
+                that error prevention needs to be supplemented by error management—an approach
+                directed at effectively dealing with errors after they have occurred, with the
+                goal of minimizing negative and maximizing positive error consequences
+                (examples of the latter are learning and innovations). After defining errors
+                and related concepts, we review research on error-related processes affected
+                by error management (error detection, damage control). Empirical evidence on
+                positive effects of error management in individuals and organizations is then
+                discussed, along with emotional, motivational, cognitive, and behavioral
+                pathways of these effects. Learning from errors is central, but like other
+                positive consequences, learning occurs under certain circumstances—one being
+                the development of a mind-set of acceptance of human error.
+            </p>
+
+        </div>
+
+        <div class="overlay-session" id="chawala">
+            <button onclick="hide_overlay('chawala')" id="close-session">X</button>
+            <h3><b>Desiging a BPlan</b></h3>
+            <h4>About the Speaker</h4>
+            <ul type="none">
+                <li>Devesh Chawla,</li>
+                <li>CEO & Founder,</li>
+                <li>Chatur Ideas</li>
+            </ul>
+            <b>Date : </b><b>04<sup>th</sup> January, 2018</b>
+            <h4>Insights</h4>
+            <div>
+                <ul>
+                    <li>
+                        What is a business plan?
+                        <ol type="a" start="1">
+                            <li>Why prepare a business plan?</li>
+                            <li>What to avoid in your business plan</li>
+                        </ol>
+                    </li>
+                    <li>
+                        Business Plan Format
+                        <ol type="a" start="3">
+                            <li>Vision statement</li>
+                            <li>The people</li>
+                            <li>Business profile</li>
+                            <li>Economic assessment</li>
+                        </ol>
+                     </li>
+                     <li>
+                         Eight Steps to a Great Business Plan
+                         <ol type="a" start="7">
+                             <li>Set time aside to prepare</li>
+                             <li>Focus and refine concept</li>
+                             <li>Gather data</li>
+                             <li>Outline the specifics of your business</li>
+                             <li>Include experience</li>
+                             <li>Put your plan into a compelling form</li>
+                             <li>Enhance with graphics</li>
+                             <li>Share draft with trusted advisers</li>
+                         </ol>
+                     </li>
+                     <li>
+                         Does Your Plan Include the Following Necessary Factors
+                         <ol type="a" start="15">
+                             <li>A sound business concept</li>
+                             <li>Understanding your market</li>
+                             <li>Healthy, growing and stable industry</li>
+                             <li>Capable management</li>
+                             <li>Able financial control</li>
+                             <li>Consistent business focus</li>
+                             <li>Mindset to anticipate change</li>
+                             <li>Plans for online business</li>
+                         </ol>
+                     </li>
+                </ol>
+            </div>
+
+        </div>
+
+        <div class="overlay-session" id="abrahams">
+            <button onclick="hide_overlay('abrahams')" id="close-session">X</button>
+            <h3><b>Web Session by Matt Abrahams</b></h3>
+            <br>
+            <h4>About:</h4>
+            <ul>
+                <li>Matt Abrahams,</li>
+                <li>Lectures on organizational behavior,</li>
+                <li>Stanford Graduate School of Business</li>
+                <li>Author of <i>Speaking Up Without Freaking Out</i></li>
+                <li><b>TEDx Speaker</b> on <i>“Think fast, talk smart”</i></li>
+            </ul>
+            <b>Date : </b><b>03<sup>rd</sup> February, 2018</b>
+            <h4>In his words:</h4>
+            <p><i>
+                As a communication professor and coach, I hear a lot from presenters about anxiety.
+                Their two greatest fears are that they will forget what to say and that the audience
+                won’t remember what was spoken. These fears are certainly understandable, but create
+                much angst among nervous and novice presenters. In this series of posts, I will suggest
+                several steps you can take to make your presentations more memorable for everyone.
+            </i></p>
+
         </div>
 
         </div>
