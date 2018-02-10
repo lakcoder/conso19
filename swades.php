@@ -116,7 +116,7 @@
     		    	    <br>
     		    	    <h6>Structure</h6>
     		    	    <p>Competition is divided into three rounds as follows:</p>
-    		    	    <ol>
+    		    	    <ol style="color:#000000">
 
     					    <li><h6>Round 1:(Eliminations):</h6><p><b>10th February, 2018 – 24th February, 2018 | Colleges in and around Nagpur.</b><br>Participants have to fill a questionnaire to register. Experts will analyse and shortlist teams for the second round. </p></li>
     					    <li><h6>Round 2:(Village Visit)</h6><p><b>4th March, 2018 | Journey from VNIT, Nagpur</b><br>Participants will be allowed to peek into the village life, interact with the village inmates and identify their day to day problems. </p></li>
