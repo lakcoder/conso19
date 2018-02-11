@@ -98,7 +98,7 @@ if ( isset( $_POST['submit'] ) ) {
                                     </div>
                                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
                                         <span class="s-promo-block-v3__month g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white"><b>Cash Prize<b></span>
-                                       
+
                                     </div>
                                 </div>
                             </div>
@@ -131,14 +131,53 @@ if ( isset( $_POST['submit'] ) ) {
     		    <div class="card-content code">
     		    	<div id="bizmantra4">
 
-
+                    <h6><b>About</b></h6>
     					<p>Ad-venture is the ad making event in Conso. If you can roll
                         your ideas into a complete advertisement for a company
                         then this event provides you with the opportunity to make it
                         big. It is your chance to be on the screen while giving life to
                         your ideas staying behind it.</p>
-                        <p>So, This Conso's 18, grab your camera, find a place and don't forget to bring your idea along
-                        and let everyone see how your idea can take life in your ad.</p>
+                        <br>
+
+                    <h6><b>Theme</b></h6>
+                        <p>The theme for the event is <b>“Give traction to your life with the right choice of tyre.”</b></p>
+                        <p>The comfort of your journey can vary sharply based on the tyres you use
+                        for your vehicle. The ride could be effortless, allowing you to cruise through
+                        highways and roughened roads with ease, or it could lead to you go on looking at
+                        your destination on the map, wanting the ride to end almost instantly. The dangers
+                        of a bad tyre are many, yet all it takes one choice to avoid all that trouble and
+                        ensure your life is always on track. </p>
+                        <p>Make an ad for our sponsor <b>“Ajmera Tyres”</b>, a reputed company with years of experience in tyre manufacture. </p>
+                        <p>The ad should be based on the idea of <b>“enhancing the pleasure of driving and educating the society about the importance of good tyres”</b>.</p>
+    		    	    <p>For more information about Ajmera Tyres visit: <a href="http://bit.ly/2stOiFB" target="_blank">Adventure: Ajmera Tyres Brief</a></p>
+
+                    <br>
+    		        <h6><b>Type of content expected</b></h6>
+    		        <p>The content can be in any one of the forms below:</p>
+    		        <ol>
+    		            <li>Videos</li>
+    		            <li>Posters</li>
+    		            <li>Jingles</li>
+    		        </ol>
+    		        <p><i>If you have any other form/media in mind, contact us.</i></p>
+
+    		        <br>
+    		        <h6><b>Criteria for Judgement:</b></h6>
+    		        <ol>
+    		            <li>Coherence of content with the theme.</li>
+    		            <li>Visual appeal.</li>
+    		            <li>Skills attributed to refining and editing.</li>
+    		            <li>Creativity of thought.</li>
+    		            <li>Sense of completeness and effort.</li>
+    		            <li>Content reflected in the ad; on the given theme.</li>
+    		        </ol>
+
+    		        <br>
+    		        <br>
+    		        <b><p>LAST DAY OF REGISTRATION: 11:59 PM, 25 February, 2018. </p></b>
+    		        <b><p>LAST DAY OF SUBMISSION OF THE CONTENT: 11;59 PM, 6 March, 2018. </p></b>
+
+
     		    	</div>
     		    	<div id="bizmantra5">
     			     	<p>A company's growth is nestled in the way it is marketed. What if you never see your
