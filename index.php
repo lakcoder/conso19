@@ -484,7 +484,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                 <div class="container g-margin-b-100--xs g-padding-x-80--md" id="initiative">
                     <br>
                     <h4>Plantation</h4>
-                    <h5>Smart Plantation by using Innovative Self Watering Tree Gaurds</h5>
+                    <h5>Smart Plantation by using Innovative Self Watering Tree Gaurd</h5>
                     <i>Sponsored by- Rainbow Greeners, Rakshak</i>
                     <p>Date: 26<sup>th</sup> January 2018</p>
                     <br>
