@@ -216,7 +216,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                                 <span class="g-font-size-40--xs g-color--white">k+</span>
                             </div>
                             <div class="center-block g-hor-divider__solid--white g-width-40--xs g-margin-b-25--xs"></div>
-                            <h4 class="g-font-size-18--xs g-color--white">No. of Attendees</h4>
+                            <h4 class="g-font-size-18--xs g-color--white">No. of Participants</h4>
                         </div>
                     </div>
                     <div class="col-md-3 col-xs-6 g-full-width--xs  g-margin-b-0--lg">
@@ -484,7 +484,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                 <div class="container g-margin-b-100--xs g-padding-x-80--md" id="initiative">
                     <br>
                     <h4>Plantation</h4>
-                    <h5>Smart Plantation by using Innovative Self Watering Tree Gaurd</h5>
+                    <h5>Smart Plantation by using Innovative Self Watering Tree Guard</h5>
                     <i>Sponsored by- Rainbow Greeners, Rakshak</i>
                     <p>Date: 26<sup>th</sup> January 2018</p>
                     <br>
@@ -508,7 +508,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
             <!--Startup Expo Start-->
             <div class="card-content code">
                 <div class="container g-margin-b-100--xs g-padding-x-80--md" id="startup">
-                    <h5>Comming Soon..</h5>
+                    <h5>Coming Soon..</h5>
                 </div>
             </div>
             <!--Startup Expo End-->
