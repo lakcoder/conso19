@@ -132,7 +132,7 @@
                         <img class="img-responsive g-width-100-percent--xs" src="img/400x400/brahma.jpg" alt="Image">
                         <div class="g-position--overlay g-padding-x-30--xs g-padding-y-30--xs g-margin-t-o-60--xs">
                             <div class="g-bg-color--primary g-padding-x-15--xs g-padding-y-10--xs g-margin-b-20--xs">
-                                <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Brahmdutta Sharma</h4>
+                                <h4 class="g-font-size-22--xs g-font-size-26--sm g-color--white g-margin-b-0--xs">Brahmdutt Sharma</h4>
                             </div>
                             <p class="g-font-weight--700">Corporate Relation Head</p>
                             <p>+91 8561852461<br>brahmduttsharma@ecellvnit.org</p>
