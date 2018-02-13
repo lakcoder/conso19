@@ -5,7 +5,7 @@
                     <!-- Swiper Clients -->
                     <div class="container" id="foot">
                         <div class="row">
-                            <div class="col-md-2 col-md-offset-1 col-sm-4 col-xs-6">
+                            <div class="col-md-2 col-sm-4 col-xs-6">
                                 <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".3s">
                                     <img class="s-clients-v1" src="img/clients/TiE.png" alt="Clients Logo">
                                 </div>
@@ -30,6 +30,11 @@
                             <div class="col-md-2 col-sm-4 col-xs-6">
                                 <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".5s">
                                     <img class="s-clients-v1" src="img/clients/pmyuva.png" alt="Clients Logo">
+                                </div>
+                            </div>
+                            <div class="col-md-2 col-sm-4 col-xs-6">
+                                <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".5s">
+                                    <img class="s-clients-v1" src="img/clients/vnit_aa.png" alt="Clients Logo">
                                 </div>
                             </div>
                         </div>
