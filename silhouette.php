@@ -125,7 +125,8 @@ if ( isset( $_POST['submit'] ) ) {
     		    	<div id="bizmantra4">
     					<p>An event to test your creative skills as a logo designer. Design classic logos related to the theme provided. From amateurs to professionals , from paper to official logos.</p>
     					<p>Along with the logo participant need to submit the basic concept and the ideation behind the logo. The logo should have originally , copied content if found will discarded.</p>
-    					<p>Stay Tuned For More Updates</p><br>
+    					<p>To build the logo of your choice , get to the link below for theme ...</p><br>
+				<p><a href="https://silhouette.ecellvnit.org/themes/DesignBrief.pdf" >Click here</a> to download theme</p>
 
     		    	</div>
     		    	<div id="bizmantra5">
