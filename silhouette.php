@@ -89,7 +89,7 @@ if ( isset( $_POST['submit'] ) ) {
                                     </div>
                                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
                                         <span class="s-promo-block-v3__month g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white">Prize worth!</span>
-                                        <span class="s-promo-block-v3__year g-font-size-18--xs g-font-size-22--lg g-font-weight--300 g-color--white">And more!</span>
+                               
                                     </div>
                                 </div>
                             </div>
