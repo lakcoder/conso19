@@ -72,11 +72,11 @@
 								<div class="w3-content" style="max-width:1500px">
 
 								<!-- Photo Grid -->
-								<div class="w3-row-padding" id="myGrid" style="margin-bottom:128px">
+								<div class="w3-row-padding" id="myGrid" style="margin-bottom:0px">
 								  <div class="w3-quarter">
 								    <img src="/img/SponS/temp/aiesec.png" style="width:100%">
 									<img src="/img/SponS/temp/desi.png" style="width:100%">
-									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/ecelliitb.png" style="width:100%">
 									<img src="/img/SponS/temp/.png" style="width:100%">
 									<img src="/img/SponS/temp/.png" style="width:100%">
 									<img src="/img/SponS/temp/.png" style="width:100%">
@@ -86,7 +86,7 @@
 								  <div class="w3-quarter">
 									<img src="/img/SponS/temp/brainweave.png" style="width:100%">
 									<img src="/img/SponS/temp/DTDC.png" style="width:100%">
-									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/ecellnitk.png" style="width:100%">
 									<img src="/img/SponS/temp/.png" style="width:100%">
 									<img src="/img/SponS/temp/.png" style="width:100%">
 									<img src="/img/SponS/temp/.png" style="width:100%">
@@ -96,8 +96,8 @@
 
 								  <div class="w3-quarter">
 									<img src="/img/SponS/temp/chaturideas.png" style="width:100%">
-									<img src="/img/SponS/temp/.png" style="width:100%">
-									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/E-Cafe.png" style="width:100%">
+									<img src="/img/SponS/temp/ecellnitraipur.png" style="width:100%">
 									<img src="/img/SponS/temp/.png" style="width:100%">
 									<img src="/img/SponS/temp/.png" style="width:100%">
 									<img src="/img/SponS/temp/.png" style="width:100%">
@@ -107,8 +107,8 @@
 
 								  <div class="w3-quarter">
 									<img src="/img/SponS/temp/civn.png" style="width:100%">
-									<img src="/img/SponS/temp/.png" style="width:100%">
-									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/e-cellbits.png" style="width:100%">
+									<img src="/img/SponS/temp/ecelluttrakhand.png" style="width:100%">
 									<img src="/img/SponS/temp/.png" style="width:100%">
 									<img src="/img/SponS/temp/.png" style="width:100%">
 									<img src="/img/SponS/temp/.png" style="width:100%">
