@@ -35,19 +35,14 @@
         <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
         <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
 
+        <!--W3-->
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 		<style>
-			#spongo img {
-				padding: 0;
-				margin: 0;
-				width: 100% !important;
-				height: 100%;
-			}
-			.row {
-				height: 200px;
-			}
-			.col {
-				height:100%;
-			}
+			img {margin-bottom: -7px;}
+			.w3-row-padding img {margin-bottom: 12px;}
 		</style>
 
     </head>
@@ -71,129 +66,36 @@
         <!--========== PAGE CONTENT ==========-->
 
 <!-- sponsers-->
-					<article id="spons" class="container" style="background: #ddf 50% 0 no-repeat fixed;">
-						<div class="page-wrapper">
 
-							<div class="content-padding clearfix">
-							  <div class="row"  style="text-align:center;padding:20px;">
-							    <h2>Our Whatever Sponsors</h2>
-							  </div>
-							<div class="row">
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/aiesec.png">
-							</div>
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/brainweave.png">
-							</div>
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/chaturideas.png">
-							</div>
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/civn.png">
-							</div>
-							</div>
-							<div class="row">
 
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/desi.png">
-							</div>
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/DTDC.png">
-							</div>
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/E-Cafe.png">
-							</div>
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/e-cellbits.png">
-							</div>
-							</div>
-							<div class="row">
+							  <!-- !PAGE CONTENT! -->
+								<div class="w3-content" style="max-width:1500px">
 
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/ecelliitb.png">
-							</div>
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/ecellnitk.png">
-							</div>
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/ecellnitraipur.png">
-							</div>
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/ecelluttrakhand.png">
-							</div>
-							</div>
-							<div class="row">
+								<!-- Photo Grid -->
+								<div class="w3-row-padding" id="myGrid" style="margin-bottom:128px">
+								  <div class="w3-quarter">
+								    <img src="/img/SponS/temp/aiesec.png" style="width:100%">
+									<img src="/img/SponS/temp/desi.png" style="width:100%">
+								  </div>
 
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/festPav.png">
-							</div>
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/festsinfo.png">
-							</div>
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/iB Hubs.png">
-							</div>
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/kiitecell.png">
-							</div>
-							</div>
-							<div class="row">
+								  <div class="w3-quarter">
+									<img src="/img/SponS/temp/brainweave.png" style="width:100%">
+									<img src="/img/SponS/temp/DTDC.png" style="width:100%">
+								  </div>
 
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/knowafest.png">
-							</div>
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/makeinindia.png">
-							</div>
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/nitconclave.png">
-							</div>
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/nitrourkela.png">
-							</div>
-							</div>
-							<div class="row">
+								  <div class="w3-quarter">
+									<img src="/img/SponS/temp/chaturideas.png" style="width:100%">
+								  </div>
 
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/nitsilchar.png">
-							</div>
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/nittrichy.png">
-							</div>
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/PM Yuva Yojna.png">
-							</div>
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/rainbowgreeners.png">
-							</div>
-							</div>
-							<div class="row">
+								  <div class="w3-quarter">
+									<img src="/img/SponS/temp/civn.png" style="width:100%">
+								  </div>
 
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/startupindia.png">
-							</div>
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/startupstories.png">
-							</div>
-							<div class="col m3 s6" id="spongo">
-							  <img src="/img/SponS/temp/swachindia.png">
-							</div>
-							<div class="col m3 s6" id="spongo">
-							<img src="/img/SponS/temp/TiE.png">
-							</div>
-							</div>
-							<div class="row">
-							<div class="col-md-3">
-							  <img src="/img/SponS/temp/veracity.png">
-							</div>
-							<div class="col-md-3">
-							  <img src="/img/SponS/temp/youpreneur.png">
-							</div>
-							</div>
+								</div>
 
-							</div>
-						</div>
-					</article>
+								<!-- End Page Content -->
+								</div>
+
         <!--========== END PAGE CONTENT ==========-->
 
         <!--========== FOOTER ==========-->
