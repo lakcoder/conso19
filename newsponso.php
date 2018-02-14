@@ -33,7 +33,7 @@
 
         <!-- Favicon -->
         <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
-        <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+        <link rel="apple-touch-icon" href="img/apple-touch-icon.png" style="width:100%">
 
         <!--W3-->
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -76,22 +76,47 @@
 								  <div class="w3-quarter">
 								    <img src="/img/SponS/temp/aiesec.png" style="width:100%">
 									<img src="/img/SponS/temp/desi.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
 								  </div>
 
 								  <div class="w3-quarter">
 									<img src="/img/SponS/temp/brainweave.png" style="width:100%">
 									<img src="/img/SponS/temp/DTDC.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
 								  </div>
 
 								  <div class="w3-quarter">
 									<img src="/img/SponS/temp/chaturideas.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
 								  </div>
 
 								  <div class="w3-quarter">
 									<img src="/img/SponS/temp/civn.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
+									<img src="/img/SponS/temp/.png" style="width:100%">
 								  </div>
-
-								</div>
+								 </div>
 
 								<!-- End Page Content -->
 								</div>
