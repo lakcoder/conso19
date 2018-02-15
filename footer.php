@@ -63,6 +63,14 @@
                             <i class="g-padding-r-5--xs ti-instagram"></i>
                             <span class="g-display-none--xs g-display-inline-block--sm">Instagram</span>
                         </a>
+                        <a class="s-header__action-link" href=" https://www.linkedin.com/company/6615520/">
+                            <i class="g-padding-r-5--xs ti-linkedin"></i>
+                            <span class="g-display-none--xs g-display-inline-block--sm">LinkedIn</span>
+                        </a>
+                        <a class="s-header__action-link" href=" https://www.youtube.com/channel/UC0KNOmODhqLcEpcfN9qEsIQ">
+                            <i class="g-padding-r-5--xs ti-youtube"></i>
+                            <span class="g-display-none--xs g-display-inline-block--sm">YouTube</span>
+                        </a>
                     </div>
                     <div class="col-sm-12 col-md-4 col-lg-4">
                             <p class="g-color--white-light">For Association Opportunities Contact:<br><b>association@ecellvnit.org</b></p>
