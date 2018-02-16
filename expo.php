@@ -54,10 +54,10 @@
         <!--========== END HEADER ==========-->
 
         <!--========== PROMO BLOCK ==========-->
-        <div class="s-promo-block-v3 g-bg-position--center g-fullheight--sm" style="background: url('img/1920x1080/swades-landing.jpg');">
+        <div class="s-promo-block-v3 g-bg-position--center g-fullheight--sm" style="background: url('img/1920x1080/expo-landing.jpg');">
             <div class="container g-ver-center--sm g-padding-y-125--xs g-padding-y-0--sm">
                 <div class="g-margin-t-30--xs g-margin-t-0--sm g-margin-b-30--xs g-margin-b-70--md">
-                    <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-50--lg g-color--white">Startup Expo</h1><h2 class="g-color--white-opacity-light">Grass root Innovations beyond Imagination</h2>
+                    <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-50--lg g-color--white">Startup Expo</h1><h2 class="g-color--white-opacity-light">Crossroads of Innovation</h2>
                 </div>
                 <div class="row">
                     <div class="col-sm-8 col-sm-push-4 g-margin-b-50--xs g-margin-b-0--md">
@@ -65,7 +65,8 @@
                         <div class="row">
                             <div class="col-sm-6 g-margin-b-30--xs g-margin-b-0--md">
                                 <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".4s">
-                                    <p class="g-font-size-18--xs g-color--white">Get an insight into blurred segments of the village life and pave them towards a clear path that focuses on a pragmatic, yet a sustainable solution.</p>
+                                    <p class="g-font-size-18--xs g-color--white">The Startup Expo brings the Young Entrepreneurs together to find solutions to a
+                                        fundamental challenge of Humanity and Push The Human Race Forward</p>
                                 </div>
                             </div>
                             <!--<div class="col-sm-5 col-sm-offset-1">
@@ -113,7 +114,7 @@
                         <h6><b>Venue :- Visvesvaraya National Institute of Technology, Nagpur</b></h6>
     		    	    <br>
     		    	    <h5><b>Cost :-</b> Rs 1,000</h5>
-                        <h5><b>Space :-</b> 8 X 8 sq. ft</h5>
+                        <h5><b>Space :-</b> 6 X 6 sq. ft</h5>
                         <br>
     		    	    <h6><b>Facilities Provided :</b></h6>
     		    	    <ol>
@@ -123,6 +124,7 @@
                             <li>Chair : 3 No.</li>
                             <li>Water Facility</li>
                         </ol>
+                        <br>
                         <h6><b>Brand Yourself Amongst</b></h6>
                         <ul>
 
@@ -169,9 +171,9 @@
                         <p class=" g-color--white">+91 80058-81457</p>
                     </li>
                     <li class="col-md-6 g-color--white">
-                        <h6 class="g-color--white g-font-size-20--md">Shubham Jadhav</h6>
-                        <p class=" g-color--white">shubhamjadhav690@gmail.com</p>
-                        <p class=" g-color--white">+91 80076-57591</p>
+                        <h6 class="g-color--white g-font-size-20--md">Hemant Agrawal</h6>
+                        <p class=" g-color--white">hemantagrawal27@gmail.com</p>
+                        <p class=" g-color--white">+91 87917-14630</p>
                     </li>
 
                 </ol>
