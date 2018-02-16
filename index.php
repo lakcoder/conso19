@@ -840,7 +840,7 @@ echo("<p>" . $mail->getMessage() . "</p>");
 $from = "E-CELL VNIT <noreply@ecellvnit.org>";    //your mail id
 $to = $email_address;
 $subject = "Thank You For Contacting us";
-$body = "Thank You $name for Contacting us.\n\nWe will surely contact you soon.\n\nFor instant support contact\nName: Vipul Wairagade\nEmail: sonu.wairagade@gmail.com\nPhone: 8275868277/7020172097";
+$body = "Thank You $name for Contacting us.\n\nWe will surely contact you soon.\n\nFor instant support contact\nName: Meghna Bhave\nEmail: meghna.bhave@gmail.com\nPhone: 8368255076";
 $host = "ssl://sharedlinux.cloudhostdns.net";
 $port = "465";
 $username = "noreply@ecellvnit.org";          //your mail id
