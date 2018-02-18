@@ -526,12 +526,8 @@ if ( isset( $_POST['submitexpo'] ) ) {
                 </div>
                 <div class="row">
                     <div class="col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1">
-                        <form class="input-group" method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
-                            <input type="email" class="form-control s-form-v1__input g-radius--left-50" name="emailexpo" placeholder="Email ?">
-                            <span class="input-group-btn">
-                                <button type="submit" class="s-btn s-btn-icon--md s-btn-icon--white-brd s-btn--white-brd g-radius--right-50" name="submitexpo"><i class="ti-arrow-right"></i></button>
-                            </span>
-                        </form>
+                      
+			    <a class="btn btn-primary" href="https://expo.ecellvnit.org/" target="_blank" role="button">Know More</a>
                     </div>
                 </div>
             </div>
