@@ -154,6 +154,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                         <div class="g-margin-b-30--xs">
                             <h1 class="g-font-size-45--xs g-font-size-55--sm g-font-size-75--md g-color--white"><strong>Consortium</strong><br></h1>
                             <h2 class="g-color--white">9-11th March<br>VNIT, Nagpur</h2>
+			    <a class="btn btn-primary" href="https://apti.ecellvnit.org/" target="_blank" role="button">Register for Brainathon</a>
                         </div>
                     </div>
                 </div>
@@ -162,6 +163,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                         <div class="g-margin-b-30--xs">
                             <div class="g-margin-b-30--xs">
                                 <h1 class="g-font-size-35--xs g-font-size-45--sm g-font-size-55--md g-color--white">push the human race forward</h1>
+				    <a class="btn btn-primary" href="https://apti.ecellvnit.org/" target="_blank" role="button">Register for Brainathon</a>
                             </div>
                             <!--<a class="js__popup__youtube" href="https://www.youtube.com/watch?v=lcFYdgZKZxY" title="Intro Video">
                                 <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>
