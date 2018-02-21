@@ -159,6 +159,466 @@
 		  </div>
         </div>
         <!-- End Features -->
+        <!--Sessions Start-->
+        <div class="g-text-center--xs g-margin-b-40--xs">
+            <h2 class="g-font-size-32--xs g-font-size-36--md">What We Have</h2>
+        </div>
+        <div class="card-content code">
+            <div class="container g-margin-b-80--xs" id="session">
+                <div class="row">
+                    <!-- Item -->
+                    <div class=" col-md-2 col-md-offset-1 co-xs-12 col-sm-6">
+                        <div class="card">
+                            <div class="card-image">
+                                <img src="img/expo/" alt="A Consortium - Transforming India Logo" onerror="this.onerror=null;">
+                            </div>
+                            <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">A Consortium - Transforming India</h4>
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('A Consortium - Transforming India')">View</div>
+                                    </span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Item -->
+                    <div class=" col-md-2 co-xs-12 col-sm-6">
+                        <div class="card">
+                            <div class="card-image">
+                                <img src="img/expo/" alt="mBreath Technologies Logo" onerror="this.onerror=null;">
+                            </div>
+                            <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">mBreath Technologies</h4>
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('mBreath Technologies')">View</div>
+                                    </span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Item -->
+                    <div class=" col-md-2 co-xs-12 col-sm-6">
+                        <div class="card">
+                            <div class="card-image">
+                                <img src="img/expo/" alt="WELT WECHSLER Logo" onerror="this.onerror=null;">
+                            </div>
+                            <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">WELT WECHSLER</h4>
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('WELT WECHSLER')">View</div>
+                                    </span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Item -->
+                    <div class=" col-md-2 co-xs-12 col-sm-6">
+                        <div class="card">
+                            <div class="card-image">
+                                <img src="img/expo/" alt="Balloons Unlimited Logo" onerror="this.onerror=null;">
+                            </div>
+                            <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Balloons Unlimited</h4>
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('Balloons Unlimited')">View</div>
+                                    </span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Item -->
+                    <div class=" col-md-2 co-xs-12 col-sm-6">
+                        <div class="card">
+                            <div class="card-image">
+                                <img src="img/expo/" alt="Organiko-Beautifying Life Logo" onerror="this.onerror=null;">
+                            </div>
+                            <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Organiko-Beautifying Life</h4>
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('Organiko-Beautifying Life')">View</div>
+                                    </span>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+        <div class="card-content code">
+            <div class="container g-margin-b-80--xs" id="session">
+                <div class="row">
+                    <!-- Item -->
+                    <div class=" col-md-2 col-md-offset-1 co-xs-12 col-sm-6">
+                        <div class="card">
+                            <div class="card-image">
+                                <img src="img/expo/" alt="Revolo Info Tech Logo" onerror="this.onerror=null;">
+                            </div>
+                            <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Revolo Info Tech</h4>
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('Revolo Info Tech')">View</div>
+                                    </span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Item -->
+                    <div class=" col-md-2 co-xs-12 col-sm-6">
+                        <div class="card">
+                            <div class="card-image">
+                                <img src="img/expo/" alt="outletsindia.com Logo" onerror="this.onerror=null;">
+                            </div>
+                            <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">outletsindia.com</h4>
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('outletsindia.com')">View</div>
+                                    </span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Item -->
+                    <div class=" col-md-2 co-xs-12 col-sm-6">
+                        <div class="card">
+                            <div class="card-image">
+                                <img src="img/expo/" alt="ECO Drives Logo" onerror="this.onerror=null;">
+                            </div>
+                            <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">ECO Drives</h4>
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('ECO Drives')">View</div>
+                                    </span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Item -->
+                    <div class=" col-md-2 co-xs-12 col-sm-6">
+                        <div class="card">
+                            <div class="card-image">
+                                <img src="img/expo/" alt="Somebuddy Logo" onerror="this.onerror=null;">
+                            </div>
+                            <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Somebuddy</h4>
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('Somebuddy')">View</div>
+                                    </span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Item -->
+                    <div class=" col-md-2 co-xs-12 col-sm-6">
+                        <div class="card">
+                            <div class="card-image">
+                                <img src="img/expo/" alt="Buyright.in Logo" onerror="this.onerror=null;">
+                            </div>
+                            <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Buyright.in</h4>
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('Buyright.in')">View</div>
+                                    </span>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+        <div class="card-content code">
+            <div class="container g-margin-b-80--xs" id="session">
+                <div class="row">
+                    <!-- Item -->
+                    <div class=" col-md-2 col-md-offset-1 co-xs-12 col-sm-6">
+                        <div class="card">
+                            <div class="card-image">
+                                <img src="img/expo/" alt="ProFit Logo" onerror="this.onerror=null;">
+                            </div>
+                            <div class="card-content">
+
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">ProFit</h4>
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('ProFit')">View</div>
+                                   
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Item -->
+                    <div class=" col-md-2 co-xs-12 col-sm-6">
+                        <div class="card">
+                            <div class="card-image">
+                                <img src="img/expo/" alt="Dessert Me Up Logo" onerror="this.onerror=null;">
+                            </div>
+                            <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Dessert Me Up</h4>
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('Dessert Me Up')">View</div>
+                                    </span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Item -->
+                    <div class=" col-md-2 co-xs-12 col-sm-6">
+                        <div class="card">
+                            <div class="card-image">
+                                <img src="img/expo/" alt="Abhiyaan Logo" onerror="this.onerror=null;">
+                            </div>
+                            <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Abhiyaan</h4>
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('Abhiyaan')">View</div>
+                                    </span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Item -->
+                    <div class=" col-md-2 co-xs-12 col-sm-6">
+                        <div class="card">
+                            <div class="card-image">
+                                <img src="img/expo/" alt="Samvaay Logo" onerror="this.onerror=null;">
+                            </div>
+                            <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Samvaay</h4>
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('Samvaay')">View</div>
+                                    </span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Item -->
+                    <div class=" col-md-2 co-xs-12 col-sm-6">
+                        <div class="card">
+                            <div class="card-image">
+                                <img src="img/expo/" alt="CONTESTOPEDIA Logo" onerror="this.onerror=null;">
+                            </div>
+                            <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">CONTESTOPEDIA</h4>
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('CONTESTOPEDIA')">View</div>
+                                    </span>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+        <!--Session End-->
+        <div class="overlay-session" id="A Consortium - Transforming India">
+            <button onclick="hide_overlay('A Consortium - Transforming India')" id="close-session">X</button>
+            <h3><b>A Consortium - Transforming India</b></h3>
+            <h4>About Team Members</h4>
+            <ul>
+                <li>Vaibhav Popat, Visvesvarya national institute of technology</li>
+                <li>Mrunal Raichura, Visvesvarya national institute of technology</li>
+            </ul>
+            <h4>About</h4>
+            <p>
+               Details to be updated Soon.
+            </p>
+        </div>
+
+        <div class="overlay-session" id="mBreath Technologies">
+            <button onclick="hide_overlay('mBreath Technologies')" id="close-session">X</button>
+            <h3><b>mBreath Technologies</b></h3>
+            <h4>About Team Members</h4>
+            <ul>
+                <li>Laxmi Kant Tiwari, IIT Kharagpur</li>
+                <li>Dr. Aurobinda Routray, IIT Kharagpur</li>
+                <li>Ritwik Dash, IIT Kharagpur</li>
+            </ul>
+            <h4>About</h4>
+            <p>
+                Details to be updated Soon.
+            </p>
+        </div>
+        <div class="overlay-session" id="WELT WECHSLER">
+            <button onclick="hide_overlay('WELT WECHSLER')" id="close-session">X</button>
+            <h3><b>WELT WECHSLER</b></h3>
+            <h4>About Team Members</h4>
+            <ul>
+                <li>P.Bhavasagar, NIT RAIPUR</li>
+                <li>Ch.Lalitha Devi, NIT RAIPUR</li>
+                <li>A.Mouni, NIT RAIPUR</li>
+                <li>M.Divya Sree, NIT RAIPUR</li>
+                <li>K.Kashyap, NIT RAIPUR</li>
+            </ul>
+            <h4>About</h4>
+            <p>
+                Details to be updated Soon.
+            </p>
+        </div>
+
+        <div class="overlay-session" id="Balloons Unlimited">
+            <button onclick="hide_overlay('Balloons Unlimited')" id="close-session">X</button>
+            <h3><b>Balloons Unlimited</b></h3>
+            <h4>About Team Members</h4>
+            <ul>
+                <li>Venu Dasari, Nizam</li>
+                <li>Ramana Rao, HMV</li>
+                <li>Ramesh Nagubandi, KITS</li>
+            </ul>
+            <h4>About</h4>
+            <p>
+                Details to be updated Soon.
+            </p>
+        </div>
+
+        <div class="overlay-session" id="Organiko-Beautifying Life">
+            <button onclick="hide_overlay('Organiko-Beautifying Life')" id="close-session">X</button>
+            <h3><b>Organiko-Beautifying Life</b></h3>
+            <h4>About Team Members</h4>
+            <ul>
+                <li>Pooja Kaul, Tata Institute of Social Sciences,Tuljapur</li>
+                <li>Rishabh Yash Tomar, Tata Institute Of Social Sciences,Tuljapur</li>
+            </ul>
+            <h4>About</h4>
+            <p>
+                Details to be updated Soon.
+            </p>
+
+        </div>
+
+        <div class="overlay-session" id="Revolo Info Tech">
+            <button onclick="hide_overlay('Revolo Info Tech')" id="close-session">X</button>
+            <h3><b>Revolo Info Tech</b></h3>
+            <h4>About Team Members</h4>
+            <ul>
+                <li>Shivkumar Krishnamurthy	Vivekanand Education Society's institute of Technology</li>
+                <li>Nitin Shenoy, Vivekanand Education Society's institute of Technology</li>
+            </ul>
+            <h4>About</h4>
+            <p>
+                Details to be updated Soon.
+            </p>
+        </div>
+
+        <div class="overlay-session" id="outletsindia.com">
+            <button onclick="hide_overlay('outletsindia.com')" id="close-session">X</button>
+            <h3><b>outletsindia.com</b></h3>
+            <h4>About Team Members</h4>
+            <ul>
+                <li>Kalpesh Langaliya, M.J College, Bhavnagar</li>
+                <li>Yusuf Kapasi, M.J College, Bhavnagar</li>
+            </ul>
+            <h4>About</h4>
+            <p>
+                Details to be updated Soon.
+            </p>
+        </div>
+        <div class="overlay-session" id="ECO Drives">
+            <button onclick="hide_overlay('ECO Drives')" id="close-session">X</button>
+            <h3><b>ECO Drives</b></h3>
+            <h4>About Team Members</h4>
+            <ul>
+                <li>Suraj Singh, M S Ramaiah institute of technology</li>
+                <li>Sumit Kumar, M S Ramaiah institute of technology</li>
+                <li>Abhishek Pratap, M S Ramaiah institute of technology</li>
+            </ul>
+            <h4>About</h4>
+            <p>
+                Details to be updated Soon.
+            </p>
+        </div>
+
+        <div class="overlay-session" id="Somebuddy">
+            <button onclick="hide_overlay('Somebuddy')" id="close-session">X</button>
+            <h3><b>Somebuddy</b></h3>
+            <h4>About Team Members</h4>
+            <ul>
+                <li>Vaibhav Kaushik, RCOEM</li>
+                <li>Akshans Gupta, RCOEM</li>
+                <li>Tarun Rawat, RCOEM</li>
+            </ul>
+            <h4>About</h4>
+            <p>
+                Details to be updated Soon.
+            </p>
+        </div>
+
+        <div class="overlay-session" id="Buyright.in">
+            <button onclick="hide_overlay('Buyright.in')" id="close-session">X</button>
+            <h3><b>Buyright.in</b></h3>
+            <h4>About Team Members</h4>
+            <ul>
+                <li>Nayan Palat, IIT Bombay</li>
+                <li>Rupansh Goyal, IIT Bombay</li>
+            </ul>
+            <h4>About</h4>
+            <p>
+                Details to be updated Soon.
+            </p>
+
+        </div>
+
+        <div class="overlay-session" id="ProFit">
+            <button onclick="hide_overlay('ProFit')" id="close-session">X</button>
+            <h3><b>ProFit</b></h3>
+            <h4>About Team Members</h4>
+            <ul>
+                <li>Ankit Taneja, SIBM Pune</li>
+                <li>Anjali Hamirwasia, SIBM Pune</li>
+                <li>Mit Desai, SIBM Pune</li>
+                <li>Kushal Agarwal, SIBM Pune</li>
+                <li>Simar Dhillon, SIBM Pune</li>
+            </ul>
+            <h4>About</h4>
+            <p>
+                Details to be updated Soon.
+            </p>
+        </div>
+
+        <div class="overlay-session" id="Dessert Me Up">
+            <button onclick="hide_overlay('Dessert Me Up')" id="close-session">X</button>
+            <h3><b>Dessert Me Up</b></h3>
+            <h4>About Team Members</h4>
+            <ul>
+                <li>Anjali Hamirwasia, SIBM Pune</li>
+                <li>Lavish Chawla, SIBM Pune</li>
+                <li>Simar Dhillon, SIBM Pune</li>
+            </ul>
+            <h4>About</h4>
+            <p>
+                Details to be updated Soon.
+            </p>
+        </div>
+        <div class="overlay-session" id="Abhiyaan">
+            <button onclick="hide_overlay('Abhiyaan')" id="close-session">X</button>
+            <h3><b>Abhiyaan</b></h3>
+            <h4>About Team Members</h4>
+            <ul>
+                <li>Karthik Bonda, IIT Madras</li>
+                <li>Nishant Patil, IIT Madras</li>
+            </ul>
+            <h4>About</h4>
+            <p>
+                Details to be updated Soon.
+            </p>
+        </div>
+
+        <div class="overlay-session" id="Samvaay">
+            <button onclick="hide_overlay('Samvaay')" id="close-session">X</button>
+            <h3><b>Samvaay</b></h3>
+            <h4>About Team Members</h4>
+            <ul>
+                <li>Jaswant, IIT-Kharagpur</li>
+                <li>Shlok, VNIT-Nagpur</li>
+            </ul>
+            <h4>About</h4>
+            <p>
+                Details to be updated Soon.
+            </p>
+        </div>
+
+        <div class="overlay-session" id="CONTESTOPEDIA">
+            <button onclick="hide_overlay('CONTESTOPEDIA')" id="close-session">X</button>
+            <h3><b>CONTESTOPEDIA</b></h3>
+            <h4>About Team Members</h4>
+            <ul>
+                <li>Ansh Jain, Institute of Chemical Technology</li>
+                <li>Hardil Shah, Institute of Chemical Technology</li>
+            </ul>
+            <h4>About</h4>
+            <p>
+                Details to be updated Soon.
+            </p>
+
+        </div>
+
 
         <!-- Coordinators -->
         <div class="container js__parallax-window">
@@ -211,6 +671,7 @@
         <script type="text/javascript" src="vendor/jquery.wow.min.js"></script>
         <script src="js/cards.js"></script>
 		<script src="js/materialize.js"></script>
+        <script src="js/main.js"></script>
 
         <!-- General Components and Settings -->
         <script type="text/javascript" src="js/global.min.js"></script>
