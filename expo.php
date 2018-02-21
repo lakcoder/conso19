@@ -161,7 +161,7 @@
         <!-- End Features -->
         <!--Sessions Start-->
         <div class="g-text-center--xs g-margin-b-40--xs">
-            <h2 class="g-font-size-32--xs g-font-size-36--md">What We Have</h2>
+            <h2 class="g-font-size-32--xs g-font-size-36--md">Startup Details</h2>
         </div>
         <div class="card-content code">
             <div class="container g-margin-b-80--xs" id="session">
