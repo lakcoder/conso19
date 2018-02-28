@@ -43,6 +43,9 @@
 		<style>
 			img {margin-bottom: -7px;}
 			.w3-row-padding img {margin-bottom: 12px;}
+			figcaption {
+			    text-align:center;
+			}
 		</style>
 
     </head>
@@ -74,9 +77,18 @@
 								<!-- Photo Grid -->
 								<div class="w3-row-padding" id="myGrid" style="margin-bottom:0px">
 								  <div class="w3-quarter">
-								    <img src="img/SponS/final/2.png" style="width:100%">
-									<img src="img/SponS/final/8.png" style="width:100%">
-									<img src="img/SponS/final/9.png" style="width:100%">
+								    <figure>
+								        <img src="img/SponS/final/2.png" style="width:100%">
+								        <figcaption>Web Hosting Parter</figcaption>
+								    </figure>
+									<figure>
+								        <img src="img/SponS/final/8.png" style="width:100%">
+								        <figcaption>Web Hosting Parter</figcaption>
+								    </figure>
+								    <figure>
+								        <img src="img/SponS/final/9.png" style="width:100%">
+								        <figcaption>Web Hosting Parter</figcaption>
+								    </figure>
 									<img src="img/SponS/final/.png" style="width:100%">
 									<img src="img/SponS/final/.png" style="width:100%">
 									<img src="img/SponS/final/.png" style="width:100%">
@@ -84,9 +96,18 @@
 								  </div>
 
 								  <div class="w3-quarter">
-									<img src="img/SponS/final/6.png" style="width:100%">
-									<img src="img/SponS/final/4.png" style="width:100%">
-									<img src="img/SponS/final/10.png" style="width:100%">
+									<figure>
+								        <img src="img/SponS/final/6.png" style="width:100%">
+								        <figcaption>Web Hosting Parter</figcaption>
+								    </figure>
+								    <figure>
+								        <img src="img/SponS/final/4.png" style="width:100%">
+								        <figcaption>Web Hosting Parter</figcaption>
+								    </figure>
+								    <figure>
+								        <img src="img/SponS/final/10.png" style="width:100%">
+								        <figcaption>Web Hosting Parter</figcaption>
+								    </figure>
 									<img src="img/SponS/final/.png" style="width:100%">
 									<img src="img/SponS/final/.png" style="width:100%">
 									<img src="img/SponS/final/.png" style="width:100%">
@@ -95,9 +116,18 @@
 								  </div>
 
 								  <div class="w3-quarter">
-									<img src="img/SponS/final/5.png" style="width:100%">
-									<img src="img/SponS/final/1.png" style="width:100%">
-									<img src="img/SponS/final/11.png" style="width:100%">
+									<figure>
+								        <img src="img/SponS/final/5.png" style="width:100%">
+								        <figcaption>Web Hosting Parter</figcaption>
+								    </figure>
+								    <figure>
+								        <img src="img/SponS/final/1.png" style="width:100%">
+								        <figcaption>Web Hosting Parter</figcaption>
+								    </figure>
+								    <figure>
+								        <img src="img/SponS/final/11.png" style="width:100%">
+								        <figcaption>Web Hosting Parter</figcaption>
+								    </figure>
 									<img src="img/SponS/final/.png" style="width:100%">
 									<img src="img/SponS/final/.png" style="width:100%">
 									<img src="img/SponS/final/.png" style="width:100%">
@@ -106,8 +136,14 @@
 								  </div>
 
 								  <div class="w3-quarter">
-									<img src="img/SponS/final/7.png" style="width:100%">
-									<img src="img/SponS/final/3.png" style="width:100%">
+									<figure>
+								        <img src="img/SponS/final/7.png" style="width:100%">
+								        <figcaption>Web Hosting Parter</figcaption>
+								    </figure>
+								    <figure>
+								        <img src="img/SponS/final/3.png" style="width:100%">
+								        <figcaption>Web Hosting Parter</figcaption>
+								    </figure>
 									<img src="img/SponS/final/.png" style="width:100%">
 									<img src="img/SponS/final/.png" style="width:100%">
 									<img src="img/SponS/final/.png" style="width:100%">
