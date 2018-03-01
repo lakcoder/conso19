@@ -87,11 +87,11 @@
 								    </figure>
 								    <figure>
 								        <img src="img/SponS/final/9.png" style="width:100%">
-								        <figcaption>Web Hosting Parter</figcaption>
+								        <figcaption>Social Initiative Partner</figcaption>
 								    </figure>
 								<figure>
 									<img src="img/SponS/final/13.png" style="width:100%">
-										<figcaption>Web Hosting Parter</figcaption>
+										<figcaption>Automobile Partner</figcaption>
 								</figure>
 									<img src="img/SponS/final/.png" style="width:100%">
 									<img src="img/SponS/final/.png" style="width:100%">
@@ -109,7 +109,7 @@
 								    </figure>
 								    <figure>
 								        <img src="img/SponS/final/10.png" style="width:100%">
-								        <figcaption>Web Hosting Parter</figcaption>
+								        <figcaption>Automobile Parter</figcaption>
 								    </figure>
 									<img src="img/SponS/final/.png" style="width:100%">
 									<img src="img/SponS/final/.png" style="width:100%">
@@ -129,7 +129,7 @@
 								    </figure>
 								    <figure>
 								        <img src="img/SponS/final/11.png" style="width:100%">
-								        <figcaption>Web Hosting Parter</figcaption>
+								        <figcaption>Ecosystem Partner</figcaption>
 								    </figure>
 									<img src="img/SponS/final/.png" style="width:100%">
 									<img src="img/SponS/final/.png" style="width:100%">
@@ -147,7 +147,10 @@
 								        <img src="img/SponS/final/3.png" style="width:100%">
 								        <figcaption>Bronze Sponsor</figcaption>
 								    </figure>
+									  <figure>
 									<img src="img/SponS/final/12.png" style="width:100%">
+										  <figcaption>Automobile Partner</figcaption>
+										  </figure>
 									<img src="img/SponS/final/.png" style="width:100%">
 									<img src="img/SponS/final/.png" style="width:100%">
 									<img src="img/SponS/final/.png" style="width:100%">
