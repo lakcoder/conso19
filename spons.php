@@ -83,13 +83,16 @@
 								    </figure>
 									<figure>
 								        <img src="img/SponS/final/8.png" style="width:100%">
-								        <figcaption>Web Hosting Parter</figcaption>
+								        <figcaption>Logistics Partner</figcaption>
 								    </figure>
 								    <figure>
 								        <img src="img/SponS/final/9.png" style="width:100%">
 								        <figcaption>Web Hosting Parter</figcaption>
 								    </figure>
+								<figure>
 									<img src="img/SponS/final/13.png" style="width:100%">
+										<figcaption>Web Hosting Parter</figcaption>
+								</figure>
 									<img src="img/SponS/final/.png" style="width:100%">
 									<img src="img/SponS/final/.png" style="width:100%">
 									<img src="img/SponS/final/.png" style="width:100%">
@@ -98,11 +101,11 @@
 								  <div class="w3-quarter">
 									<figure>
 								        <img src="img/SponS/final/6.png" style="width:100%">
-								        <figcaption>Web Hosting Parter</figcaption>
+								        <figcaption>Event Partner</figcaption>
 								    </figure>
 								    <figure>
 								        <img src="img/SponS/final/4.png" style="width:100%">
-								        <figcaption>Web Hosting Parter</figcaption>
+								        <figcaption>Ecosystem Partner</figcaption>
 								    </figure>
 								    <figure>
 								        <img src="img/SponS/final/10.png" style="width:100%">
@@ -118,11 +121,11 @@
 								  <div class="w3-quarter">
 									<figure>
 								        <img src="img/SponS/final/5.png" style="width:100%">
-								        <figcaption>Web Hosting Parter</figcaption>
+								        <figcaption>Event Partner</figcaption>
 								    </figure>
 								    <figure>
 								        <img src="img/SponS/final/1.png" style="width:100%">
-								        <figcaption>Web Hosting Parter</figcaption>
+								        <figcaption>Gifting Partner</figcaption>
 								    </figure>
 								    <figure>
 								        <img src="img/SponS/final/11.png" style="width:100%">
@@ -138,11 +141,11 @@
 								  <div class="w3-quarter">
 									<figure>
 								        <img src="img/SponS/final/7.png" style="width:100%">
-								        <figcaption>Web Hosting Parter</figcaption>
+								        <figcaption>Event Partner</figcaption>
 								    </figure>
 								    <figure>
 								        <img src="img/SponS/final/3.png" style="width:100%">
-								        <figcaption>Web Hosting Parter</figcaption>
+								        <figcaption>Bronze Sponsor</figcaption>
 								    </figure>
 									<img src="img/SponS/final/12.png" style="width:100%">
 									<img src="img/SponS/final/.png" style="width:100%">
