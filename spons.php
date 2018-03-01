@@ -93,9 +93,7 @@
 									<img src="img/SponS/final/13.png" style="width:100%">
 										<figcaption>Automobile Partner</figcaption>
 								</figure>
-									<img src="img/SponS/final/.png" style="width:100%">
-									<img src="img/SponS/final/.png" style="width:100%">
-									<img src="img/SponS/final/.png" style="width:100%">
+									
 								  </div>
 
 								  <div class="w3-quarter">
@@ -111,11 +109,10 @@
 								        <img src="img/SponS/final/10.png" style="width:100%">
 								        <figcaption>Automobile Parter</figcaption>
 								    </figure>
-									<img src="img/SponS/final/.png" style="width:100%">
-									<img src="img/SponS/final/.png" style="width:100%">
-									<img src="img/SponS/final/.png" style="width:100%">
-									<img src="img/SponS/final/.png" style="width:100%">
-									<img src="img/SponS/final/.png" style="width:100%">
+									  <figure>
+									<img src="img/SponS/final/14.png" style="width:100%">
+										  <figcaption>Diamond Sponsor</figcaption>
+										  </figure>
 								  </div>
 
 								  <div class="w3-quarter">
@@ -131,11 +128,7 @@
 								        <img src="img/SponS/final/11.png" style="width:100%">
 								        <figcaption>Ecosystem Partner</figcaption>
 								    </figure>
-									<img src="img/SponS/final/.png" style="width:100%">
-									<img src="img/SponS/final/.png" style="width:100%">
-									<img src="img/SponS/final/.png" style="width:100%">
-									<img src="img/SponS/final/.png" style="width:100%">
-									<img src="img/SponS/final/.png" style="width:100%">
+									
 								  </div>
 
 								  <div class="w3-quarter">
@@ -151,12 +144,7 @@
 									<img src="img/SponS/final/12.png" style="width:100%">
 										  <figcaption>Automobile Partner</figcaption>
 										  </figure>
-									<img src="img/SponS/final/.png" style="width:100%">
-									<img src="img/SponS/final/.png" style="width:100%">
-									<img src="img/SponS/final/.png" style="width:100%">
-									<img src="img/SponS/final/.png" style="width:100%">
-									<img src="img/SponS/final/.png" style="width:100%">
-									<img src="img/SponS/final/.png" style="width:100%">
+									
 								  </div>
 								 </div>
 
