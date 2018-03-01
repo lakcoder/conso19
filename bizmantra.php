@@ -127,7 +127,7 @@ if ( isset( $_POST['submit'] ) ) {
     					<h6><b>Event Structure</b></h6>
     					<ul>
 
-    					    <li><h6>Round 1</h6><p>The event will start with a quiz that will help shortlist the candidates. If you are able to clear the quiz, you will  be divided into teams of four, and would have to clear two rounds in order to win the competition.</p></li>
+    					    <li><h6>Round 1</h6><p>The event will start with a quiz that will help shortlist the candidates. If you are able to clear the quiz, you will  be divided into teams of five, and would have to clear two rounds in order to win the competition.</p></li>
     					    <br>
     					    <li><h6>Round 2</h6><p>Your team will be given a catchy fictitious product for which you have to garner maximum votes. The top teams from this round will be selected for the final task. </p></li>
     					    <br>
