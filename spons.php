@@ -113,10 +113,7 @@
 									<img src="img/SponS/final/14.png" style="width:100%">
 										  <figcaption>Diamond Sponsor</figcaption>
 										  </figure>
-									  <figure>
-								        <img src="img/SponS/final/14.png" style="width:100%">
-								        <figcaption>Daimond Sponsor</figcaption>
-								    </figure>
+									 
 								  </div>
 
 								  <div class="w3-quarter">
@@ -152,6 +149,14 @@
 									<img src="img/SponS/final/12.png" style="width:100%">
 										  <figcaption>Automobile Partner</figcaption>
 										  </figure>
+									  <figure>
+								        <img src="img/SponS/final/10.png" style="width:100%">
+								        <figcaption>Automobile Parter</figcaption>
+								    </figure>
+									  <figure>
+								        <img src="img/SponS/final/16.png" style="width:100%">
+								        <figcaption>Merchandise Parter</figcaption>
+								    </figure>
 									
 								  </div>
 								 </div>
