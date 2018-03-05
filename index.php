@@ -265,9 +265,10 @@ if ( isset( $_POST['submitexpo'] ) ) {
                 <div class="card-tabs">
     		      <ul class="tabs tabs-fixed-width">
     		        <li class="tab"><a class="active" href="#event">Events</a></li>
+    		        <li class="tab"><a  href="#attraction">Attractions</a></li>
     		        <li class="tab"><a href="#session">Sessions</a></li>
     		        <li class="tab"><a href="#initiative">Initiatives</a></li>
-    		        <li class="tab"><a href="#startup">Startup Expo</a></li>
+
     		      </ul>
     		    </div>
             </div>
@@ -507,13 +508,62 @@ if ( isset( $_POST['submitexpo'] ) ) {
             </div>
             <!--Inititatives End-->
 
-            <!--Startup Expo Start-->
+            <!--Attractions Start-->
             <div class="card-content code">
-                <div class="container g-margin-b-100--xs g-padding-x-80--md" id="startup">
-                    <h5>Coming Soon..</h5>
+                <div class="container g-margin-b-80--xs" id="attraction">
+                    <div class="row">
+                        <!-- Item -->
+                        <div class=" col-md-4 col-xs-12 col-sm-6">
+                            <div class="card">
+                                <div class="card-image">
+                                  <img src="img/guests/yash.jpg" alt="yash" onerror="this.onerror=null;">
+                                </div>
+                                <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Inaugration</h4>
+                                        <p class="g-color--dark">9<sup>th</sup> March, 18:00</p>
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('inaug')">View</div>
+                                    </span>
+                                </div>
+                              </div>
+                        </div>
+                        <!-- Item -->
+                        <div class=" col-md-4 col-xs-12 col-sm-6">
+                            <div class="card">
+                                <div class="card-image">
+                                  <img src="img/guests/yash.jpg" alt="yash" onerror="this.onerror=null;">
+                                </div>
+                                <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Day 2nd</h4>
+                                        <p class="g-color--dark">10<sup>th</sup> March</p>
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('day2')">View</div>
+                                    </span>
+                                </div>
+                              </div>
+                        </div>
+                        <!-- Item -->
+                        <div class=" col-md-4 col-xs-12 col-sm-6 col-md-offset-0 col-sm-offset-3">
+                            <div class="card">
+                                <div class="card-image">
+                                  <img src="img/guests/yash.jpg" alt="yash" onerror="this.onerror=null;">
+                                </div>
+                                <div class="card-content">
+                                    <span class="card-title">
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Day 3rd</h4>
+                                        <p class="g-color--dark">11<sup>th</sup> March</p>
+                                        <div class="g-color--primary" id="call-session" onclick="show_overlay('day3')">View</div>
+                                    </span>
+                                </div>
+                              </div>
+                        </div>
+
+
+                    </div>
+
                 </div>
             </div>
-            <!--Startup Expo End-->
+            <!--Attractions End-->
 
         </div>
 
@@ -526,7 +576,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                 </div>
                 <div class="row">
                     <div class="col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1">
-                      
+
 			    <a class="btn btn-primary" href="https://expo.ecellvnit.org/" target="_blank" role="button">Know More</a>
                     </div>
                 </div>
@@ -737,6 +787,74 @@ if ( isset( $_POST['submitexpo'] ) ) {
             </i></p>
 
         </div>
+        <!-- Atractions overlays-->
+        <div class="overlay-session" id="inaug">
+            <button onclick="hide_overlay('inaug')" id="close-session">X</button>
+            <h3><b>Inaugration</b></h3>
+
+            <div class="container">
+                <div class="row guest">
+                    <div class="col-md-5 col-sm-6 col-xs-12 guest-img"><img src="img/970x970/01.jpg"/></div>
+                    <div class="col-md-7 col-sm-6 col-xs-12 guest-content">
+                        <h3>Guest1</h3>
+                        <p>"Sed ut perspiciatis unde omnis iste natus error
+                        sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
+                        quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                        </p>
+
+                    </div>
+                </div>
+                <div class="row guest">
+                    <div class="col-md-5 col-sm-6 col-xs-12 guest-img"><img src="img/970x970/01.jpg"/></div>
+                    <div class="col-md-7 col-sm-6 col-xs-12 guest-content">
+                        <h3>Guest1</h3>
+                        <p>"Sed ut perspiciatis unde omnis iste natus error
+                        sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
+                        quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                        </p>
+
+                    </div>
+                </div>
+                <div class="row guest">
+                    <div class="col-md-5 col-sm-6 col-xs-12 guest-img"><img src="img/970x970/01.jpg"/></div>
+                    <div class="col-md-7 col-sm-6 col-xs-12 guest-content">
+                        <h3>Guest1</h3>
+                        <p>"Sed ut perspiciatis unde omnis iste natus error
+                        sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
+                        quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+
+
+            <br>
+
+
+
+        </div>
+
+        <div class="overlay-session" id="day2">
+            <button onclick="hide_overlay('day2')" id="close-session">X</button>
+            <h3><b>Day2</b></h3>
+            <p>Stay Tuned...</p>
+            <br>
+
+
+
+        </div>
+
+        <div class="overlay-session" id="day3">
+            <button onclick="hide_overlay('day3')" id="close-session">X</button>
+            <h3><b>Day3</b></h3>
+            <p>Stay Tuned...</p>
+            <br>
+
+
+
+        </div>
+
 
         </div>
 
