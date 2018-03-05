@@ -113,6 +113,10 @@
 									<img src="img/SponS/final/14.png" style="width:100%">
 										  <figcaption>Diamond Sponsor</figcaption>
 										  </figure>
+									  <figure>
+								        <img src="img/SponS/final/14.png" style="width:100%">
+								        <figcaption>Daimond Sponsor</figcaption>
+								    </figure>
 								  </div>
 
 								  <div class="w3-quarter">
@@ -127,6 +131,10 @@
 								    <figure>
 								        <img src="img/SponS/final/11.png" style="width:100%">
 								        <figcaption>Ecosystem Partner</figcaption>
+								    </figure>
+									  <figure>
+								        <img src="img/SponS/final/15.png" style="width:100%">
+								        <figcaption>Styling Partner</figcaption>
 								    </figure>
 									
 								  </div>
