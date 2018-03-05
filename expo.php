@@ -169,9 +169,9 @@
                     <!-- Item -->
                     <div class=" col-md-2 col-md-offset-1 co-xs-12 col-sm-6">
                         <div class="card">
-                            <div class="card-image">
-                                <img src="img/expo/" alt="A Consortium - Transforming India Logo" onerror="this.onerror=null;">
-                            </div>
+                            <!--div class="card-image">
+                                <img src="img/expo/g.jpg" onerror="this.onerror = null;" alt="A Consortium - Transforming India Logo" />
+                            </div -->
                             <div class="card-content">
                                     <span class="card-title">
                                         <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">A Consortium - Transforming India</h4>
@@ -183,9 +183,9 @@
                     <!-- Item -->
                     <div class=" col-md-2 co-xs-12 col-sm-6">
                         <div class="card">
-                            <div class="card-image">
+                            <!--div class="card-image">
                                 <img src="img/expo/" alt="mBreath Technologies Logo" onerror="this.onerror=null;">
-                            </div>
+                            </div-->
                             <div class="card-content">
                                     <span class="card-title">
                                         <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">mBreath Technologies</h4>
@@ -197,9 +197,9 @@
                     <!-- Item -->
                     <div class=" col-md-2 co-xs-12 col-sm-6">
                         <div class="card">
-                            <div class="card-image">
+                            <!--div class="card-image">
                                 <img src="img/expo/" alt="WELT WECHSLER Logo" onerror="this.onerror=null;">
-                            </div>
+                            </div-->
                             <div class="card-content">
                                     <span class="card-title">
                                         <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">WELT WECHSLER</h4>
@@ -211,9 +211,9 @@
                     <!-- Item -->
                     <div class=" col-md-2 co-xs-12 col-sm-6">
                         <div class="card">
-                            <div class="card-image">
+                            <!--div class="card-image">
                                 <img src="img/expo/" alt="Balloons Unlimited Logo" onerror="this.onerror=null;">
-                            </div>
+                            </div-->
                             <div class="card-content">
                                     <span class="card-title">
                                         <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Balloons Unlimited</h4>
@@ -225,9 +225,9 @@
                     <!-- Item -->
                     <div class=" col-md-2 co-xs-12 col-sm-6">
                         <div class="card">
-                            <div class="card-image">
+                            <!--div class="card-image">
                                 <img src="img/expo/" alt="Organiko-Beautifying Life Logo" onerror="this.onerror=null;">
-                            </div>
+                            </div-->
                             <div class="card-content">
                                     <span class="card-title">
                                         <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Organiko-Beautifying Life</h4>
@@ -247,9 +247,9 @@
                     <!-- Item -->
                     <div class=" col-md-2 col-md-offset-1 co-xs-12 col-sm-6">
                         <div class="card">
-                            <div class="card-image">
+                            <!--div class="card-image">
                                 <img src="img/expo/" alt="Revolo Info Tech Logo" onerror="this.onerror=null;">
-                            </div>
+                            </div-->
                             <div class="card-content">
                                     <span class="card-title">
                                         <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Revolo Info Tech</h4>
@@ -261,9 +261,9 @@
                     <!-- Item -->
                     <div class=" col-md-2 co-xs-12 col-sm-6">
                         <div class="card">
-                            <div class="card-image">
+                            <!--div class="card-image">
                                 <img src="img/expo/" alt="outletsindia.com Logo" onerror="this.onerror=null;">
-                            </div>
+                            </div-->
                             <div class="card-content">
                                     <span class="card-title">
                                         <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">outletsindia.com</h4>
@@ -275,9 +275,9 @@
                     <!-- Item -->
                     <div class=" col-md-2 co-xs-12 col-sm-6">
                         <div class="card">
-                            <div class="card-image">
+                            <!--div class="card-image">
                                 <img src="img/expo/" alt="ECO Drives Logo" onerror="this.onerror=null;">
-                            </div>
+                            </div-->
                             <div class="card-content">
                                     <span class="card-title">
                                         <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">ECO Drives</h4>
@@ -289,9 +289,9 @@
                     <!-- Item -->
                     <div class=" col-md-2 co-xs-12 col-sm-6">
                         <div class="card">
-                            <div class="card-image">
+                            <!--div class="card-image">
                                 <img src="img/expo/" alt="Somebuddy Logo" onerror="this.onerror=null;">
-                            </div>
+                            </div-->
                             <div class="card-content">
                                     <span class="card-title">
                                         <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Somebuddy</h4>
@@ -303,9 +303,9 @@
                     <!-- Item -->
                     <div class=" col-md-2 co-xs-12 col-sm-6">
                         <div class="card">
-                            <div class="card-image">
+                            <!--div class="card-image">
                                 <img src="img/expo/" alt="Buyright.in Logo" onerror="this.onerror=null;">
-                            </div>
+                            </div-->
                             <div class="card-content">
                                     <span class="card-title">
                                         <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Buyright.in</h4>
@@ -325,23 +325,23 @@
                     <!-- Item -->
                     <div class=" col-md-2 col-md-offset-1 co-xs-12 col-sm-6">
                         <div class="card">
-                            <div class="card-image">
+                            <!--div class="card-image">
                                 <img src="img/expo/" alt="ProFit Logo" onerror="this.onerror=null;">
-                            </div>
+                            </div-->
                             <div class="card-content">
 
                                         <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">ProFit</h4>
                                         <div class="g-color--primary" id="call-session" onclick="show_overlay('ProFit')">View</div>
-                                   
+
                             </div>
                         </div>
                     </div>
                     <!-- Item -->
                     <div class=" col-md-2 co-xs-12 col-sm-6">
                         <div class="card">
-                            <div class="card-image">
+                            <!--div class="card-image">
                                 <img src="img/expo/" alt="Dessert Me Up Logo" onerror="this.onerror=null;">
-                            </div>
+                            </div-->
                             <div class="card-content">
                                     <span class="card-title">
                                         <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Dessert Me Up</h4>
@@ -353,9 +353,9 @@
                     <!-- Item -->
                     <div class=" col-md-2 co-xs-12 col-sm-6">
                         <div class="card">
-                            <div class="card-image">
+                            <!--div class="card-image">
                                 <img src="img/expo/" alt="Abhiyaan Logo" onerror="this.onerror=null;">
-                            </div>
+                            </div-->
                             <div class="card-content">
                                     <span class="card-title">
                                         <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Abhiyaan</h4>
@@ -367,9 +367,9 @@
                     <!-- Item -->
                     <div class=" col-md-2 co-xs-12 col-sm-6">
                         <div class="card">
-                            <div class="card-image">
+                            <!--div class="card-image">
                                 <img src="img/expo/" alt="Samvaay Logo" onerror="this.onerror=null;">
-                            </div>
+                            </div-->
                             <div class="card-content">
                                     <span class="card-title">
                                         <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Samvaay</h4>
@@ -381,9 +381,9 @@
                     <!-- Item -->
                     <div class=" col-md-2 co-xs-12 col-sm-6">
                         <div class="card">
-                            <div class="card-image">
+                            <!--div class="card-image">
                                 <img src="img/expo/" alt="CONTESTOPEDIA Logo" onerror="this.onerror=null;">
-                            </div>
+                            </div-->
                             <div class="card-content">
                                     <span class="card-title">
                                         <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">CONTESTOPEDIA</h4>
