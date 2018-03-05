@@ -520,7 +520,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
                                 </div>
                                 <div class="card-content">
                                     <span class="card-title">
-                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Inaugration</h4>
+                                        <h4 class="g-font-size-18--xs g-color--dark g-margin-b-5--xs">Inauguration</h4>
                                         <p class="g-color--dark">9<sup>th</sup> March, 18:00</p>
                                         <div class="g-color--primary" id="call-session" onclick="show_overlay('inaug')">View</div>
                                     </span>
@@ -790,7 +790,7 @@ if ( isset( $_POST['submitexpo'] ) ) {
         <!-- Atractions overlays-->
         <div class="overlay-session" id="inaug">
             <button onclick="hide_overlay('inaug')" id="close-session">X</button>
-            <h3><b>Inaugration</b></h3>
+            <h3 style="text-align:center;"><b>Inauguration</b></h3>
 
             <div class="container">
                 <div class="row guest">
