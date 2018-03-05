@@ -93,6 +93,10 @@
 									<img src="img/SponS/final/13.png" style="width:100%">
 										<figcaption>Automobile Partner</figcaption>
 								</figure>
+									  <figure>
+								        <img src="img/SponS/final/17.png" style="width:100%">
+								        <figcaption>Ecosystem Parter</figcaption>
+								    </figure>
 									
 								  </div>
 
@@ -102,7 +106,7 @@
 								        <figcaption>Event Partner</figcaption>
 								    </figure>
 								    <figure>
-								        <img src="img/SponS/final/4.png" style="width:100%">
+								        <img src="img/SponS/final/20.png" style="width:100%">
 								        <figcaption>Ecosystem Partner</figcaption>
 								    </figure>
 								    <figure>
@@ -113,6 +117,10 @@
 									<img src="img/SponS/final/14.png" style="width:100%">
 										  <figcaption>Diamond Sponsor</figcaption>
 										  </figure>
+									  <figure>
+								        <img src="img/SponS/final/19.png" style="width:100%">
+								        <figcaption>Ecosystem Parter</figcaption>
+								    </figure>
 									 
 								  </div>
 
@@ -133,6 +141,7 @@
 								        <img src="img/SponS/final/15.png" style="width:100%">
 								        <figcaption>Styling Partner</figcaption>
 								    </figure>
+									 
 									
 								  </div>
 
@@ -157,6 +166,7 @@
 								        <img src="img/SponS/final/16.png" style="width:100%">
 								        <figcaption>Merchandise Parter</figcaption>
 								    </figure>
+									  
 									
 								  </div>
 								 </div>
