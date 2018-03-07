@@ -83,7 +83,7 @@ if ( isset( $_POST['submit'] ) ) {
                                 <div class="clearfix">
                                     <div class="pull-left">
                                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
-                                            <span class="s-promo-block-v3__date g-font-size-100--xs g-font-size-135--lg g-font-weight--300 g-color--primary">15<span class="g-font-size-20--xs g-font-size-30--lg">K</span></span>
+                                            <span class="s-promo-block-v3__date g-font-size-100--xs g-font-size-135--lg g-font-weight--300 g-color--primary">8<span class="g-font-size-20--xs g-font-size-30--lg">K</span></span>
                                         </div>
                                     </div>
                                     <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".1s">
@@ -96,10 +96,7 @@ if ( isset( $_POST['submit'] ) ) {
                     </div>
                     <div class="col-sm-4 col-sm-pull-8">
                         <div class="wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".5s">
-                            <a href="#newform" title="Register">
-                                <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-arrow-down"></i>
-                                <span class="text-uppercase g-font-size-13--xs g-color--white g-padding-x-15--xs">Register Now!</span>
-                            </a>
+                           
                         </div>
                     </div>
                 </div>
@@ -180,25 +177,7 @@ if ( isset( $_POST['submit'] ) ) {
 
                 </ol>
             </div>
-            <div id="newform">
-                <form class="g-bg-color--dark-light g-padding-x-50--xs g-padding-y-80--xs g-radius--4" method="post" action="<?php echo $_SERVER['PHP_SELF'];?>">
-                    <div class="g-text-center--xs g-margin-b-40--xs" method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
-                        <h2 class="g-font-size-30--xs g-color--white">Join Event</h2>
-                    </div>
-                    <div class="g-margin-b-40--xs">
-                        <input type="text" class="form-control s-form-v3__input" placeholder="* Name" name="name">
-                    </div>
-                    <div class="g-margin-b-40--xs">
-                        <input type="email" class="form-control s-form-v3__input" placeholder="* Email" name="email">
-                    </div>
-                    <div class="g-margin-b-40--xs">
-                        <input type="text" class="form-control s-form-v3__input" placeholder="* Phone" name="phone">
-                    </div>
-                    <div class="g-text-center--xs">
-                        <button type="submit" class="text-uppercase btn-block s-btn s-btn--md s-btn--white-bg g-radius--50 g-padding-x-50--xs g-margin-b-20--xs" name="submit">Join Now</button>
-                    </div>
-                </form>
-            </div>
+            
         </div>
         <!-- End Coordinator -->
 
