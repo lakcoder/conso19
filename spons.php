@@ -78,7 +78,7 @@
 								<div class="w3-row-padding" id="myGrid" style="margin-bottom:0px">
 								  <div class="w3-quarter">
 								    <figure>
-								        <a href="http://znetlive.com/"><img src="img/SponS/final/2.png" style="width:100%"></a>
+								        <a href="http://znetlive.com/" target="_blank"><img src="img/SponS/final/2.png" style="width:100%"></a>
 								        <figcaption>Web Hosting Parter</figcaption>
 								    </figure>
 									<figure>
