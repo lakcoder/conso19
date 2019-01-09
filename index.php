@@ -17,133 +17,13 @@ if ( isset( $_POST['submitexpo'] ) ) {
 
 <!DOCTYPE html>
 <html lang="en" class="no-js">
-    <!-- Begin Head -->
-    <head>
-	    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113907534-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-113907534-1');
-</script>
-
-        <!-- Basic -->
-        <meta charset="utf-8"/>
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1">
-        <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Consortium'18 | E-CELL, VNIT</title>
-        <meta name="keywords" content="Ecell vnit E-cell VNIT entreprenuship cell consortium 18 2018 consortium'18 vnit consortium " />
-        <meta name="description" content="Consortium'18 E-CELL VNIT annual entrepreneurship summit">
-        <meta name="author" content="Vipul Wairagade">
-
-        <!-- Web Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
-
-        <!-- Vendor Styles -->
-        <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-        <link href="css/animate.css" rel="stylesheet" type="text/css"/>
-        <link href="vendor/themify/themify.css" rel="stylesheet" type="text/css"/>
-        <link href="vendor/scrollbar/scrollbar.min.css" rel="stylesheet" type="text/css"/>
-        <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css"/>
-        <link href="vendor/swiper/swiper.min.css" rel="stylesheet" type="text/css"/>
-        <link href="vendor/cubeportfolio/css/cubeportfolio.min.css" rel="stylesheet" type="text/css"/>
-
-
-        <!-- Theme Styles -->
-        <link href="css/style.css" rel="stylesheet" type="text/css"/>
-        <link href="css/materialize.css" rel="stylesheet" type="text/css"/>
-        <link href="css/overlay.css" rel="stylesheet" type="text/css"/>
-        <link href="css/global/global.css" rel="stylesheet" type="text/css"/>
-
-        <!-- Favicon -->
-        <link rel="shortcut icon" href="img/icon.png" type="image/x-icon">
-        <link rel="apple-touch-icon" href="img/icon.png">
-    </head>
-    <!-- End Head -->
+    <?php include("includes/head.php") ?>
 
     <!-- Body -->
     <body id="main">
+      <?php include("includes/header.php") ?>
+   <!--========== END HEADER V2 ==========-->
 
-        <!--========== HEADER ==========-->
-        <header class="navbar-fixed-top s-header js__header-sticky js__header-overlay">
-            <!-- Navbar -->
-            <div class="s-header__navbar">
-                <div class="s-header__container">
-                    <div class="s-header__navbar-row">
-                        <div class="s-header__navbar-row-col">
-                            <!-- Logo -->
-                            <div class="s-header__logo">
-                                <a href="#" class="s-header__logo-link">
-                                    <img class="s-header__logo-img s-header__logo-img-default" src="img/logo.png" alt="Consortium Logo">
-                                    <img class="s-header__logo-img s-header__logo-img-shrink" src="img/logo-conso.png" alt="Consortium Logo">
-                                </a>
-                            </div>
-                            <!-- End Logo -->
-                        </div>
-                        <div class="s-header__navbar-row-col">
-                            <!-- Trigger -->
-                            <a href="javascript:void(0);" class="s-header__trigger js__trigger">
-                                <span class="s-header__trigger-icon"></span>
-                                <svg x="0rem" y="0rem" width="3.125rem" height="3.125rem" viewbox="0 0 54 54">
-                                    <circle fill="transparent" stroke="#fff" stroke-width="1" cx="27" cy="27" r="25" stroke-dasharray="157 157" stroke-dashoffset="157"></circle>
-                                </svg>
-                            </a>
-                            <!-- End Trigger -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- End Navbar -->
-
-            <!-- Overlay -->
-            <div class="s-header-bg-overlay js__bg-overlay" id="overlay">
-                <!-- Nav -->
-                <nav class="s-header__nav js__scrollbar">
-                    <div class="container-fluid">
-
-                        <!-- Menu List -->
-                        <ul class="list-unstyled s-header__nav-menu">
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="#about">About</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="team.php">Team</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="#events">Events</a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="spons.php">Sponsors</a></li>
-
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="#contact">Contact Us</a></li>
-                        </ul>
-                        <!-- End Menu List -->
-                    </div>
-                </nav>
-                <!-- End Nav -->
-
-
-                <!-- Action -->
-                <ul class="list-inline s-header__action s-header__action--rb">
-                    <li class="s-header__action-item">
-                        <a class="s-header__action-link" href=" https://m.facebook.com/vnitecell/">
-                            <i class="g-padding-r-5--xs ti-facebook"></i>
-                            <span class="g-display-none--xs g-display-inline-block--sm">Facebook</span>
-                        </a>
-                    </li>
-                    <li class="s-header__action-item">
-                        <a class="s-header__action-link" href="https://twitter.com/ecell_vnit">
-                            <i class="g-padding-r-5--xs ti-twitter"></i>
-                            <span class="g-display-none--xs g-display-inline-block--sm">Twitter</span>
-                        </a>
-                    </li>
-                    <li class="s-header__action-item">
-                        <a class="s-header__action-link" href=" https://www.instagram.com/ecellvnit/">
-                            <i class="g-padding-r-5--xs ti-instagram"></i>
-                            <span class="g-display-none--xs g-display-inline-block--sm">Instagram</span>
-                        </a>
-                    </li>
-                </ul>
-                <!-- End Action -->
-            </div>
-            <!-- End Overlay -->
-        </header>
-        <!--========== END HEADER ==========-->
 
         <!--========== SWIPER SLIDER ==========-->
         <div class="s-swiper js__swiper-one-item">
@@ -180,6 +60,10 @@ if ( isset( $_POST['submitexpo'] ) ) {
             <!-- End Arrows -->
         </div>
         <!--========== END SWIPER SLIDER ==========-->
+
+        <div style="position:relative;height:0;padding-bottom:56.24%">
+          <iframe width="640" height="360" src="https://www.youtube.com/embed/gKfnDdUL-LE" style="position:absolute;width:100%;height:100%;left:0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
 
         <!--========== PAGE CONTENT ==========-->
         <!-- About -->
@@ -625,8 +509,6 @@ if ( isset( $_POST['submitexpo'] ) ) {
         <?php include("footer.php");?>
         <!--========== END FOOTER ==========-->
 
-        <!-- Back To Top -->
-        <a href="javascript:void(0);" class="s-back-to-top js__back-to-top"></a>
         <div class="overlay-session" id="yash">
             <button onclick="hide_overlay('yash')" id="close-session">X</button>
             <h3><b>Data Analytics by Yash Gandhi</b></h3>
